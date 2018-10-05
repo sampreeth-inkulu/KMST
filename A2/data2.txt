@@ -1,0 +1,2048 @@
+ label 	 spaceAgencyName 	 launchPlaceName 	 latLong 	 astroName 	 birthPlaceName 
+ STS-73 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn C. Thornton 	 Montgomery, Alabama 
+ UNIFORM-1 	 Wakayama University 	 Yoshinobu Launch Complex 				
+ Soyuz TMA-12M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Oleg Artemyev 	 Latvia 
+ Mercury-Redstone 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-16 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leland D. Melvin 	 Lynchburg, Virginia 
+ STS-45 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Foale 	 England 
+ SES-6 	 SES S.A. 	 Baikonur Cosmodrome 				
+ Luna 1 	 Soviet Union 	 Baikonur Cosmodrome Site 1 				
+ NOAA-17 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ STS-79 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl E. Walz 	 Cleveland, Ohio 
+ USA-227 	 National Reconnaissance Office 	 Cape Canaveral Air Force Station 				
+ STS-64 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry M. Linenger 	 East Detroit, Michigan 
+ Zond 8 	 Soviet Union 	 Baikonur Cosmodrome 				
+ Saturn I SA-2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Telstar 	 NASA 	 Cape Canaveral Air Force Station 				
+ SpaceX CRS-10 	 SpaceX 	 SLC-40 				
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ulrich Walter 	 Germany 
+ Kosmos 2443 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Progress M-16M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Lunar Orbiter 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard M. Linnehan 	 Lowell, Massachusetts 
+ Orbiting Carbon Observatory 2 	 NASA 	 Vandenberg Air Force Base 				
+ NSS-6 	 New Skies Satellites 	 ELA-2 				
+ Vanguard 2 	 Department of the Navy 	 Cape Canaveral Air Force Station 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alan G. Poindexter 	 Pasadena, California 
+ STS-28 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard N. Richards 	 Florida 
+ Pioneer 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-51-L 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory Jarvis 	 Detroit 
+ ESSA-9 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ STS-68 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terrence W. Wilcutt 	 Russellville, Kentucky 
+ OPUSAT 	 Osaka Prefecture University 	 Tanegashima Space Center 				
+ TDRS-5 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ SaudiSat-4 	 KACST 	 Dombarovsky (air base) 				
+ SERT-1 	 NASA 	 Wallops Flight Facility Launch Area 3 				
+ BSAT-2a 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ USA-214 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ Eutelsat 36A 	 Eutelsat 	 Cape Canaveral Air Force Station 				
+ Zond 3MV-1 No.2 	 OKB-1 	 Gagarin's Start 				
+ N-STAR a 	 SKY Perfect JSAT Group 	 ELA-2 				
+ Landsat 3 	 NASA 	 Vandenberg Air Force Base 				
+ TIMED 	 NASA 	 Vandenberg Air Force Base 				
+ Intelsat 15 	 Intelsat 	 Baikonur Cosmodrome Site 45 				
+ Intelsat II F-2 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ ICESat 	 NASA 	 Vandenberg Air Force Base 				
+ IRAS 	 Science and Engineering Research Council 	 Vandenberg Air Force Base 				
+ Apollo 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Wally Schirra 	 Hackensack, New Jersey 
+ UWE-2 	 University of Würzburg 	 Satish Dhawan Space Centre 				
+ Bulgaria 1300 	 Bulgarian Space Agency 	 Plesetsk Cosmodrome 				
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christopher Cassidy 	 Salem, Massachusetts 
+ TacSat-1 	 NRL 	 Omelek Island 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9606,100.279	 Jing Haipeng 	 Yuncheng 
+ Gemini 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Frank Borman 	 Gary, Indiana 
+ STS-57 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald J. Grabe 	 New York (state) 
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Douglas G. Hurley 	 New York (state) 
+ Upper Atmosphere Research Satellite 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Mariner 1 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ STS-69 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James S. Voss 	 Cordova, Alabama 
+ STS-79 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William F. Readdy 	 Quonset Point, Rhode Island 
+ PROBA 	 ESA 	 Satish Dhawan Space Centre 				
+ Smart Lander for Investigating Moon 	 JAXA 	 Uchinoura Space Center 				
+ Chollian 	 Korea Aerospace Research Institute 	 Guiana Space Centre 				
+ Galaxy 25 	 Intelsat 	 Baikonur Cosmodrome Site 81 				
+ STS-121 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael E. Fossum 	 Sioux Falls, South Dakota 
+ Hayabusa 	 JAXA 	 Uchinoura Space Center 				
+ Surveyor 7 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Orbiting Frog Otolith 	 NASA 	 Wallops Flight Facility Launch Area 3 				
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Lounge 	 Denver 
+ Explorer 7 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kosmos 2402 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alvin Drew 	 Washington, D.C. 
+ GeneSat-1 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Soyuz MS-02 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Sergey Nikolayevich Ryzhikov 	 Bugulma 
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ Pioneer 4 	 NASA 	 Cape Canaveral Air Force Station 				
+ Ekspress AT1 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome Site 81 				
+ Luna 2 	 Soviet Union 	 Baikonur Cosmodrome Site 1 				
+ PAS-22 	 Hughes Space and Communications 	 Baikonur Cosmodrome Site 81 				
+ Astra 1M 	 SES S.A. 	 Baikonur Cosmodrome 				
+ Nilesat 102 	 Nilesat 	 ELA-2 				
+ Kwangmyŏngsŏng-3 	 Korean Committee of Space Technology 	 Sohae Satellite Launching Station 				
+ STS-46 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey A. Hoffman 	 Brooklyn 
+ Intelsat II F-4 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen Frick 	 Pittsburgh 
+ STS-83 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald A. Thomas 	 Cleveland 
+ Universitetsky-Tatyana-2 	 Moscow State University 	 Baikonur Cosmodrome 				
+ Sputnik 3 	 S.P. Korolev Rocket and Space Corporation Energia 	 Baikonur Cosmodrome Site 1 				
+ STS-26 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard O. Covey 	 Fayetteville, Arkansas 
+ Soyuz TMA-20 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Intelsat 27 	 Intelsat 	 Pacific Ocean 				
+ SDS-1 	 JAXA 	 Tanegashima Space Center 				
+ Ralphie (satellite) 	 Space Test Program 	 Cape Canaveral Air Force Station 				
+ STS-61-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Lounge 	 Denver 
+ Star One C3 	 Star One (satellite operator) 	 Guiana Space Centre 				
+ STS-57 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nancy J. Currie 	 Wilmington, Delaware 
+ Voyager 2 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ WorldView-4 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ Jupiter Icy Moons Explorer 	 ESA 	 Guiana Space Centre 				
+ Cluster (spacecraft) 	 European Space Agency 	 Guiana Space Centre 				
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald A. Thomas 	 Cleveland 
+ Cygnus CRS Orb-3 	 Orbital Sciences Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-51 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William F. Readdy 	 Quonset Point, Rhode Island 
+ STS-53 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert D. Cabana 	 Minneapolis, Minnesota 
+ STS-64 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl J. Meade 	 Illinois 
+ STS-82 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott J. Horowitz 	 Pennsylvania 
+ STS-51-L 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christa McAuliffe 	 Boston, Massachusetts 
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sidney M. Gutierrez 	 Albuquerque, New Mexico 
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ WorldView-2 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ Skylab Rescue 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Vance D. Brand 	 Longmont, Colorado 
+ Rasad 1 	 Iranian Space Agency 	 Semnan Province 				
+ Kosmos 2397 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ Progress M1-10 	 Roskosmos 	 Gagarin's Start 				
+ Nimiq 5 	 Telesat Canada 	 Baikonur Cosmodrome 				
+ STS-53 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James S. Voss 	 Cordova, Alabama 
+ Progress M-04M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ Venera 9 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ Progress MS-12 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ STS-120 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Douglas H. Wheelock 	 Binghamton, New York 
+ Sirius FM-3 	 Sirius Satellite Radio 	 Baikonur Cosmodrome Site 81 				
+ UGATUSAT 	 Ufa State Aviation Technical University 	 Baikonur Cosmodrome 				
+ USA-64 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-41-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terry Hart 	 Pittsburgh, Pennsylvania 
+ STS-41-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert Crippen 	 Beaumont, Texas 
+ Fajr (satellite) 	 Iranian Space Agency 	 Semnan (city) 				
+ Exploration Mission 1 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ PSLV-C3 	 ISRO 	 Satish Dhawan Space Centre 				
+ USA-63 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ MightySat-2.1 	 AFRL 	 Vandenberg Air Force Base 				
+ Pioneer P-3 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-130 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nicholas Patrick 	 England 
+ STS-96 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Julie Payette 	 Montreal 
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Curtis Brown 	 Elizabethtown, North Carolina 
+ Astra 1K 	 SES Astra 	 Baikonur Cosmodrome Site 81 				
+ Cartosat-2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Himawari 8 	 Japan Meteorological Agency 	 Tanegashima Space Center 				
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Foreman (astronaut) 	 Columbus, Ohio 
+ STS-72 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Koichi Wakata 	 Ōmiya, Saitama 
+ Ocean Surface Topography Mission 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ Intelsat 8 	 Intelsat 	 Baikonur Cosmodrome 				
+ STS-41-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn D. Sullivan 	 New Jersey 
+ Galaxy 19 	 Intelsat 	 Odyssey (launch platform) 				
+ Ares I-X 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Takao Doi 	 Tokyo 
+ Discoverer 34 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Sentinel-1A 	 European Space Agency 	 Ensemble de Lancement Soyouz 				
+ INSAT-2E 	 Indian Space Research Organisation 	 ELA-2 				
+ TDRS-10 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-95 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen Robinson 	 Sacramento, California 
+ Yamal 201 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ USA-80 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Ranger 6 	 NASA 	 Cape Canaveral Air Force Station 				
+ EchoStar XIV 	 EchoStar 	 Baikonur Cosmodrome 				
+ Progress M-66 	 Roskosmos 	 Baikonur Cosmodrome 				
+ STS-39 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory J. Harbaugh 	 Cleveland 
+ STS-93 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Catherine Coleman 	 Charleston, South Carolina 
+ Mars Science Laboratory 	 NASA 	 Cape Canaveral Air Force Station 				
+ ATS-2 	 NASA 	 Cape Canaveral Air Force Station 				
+ AMC-5 	 GE Americom 	 ELA-2 				
+ ESSA-1 	 Environmental Science Services Administration 	 Cape Canaveral Air Force Station 				
+ STS-72 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel T. Barry 	 Norwalk, Connecticut 
+ STS-81 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael A. Baker 	 Memphis, Tennessee 
+ TAOS 	 AFRL 	 Vandenberg AFB 				
+ STS-74 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ USA-175 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Maritime Monitoring and Messaging Microsatellite 	 Canadian Space Agency 	 Satish Dhawan Space Centre 				
+ SES-2 	 SES S.A. 	 Guiana Space Centre 				
+ STS-124 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth Ham 	 Plainfield, New Jersey 
+ TanDEM-X 	 German Aerospace Center 	 Baikonur Cosmodrome Site 109 				
+ Inmarsat-4 F3 	 Inmarsat 	 Baikonur Cosmodrome 				
+ JCSAT-5A 	 SKY Perfect JSAT Group 	 Odyssey (launch platform) 				
+ IRNSS-1D 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Apollo–Soyuz Test Project 	 NASA 	 Kazakh Soviet Socialist Republic 				
+ Soyuz TMA-02M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-30 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David M. Walker (astronaut) 	 Columbus, Georgia 
+ PSLV-C1 	 ISRO 	 Satish Dhawan Space Centre 				
+ Vermont Lunar CubeSat 	 Vermont Technical College 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Ekspress AM7 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ DSN-2 	 SKY Perfect JSAT Group 	 Yoshinobu Launch Complex 				
+ AMC-8 	 GE Americom 	 Guiana Space Centre 				
+ STS-51 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel W. Bursch 	 Bristol, Pennsylvania 
+ USA-91 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ MoonRise 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ Ranger 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Iridium 7 	 Iridium Satellite LLC 	 Vandenberg Air Force Base 				
+ STS-29 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James P. Bagian 	 Philadelphia 
+ Venera 4 	 Lavochkin 	 Baikonur Cosmodrome Site 1 				
+ Discoverer 28 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Progress M-SO1 	 Roskosmos 	 Gagarin's Start 				
+ Ofek-10 	 Ministry of Defense (Israel) 	 Palmachim Airbase 				
+ SPICA (spacecraft) 	 European Space Agency 	 Tanegashima Space Center 				
+ AMSAT-OSCAR 7 	 AMSAT 	 Vandenberg Air Force Base 				
+ INSAT-4B 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ OSO 3 	 NASA 	 Cape Canaveral Air Force Station 				
+ Progress M-15M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ Kosmos 2475 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ USA-88 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ UoSAT-5 	 University of Surrey 	 ELA-2 				
+ Progress M1-2 	 Roskosmos 	 Gagarin's Start 				
+ Graham (satellite) 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-61 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Claude Nicollier 	 Switzerland 
+ USA-151 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Meteor-3M No.1 	 Roscosmos 	 Baikonur Cosmodrome Site 45 				
+ STS-126 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert S. Kimbrough 	 Killeen, Texas 
+ Gemini 12 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Buzz Aldrin 	 Glen Ridge, New Jersey 
+ Kosmos 2458 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ GSAT-15 	 ISRO 	 Guiana Space Centre 				
+ STS-31 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn D. Sullivan 	 Paterson, New Jersey 
+ Türksat 4B 	 Turksat (company) 	 Kazakhstan 				
+ Skylab 3 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jack R. Lousma 	 Grand Rapids, Michigan 
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jake Garn 	 Richfield, Utah 
+ INSAT-4E 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ STS-102 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Paul W. Richards 	 United States 
+ LISA Pathfinder 	 European Space Agency 	 Guiana Space Centre 				
+ SERVIS-1 	 Institute for Unmanned Space Experiment Free Flyer 	 Plesetsk Cosmodrome 				
+ USA-204 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ USA-223 	 National Reconnaissance Office 	 Cape Canaveral Air Force Station 				
+ Intelsat 14 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ High Energy Transient Explorer 	 NASA 	 Bucholz Army Airfield 				
+ EXOSAT 	 European Space Agency 	 Vandenberg Air Force Base 				
+ MESSENGER 	 National Aeronautics and Space Administration 	 Cape Canaveral Air Force Station 				
+ Mangalyaan 2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Eutelsat 16B 	 Eutelsat 	 ELA-2 				
+ STS-97 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marc Garneau 	 Canada 
+ Phootprint 	 European Space Agency 	 Guiana Space Centre 				
+ Jugnu (satellite) 	 Indian Institute of Technology Kanpur 	 Satish Dhawan Space Centre 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,71.4333	 Barry E. Wilmore 	 Murfreesboro, Tennessee 
+ STS-93 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eileen Collins 	 Elmira, New York 
+ Orbiting Astronomical Observatory 2 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Sunrise (telescope) 	 Max Planck Institute for Solar System Research 	 Esrange 				
+ Progress M-60 	 Roskosmos 	 Gagarin's Start 				
+ TUGSAT-1 	 Graz University of Technology 	 Satish Dhawan Space Centre 				
+ UAPSat-1 	 Universidad Alas Peruanas 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-56 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen Ochoa 	 California 
+ BIRD (satellite) 	 DLR Institute for Planetary Research 	 Satish Dhawan Space Centre 				
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey A. Hoffman 	 Brooklyn 
+ PRISMA (spacecraft) 	 Italian Space Agency 	 Guiana Space Centre 				
+ GSAT-17 	 Indian National Satellite System 	 Guiana Space Centre 				
+ STS-68 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Thomas David Jones 	 Baltimore, Maryland 
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,71.4333	 Aleksandr Samokutyayev 	 Russia 
+ STS-51-L 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dick Scobee 	 Cle Elum, Washington 
+ Apollo 17 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Harrison Schmitt 	 New Mexico 
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dafydd Williams 	 Saskatchewan 
+ IRS-P3 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Chandrayaan-2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ USA-226 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ Apollo 15 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alfred Worden 	 Jackson, Michigan 
+ Progress M-10M 	 Roskosmos 	 Gagarin's Start 				
+ Explorer 4 	 Army Ballistic Missile Agency 	 Cape Canaveral Air Force Station 				
+ ALOS-2 	 JAXA 	 Tanegashima Space Center 				
+ Progress M-05M 	 Roskosmos 	 Gagarin's Start 				
+ Aqua (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ STS-51 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James H. Newman 	 Federated States of Micronesia 
+ Yamal 102 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles J. Precourt 	 Waltham, Massachusetts 
+ Eutelsat 16C 	 Eutelsat 	 Baikonur Cosmodrome 				
+ Kosmos 2395 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ JCSAT-3 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Randolph Bresnik 	 Fort Knox 
+ STS-9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ulf Merbold 	 Greiz 
+ NOAA-4 	 NOAA 	 Vandenberg Air Force Base 				
+ Soyuz TM-20 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ Pioneer P-31 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William E. Thornton 	 North Carolina 
+ STS-51-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert F. Overmyer 	 Lorain, Ohio 
+ STS-37 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Linda M. Godwin 	 Cape Girardeau, Missouri 
+ GSAT-2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ IRNSS-1A 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-43 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James C. Adamson 	 Warsaw, New York 
+ STS-72 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leroy Chiao 	 Wisconsin 
+ Chang'e 6 	 China National Space Administration 	 Wenchang Satellite Launch Center 				
+ STS-111 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Philippe Perrin 	 Meknes 
+ STS-30 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark C. Lee 	 Viroqua, Wisconsin 
+ IKAROS 	 JAXA 	 Tanegashima Space Center 				
+ STS-94 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janice E. Voss 	 South Bend, Indiana 
+ SICRAL 1B 	 Telespazio 	 Odyssey (launch platform) 				
+ Soyuz TMA-20M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Resurs-P No.1 	 Roskosmos 	 Baikonur Cosmodrome 				
+ TD-1A 	 ESRO 	 Vandenberg Air Force Base 				
+ Progress M-07M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ STS-31 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bruce McCandless II 	 Boston 
+ Astra 2G 	 SES S.A. 	 Baikonur Cosmodrome 				
+ STS-70 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald A. Thomas 	 Cleveland 
+ Indian Venusian orbiter mission 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ STSAT-2C 	 Korea Aerospace Research Institute 	 Naro Space Center 				
+ STS-34 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen S. Baker 	 Fayetteville, North Carolina 
+ STS-70 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mary Ellen Weber 	 Cleveland 
+ Apstar-7 	 APT Satellite Holdings 	 Xichang Satellite Launch Center 				
+ Apollo 10 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eugene Cernan 	 Illinois 
+ Shijian XI-01 	 China Aerospace Science and Technology Corporation 	 Jiuquan Satellite Launch Center 				
+ STS-43 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 G. David Low 	 Cleveland 
+ Sentinel-1B 	 European Space Agency 	 Ensemble de Lancement Soyouz 				
+ Progress M-09M 	 Roskosmos 	 Gagarin's Start 				
+ Prospero (satellite) 	 Royal Aircraft Establishment 	 Woomera Launch Area 5 				
+ STS-57 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janice E. Voss 	 South Bend, Indiana 
+ USA-165 	 AFRL 	 Vandenberg Air Force Base 				
+ STS-76 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin P. Chilton 	 Los Angeles, California 
+ STS-5 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert F. Overmyer 	 Lorain, Ohio 
+ STS-88 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James H. Newman 	 Micronesia 
+ Progress M-46 	 Roskosmos 	 Gagarin's Start 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,79.0804	 Barry E. Wilmore 	 Murfreesboro, Tennessee 
+ Skynet 5D 	 Astrium Services 	 Guiana Space Centre 				
+ Progress M-24M 	 Roskosmos 	 Gagarin's Start 				
+ STS-71 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen S. Baker 	 Fayetteville, North Carolina 
+ USA-243 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Soyuz 2 (1968 mission) 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Pioneer 0 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ COSMO-1 	 Italian Space Agency 	 Vandenberg Air Force Base 				
+ Kosmos 2440 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Winston E. Scott 	 Miami 
+ Mars 96 	 Russian Federal Space Agency 	 Baikonur Cosmodrome 				
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andy Thomas 	 South Australia 
+ F-1 (satellite) 	 FPT University 	 Tanegashima Space Center 				
+ Progress M1-11 	 Roskosmos 	 Gagarin's Start 				
+ Explorer 9 	 NASA 	 Wallops Flight Facility Launch Area 3 				
+ Kosmos 2499 	 Government of Russia 	 Plesetsk Cosmodrome 				
+ Kosmos 2432 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Takao Doi 	 Japan 
+ Luna 3 	 OKB-1 	 Baikonur Cosmodrome Site 1 				
+ Foton-M No.4 	 Roskosmos 	 Baikonur Cosmodrome 				
+ Yamal 202 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ Superbird-B 	 Space Communications Corporation 	 ELA-2 				
+ USA-233 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-61 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn C. Thornton 	 Montgomery, Alabama 
+ CBERS-2B 	 China National Space Administration 	 Taiyuan Satellite Launch Center 				
+ STS-51-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Fabian 	 Baytown, Texas 
+ STS-51-I 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Lounge 	 Denver 
+ STS-82 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph R. Tanner 	 Illinois 
+ Telkom-3 	 PT Telekomunikasi Indonesia 	 Baikonur Cosmodrome Site 81 				
+ FTV-1132 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-130 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 George D. Zamka 	 Jersey City, New Jersey 
+ Apollo 11 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Collins (astronaut) 	 Kingdom of Italy 
+ Soyuz TMA-15 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Gemini 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Planck (spacecraft) 	 European Space Agency 	 Guiana Space Centre 				
+ Soyuz TMA-7 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Mars 7 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ EchoStar XV 	 EchoStar 	 Baikonur Cosmodrome 				
+ Soyuz TMA-06M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Kevin A. Ford 	 Portland, Indiana 
+ Astra 1A 	 SES S.A. 	 ELA-2 				
+ Yamal-401 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ OSIRIS-REx 	 NASA 	 Cape Canaveral Air Force Station 				
+ Explorer 33 	 NASA 	 Cape Canaveral Air Force Station 				
+ ZACube-1 	 Cape Peninsula University of Technology 	 Dombarovsky (air base) 				
+ Intelsat 604 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ FTV-2203 	 US Air Force 	 Point Arguello 				
+ STS-51-L 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Smith (astronaut) 	 Beaufort, North Carolina 
+ STS-64 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Susan Helms 	 Charlotte, North Carolina 
+ Progress M-12M 	 Roskosmos 	 Gagarin's Start 				
+ Superbird-B3 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ Kosmos 2435 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ SERVIS-2 	 Institute for Unmanned Space Experiment Free Flyer 	 Plesetsk Cosmodrome 				
+ USA-5 	 US Air Force 	 Vandenberg Air Force Base 				
+ Vanguard 3 	 Department of the Navy 	 Cape Canaveral Air Force Station 				
+ STSAT-2A 	 Korea Aerospace Research Institute 	 Naro Space Centre 				
+ Venera 12 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome Site 81 				
+ USA-132 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Navstar 7 	 US Air Force 	 Vandenberg Air Force Base 				
+ Luna 4 	 Soviet Union 	 Baikonur Cosmodrome Site 1 				
+ FalconSAT-2 	 United States Air Force Academy 	 Omelek Island 				
+ UK-DMC 	 UK Space Agency 	 Plesetsk Cosmodrome 				
+ Progress M-62 	 Roskosmos 	 Gagarin's Start 				
+ IRS-P2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Kosmos 167 	 Lavochkin 	 Baikonur Cosmodrome Site 1 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,79.0804	 Barry E. Wilmore 	 Murfreesboro, Tennessee 
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard N. Richards 	 Florida 
+ STS-99 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janet L. Kavandi 	 Springfield, Missouri 
+ STS-41-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Gibson 	 Cooperstown, New York 
+ Telkom-2 	 PT Telkom 	 Guiana Space Centre 				
+ OPS 5114 	 US Air Force 	 Vandenberg Air Force Base 				
+ Mariner 9 	 JPL 	 Cape Canaveral Air Force Station 				
+ AMC-6 	 GE Americom 	 Baikonur Cosmodrome Site 81 				
+ TurkmenAlem52E/MonacoSAT 	 Turkmenistan National Space Agency 	 Cape Canaveral Air Force Station 				
+ NigComSat-1 	 NIGCOMSAT 	 Xichang Satellite Launch Centre 				
+ STS-104 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael L. Gernhardt 	 Mansfield, Ohio 
+ GSAT-8 	 ISRO 	 Guiana Space Centre 				
+ Apollo 16 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ken Mattingly 	 Chicago 
+ Progress MS-05 	 Roscosmos State Corporation 	 Baikonur Cosmodrome 				
+ Dual segmented Langmuir probe 	 ESA 	 Plesetsk Cosmodrome 				
+ Cygnus CRS OA-5 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Progress M-67 	 Roskosmos 	 Baikonur Cosmodrome 				
+ OPS 5117 	 US Air Force 	 Vandenberg Air Force Base 				
+ STS-51-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gary Payton (astronaut) 	 Rock Island, Illinois 
+ NSS-7 	 New Skies Satellites 	 ELA-2 				
+ Discoverer 37 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Apollo 13 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STS-8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dale Gardner 	 Fairmont, Minnesota 
+ Soyuz TMA-19M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-94 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael L. Gernhardt 	 Mansfield, Ohio 
+ Alexander (satellite) 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ JCSAT-2A 	 SKY Perfect JSAT Group 	 ELA-2 				
+ Kosmos 2481 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ Gemini 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mars Cube One 	 NASA 	 Vandenberg Air Force Base 				
+ Intelsat 5 	 Intelsat 	 Baikonur Cosmodrome Site 81 				
+ USA-212 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ USA-166 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ GSAT-3 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-99 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mamoru Mohri 	 Japan 
+ Kosmos 2477 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ PROBA2 	 European Space Agency 	 Plesetsk Cosmodrome 				
+ Intelsat 603 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ JEM-EUSO 	 JAXA 	 Tanegashima Space Center 				
+ TacSat-3 	 AFRL 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ XSS 10 	 AFRL 	 Cape Canaveral Air Force Station 				
+ ICESat-2 	 NASA 	 Vandenberg Air Force Base 				
+ Kosmos 2473 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ RASAT 	 State Planning Organization (Turkey) 	 Dombarovsky (air base) 				
+ SpaceX CRS-14 	 SpaceX 	 SLC-40 				
+ Eutelsat 70B 	 Eutelsat 	 Odyssey (launch platform) 				
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Smith (astronaut) 	 Phoenix, Arizona 
+ Progress M-18M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Yamal-300K 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ Astra 5B 	 SES S.A. 	 Guiana Space Centre 				
+ STS-8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel Brandenstein 	 Watertown, Wisconsin 
+ PSLV-C34 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-59 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Linda M. Godwin 	 Cape Girardeau, Missouri 
+ High Energy Astronomy Observatory 1 	 NASA 	 Launch Complex 36 				
+ POLDER 	 CNES 	 Tanegashima Space Center 				
+ AS-105 (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mariner 8 	 JPL 	 Cape Canaveral Air Force Station 				
+ STS-100 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Chris Hadfield 	 Ontario 
+ STS-89 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael P. Anderson 	 Plattsburgh (city), New York 
+ USA-126 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ USA-230 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jean-François Clervoy 	 Longeville-lès-Metz 
+ STS-70 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin R. Kregel 	 Amityville, New York 
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles Camarda 	 Queens 
+ SpaceX CRS-5 	 NASA 	 Cape Canaveral Air Force Station 				
+ SpaceX CRS-9 	 SpaceX 	 Cape Canaveral Air Force Station 				
+ INSAT-3A 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ STS-32 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel Brandenstein 	 Watertown, Wisconsin 
+ STS-69 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David M. Walker (astronaut) 	 Columbus, Georgia 
+ Euclid (spacecraft) 	 ESA 	 Ensemble de Lancement Soyouz 				
+ STS-86 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Bloomfield 	 Flint, Michigan 
+ Pegasus 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Venera 14 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ Soyuz TMA-19 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ MightySat-1 	 AFRL 	 Kennedy Space Center Launch Complex 39 				
+ EgyptSat 1 	 National Authority for Remote Sensing and Space Sciences 	 Baikonur Cosmodrome Site 109 				
+ Mars 4 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ GSAT-7 	 ISRO 	 Guiana Space Centre 				
+ Apollo 9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David Scott 	 San Antonio 
+ STS-120 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephanie Wilson 	 Massachusetts 
+ ETS-VIII 	 Nippon Telegraph and Telephone 	 Tanegashima Space Center 				
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 F. Drew Gaffney 	 Carlsbad, New Mexico 
+ JCSAT-2B 	 SKY Perfect JSAT Group 	 Cape Canaveral Air Force Station 				
+ Venera 5 	 Lavochkin 	 Baikonur Cosmodrome Site 1 				
+ STS-61-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Gibson 	 Cooperstown, New York 
+ Pioneer 10 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Massimino 	 Oceanside, New York 
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen S. Oswald 	 Seattle 
+ Ranger 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Eutelsat 115 West B 	 Eutelsat 	 Cape Canaveral Air Force Station 				
+ Gemini 3 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Gus Grissom 	 Mitchell, Indiana 
+ ROSAT 	 German Aerospace Center 	 Cape Canaveral Air Force Station 				
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen Ochoa 	 California 
+ Apollo 6 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STS-41 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert D. Cabana 	 Minneapolis 
+ Progress M-58 	 Roskosmos 	 Gagarin's Start 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kalpana Chawla 	 Haryana 
+ STS-108 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel M. Tani 	 Ridley Park, Pennsylvania 
+ STS-58 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William S. McArthur 	 Laurinburg 
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Smith (astronaut) 	 Phoenix, Arizona 
+ Telstar 401 	 AT&T Corporation 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Tianhui 1B 	 China Aerospace Science and Technology Corporation 	 Jiuquan Satellite Launch Center 				
+ European Lunar Explorer 	 ARCA (NGO) 	 High-altitude balloon 				
+ Radarsat-1 	 Canadian Space Agency 	 Vandenberg Air Force Base 				
+ Meridian 3 	 VKS 	 Plesetsk Cosmodrome 				
+ BSAT-1a 	 Broadcasting Satellite System Corporation 	 ELA-2 				
+ STS-61-M 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Loren Shriver 	 Jefferson, Iowa 
+ TacSat-4 	 AFRL 	 Kodiak Launch Complex 				
+ Türksat 1A 	 Turksat (company) 	 ELA-2 				
+ TeikyoSat-3 	 Teikyo University 	 Tanegashima Space Center 				
+ SES-5 	 SES S.A. 	 Baikonur Cosmodrome Site 81 				
+ Meridian 4 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ Skylab 2 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Paul J. Weitz 	 Erie, Pennsylvania 
+ USA-85 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Millie Hughes-Fulford 	 Mineral Wells, Texas 
+ USA-203 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Voskhod 2 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Progress M-28M 	 Roscosmos 	 Gagarin's Start 				
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey A. Hoffman 	 Brooklyn 
+ Trailblazer (satellite) 	 Missile Defense Agency 	 Omelek Island 				
+ STS-8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Guion Bluford 	 Philadelphia, Pennsylvania 
+ Explorer 8 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ STS-119 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Swanson 	 Syracuse, New York 
+ JCSAT-4B 	 SKY Perfect JSAT Group 	 Guiana Space Center 				
+ NOAA-18 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen S. Oswald 	 Seattle, Washington 
+ Kosmos 2465 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-91 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Valery Ryumin 	 Komsomolsk-on-Amur 
+ JCSAT-RA 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ Ørsted (satellite) 	 Danish Meteorological Institute 	 Vandenberg Air Force Base 				
+ USA-240 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin R. Kregel 	 Amityville, New York 
+ ESRO 2B 	 ESRO 	 Vandenberg Air Force Base 				
+ IRS-1D 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Venera 3 	 OKB-1 	 Baikonur Cosmodrome 				
+ Türksat 1B 	 Turksat (company) 	 ELA-2 				
+ Apollo 8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William Anders 	 Hong Kong 
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Walker 	 Bedford, Indiana 
+ STS-63 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janice E. Voss 	 South Bend, Indiana 
+ Sputnik 2 	 OKB-1 	 Baikonur Cosmodrome Site 1 				
+ SAARC Satellite 	 ISRO 	 Satish Dhawan Space Centre 				
+ Ariel 1 	 Science and Engineering Research Council 	 Cape Canaveral Air Force Station 				
+ UoSAT-2 	 University of Surrey 	 Vandenberg Air Force Base 				
+ Luna 17 	 Soviet Union 	 Baikonur Cosmodrome 				
+ Vinasat-2 	 Vietnam Posts and Telecommunications Group 	 Guiana Space Centre 				
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eileen Collins 	 Elmira, New York 
+ Kedr 	 RKK Energia 	 Gagarin's Start 				
+ Kosmos 2155 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ TDRS-3 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STRaND-1 	 Surrey Space Centre 	 Satish Dhawan Space Centre 				
+ STS-56 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen S. Oswald 	 Seattle 
+ Gemini 10 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 John Young (astronaut) 	 San Francisco 
+ STS-132 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Garrett Reisman 	 Morristown, New Jersey 
+ INSAT-1A 	 Indian Space Research Organisation 	 Cape Canaveral Air Force Station 				
+ Superbird-A2 	 SKY Perfect JSAT Group 	 Cape Canaveral Air Force Station 				
+ Miniature X-ray Solar Spectrometer CubeSat 	 Laboratory for Atmospheric and Space Physics 	 Kennedy Space Center 				
+ Apollo 10 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John Young (astronaut) 	 California 
+ GSAT-19E 	 INSAT 	 Satish Dhawan Space Centre Second Launch Pad 				
+ IRS-P1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ STS-130 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen Robinson 	 Sacramento, California 
+ Progress MS-04 	 Roscosmos State Corporation 	 Baikonur Cosmodrome 				
+ Orion 3 	 Loral Space & Communications 	 Cape Canaveral Air Force Station 				
+ Ulysses (spacecraft) 	 European Space Agency 	 Kennedy Space Center Launch Complex 39 				
+ Kosmos 2514 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome Site 43 				
+ Pioneer 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kosmos 2467 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ PSLV-D3 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-48 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark N. Brown 	 Valparaiso, Indiana 
+ UoSAT-3 	 University of Surrey 	 ELA-2 				
+ Opportunity (rover) 	 NASA 	 Cape Canaveral Air Force Station 				
+ Gemini 10 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Michael Collins (astronaut) 	 Rome 
+ High Energy Astronomy Observatory 3 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Soyuz TMA-6 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,79.0804	 Aleksandr Samokutyayev 	 Russia 
+ E-st@r 	 Polytechnic University of Turin 	 Guiana Space Centre 				
+ Landsat 6 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ Ikonos 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ PLATO (spacecraft) 	 ESA 	 Ensemble de Lancement Soyouz 				
+ STS-115 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel C. Burbank 	 Manchester, Connecticut 
+ STS-51-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Loren Acton 	 Lewistown, Montana 
+ Saturn I SA-5 	 NASA 	 Cape Canaveral Air Force Station 				
+ KSAT-2 	 Kagoshima University 	 Tanegashima Space Center 				
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bryan D. O'Connor 	 Orange, California 
+ Ekspress AM5 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome Site 81 				
+ USA-199 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-95 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pedro Duque 	 Spain 
+ FTV-1126 	 United States Air Force 	 Vandenberg Air Force Base 				
+ HTV-1 	 Japan Aerospace Exploration Agency 	 Tanegashima Space Center 				
+ Superbird-A1 	 SSL (company) 	 ELA-2 				
+ Quantum Experiments at Space Scale 	 Chinese Academy of Science 	 Jiuquan Satellite Launch Center 				
+ STS-51-L 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Judith Resnik 	 Akron, Ohio 
+ Gemini 8 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 David Scott 	 San Antonio 
+ STS-79 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terrence W. Wilcutt 	 Russellville, Kentucky 
+ European Retrievable Carrier 	 ESA 	 Kennedy Space Center Launch Complex 39 				
+ Soyuz TMA-07M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Chris Hadfield 	 Sarnia 
+ Lunar Orbiter 3 	 NASA 	 Cape Canaveral Air Force Station 				
+ Iridium 33 	 Iridium Satellite LLC 	 Baikonur Cosmodrome Site 81 				
+ Venus Express 	 European Space Agency 	 Baikonur Cosmodrome 				
+ SpaceX CRS-2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Earth Observing-1 	 NASA 	 Vandenberg Air Force Base 				
+ ARSAT-2 	 ARSAT 	 Guiana Space Centre 				
+ Cygnus CRS OA-7 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Niwaka 	 Fukuoka Institute of Technology 	 Tanegashima Space Center 				
+ Saturn I SA-1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kosmos 2381 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ TechSat-21 	 AFRL 	 Cape Canaveral Air Force Station 				
+ USA-205 	 Missile Defense Agency 	 Vandenberg Air Force Base 				
+ Mercury-Atlas 10 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Alan Shepard 	 New Hampshire 
+ STS-64 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark C. Lee 	 Viroqua, Wisconsin 
+ Tele-X 	 Nordic Satellite AB 	 Guiana Space Centre 				
+ Kosmos 2396 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-76 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael R. Clifford 	 Norton Air Force Base 
+ STS-51-J 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald J. Grabe 	 New York (state) 
+ Explorer 49 	 NASA 	 Cape Canaveral Air Force Station 				
+ Sapphire (satellite) 	 Department of National Defence (Canada) 	 Satish Dhawan Space Centre 				
+ Explorer 6 	 NASA 	 Cape Canaveral Air Force Station 				
+ Intelsat 24 	 Intelsat 	 ELA-2 				
+ Discoverer 36 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Soyuz TMA-18 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ CloudSat 	 NASA 	 Vandenberg Air Force Base 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leland D. Melvin 	 Lynchburg, Virginia 
+ Waseda-SAT2 	 Waseda University 	 Tanegashima Space Center 				
+ Progress M-25M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Duane G. Carey 	 Saint Paul, Minnesota 
+ STS-121 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Lisa Nowak 	 Washington, D.C. 
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dafydd Williams 	 Saskatchewan 
+ Big Joe 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ INSAT-2DT 	 Arab Satellite Communications Organization 	 ELA-2 				
+ STS-51-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Anna Lee Fisher 	 New York City 
+ Himawari 9 	 Japan Meteorological Agency 	 Tanegashima Space Center 				
+ GOES 2 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ STS-119 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic A. Antonelli 	 Detroit 
+ Soyuz TMA-15M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Anton Shkaplerov 	 Crimea 
+ STS-51-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 C. Gordon Fullerton 	 Rochester, New York 
+ NEXTSat 	 DARPA 	 Cape Canaveral Air Force Station 				
+ Apollo 15 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David Scott 	 San Antonio 
+ CryoSat-1 	 European Space Agency 	 Plesetsk Cosmodrome 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leonid Kadeniuk 	 Chernivtsi Oblast 
+ CHAMP (satellite) 	 German Aerospace Centre 	 Plesetsk Cosmodrome 				
+ Progress M-11M 	 Roskosmos 	 Gagarin's Start 				
+ Surveyor 6 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ VesselSat-1 	 Orbcomm 	 Satish Dhawan Space Centre 				
+ Sirius FM-2 	 Sirius Satellite Radio 	 Baikonur Cosmodrome Site 81 				
+ SpaceX CRS-3 	 NASA 	 Cape Canaveral Air Force Station 				
+ A-001 	 NASA 	 White Sands Missile Range 				
+ STS-88 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ STS-61-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Wubbo Ockels 	 Netherlands 
+ Kitsat-3 	 KAIST 	 Sriharikota Launching Range 				
+ Discoverer 32 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-104 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles O. Hobaugh 	 Bar Harbor, Maine 
+ Soyuz TMA-03M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-97 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph R. Tanner 	 Illinois 
+ STS-43 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John E. Blaha 	 San Antonio 
+ AS-104 (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-71 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bonnie J. Dunbar 	 Sunnyside, Washington 
+ STS-128 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Patrick G. Forrester 	 El Paso, Texas 
+ STS-41-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 George Nelson (astronaut) 	 Charles City, Iowa 
+ Skylab 4 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gerald P. Carr 	 Colorado 
+ STS-45 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dirk Frimout 	 Poperinge 
+ STS-132 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth Ham 	 Plainfield, New Jersey 
+ STS-70 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nancy J. Currie 	 Wilmington, Delaware 
+ Progress M-53 	 Roskosmos 	 Gagarin's Start 				
+ Yamal-402 	 Gazprom Space Systems 	 Baikonur Cosmodrome 				
+ Mariner 5 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ STS-33 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sonny Carter 	 Macon, Georgia 
+ OREX 	 NASDA 	 Tanegashima Space Center 				
+ WorldView-3 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ Soyuz TMA-01M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Progress MS-07 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ Progress M-63 	 Roskosmos 	 Gagarin's Start 				
+ Vostok 2 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Apollo 9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rusty Schweickart 	 Neptune Township, New Jersey 
+ Curiosity (rover) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-108 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Linda M. Godwin 	 Cape Girardeau, Missouri 
+ Progress MS-11 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ Earth Radiation Budget Satellite 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Thor 5 	 Telenor 	 Baikonur Cosmodrome 				
+ Kosmos 2460 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Astra 2C 	 SES S.A. 	 Baikonur Cosmodrome Site 81 				
+ Omid 	 Iranian Space Agency 	 Semnan (city) 				
+ Soyuz TMA-05M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ JCSAT-2 	 JSAT Corporation 	 Cape Canaveral Air Force Station 				
+ Johannes Kepler ATV 	 European Space Agency 	 Guiana Space Centre 				
+ Gemini 12 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Jim Lovell 	 Cleveland 
+ Progress M-50 	 Roskosmos 	 Gagarin's Start 				
+ USA-206 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-54 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Susan Helms 	 Charlotte, North Carolina 
+ Saturn I SA-4 	 NASA 	 Cape Canaveral Air Force Station 				
+ Ofek-9 	 Ministry of Defense (Israel) 	 Palmachim Airbase 				
+ STS-58 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John E. Blaha 	 San Antonio, Texas 
+ Soyuz TMA-17M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Compass-1 	 Fachhochschule Aachen 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Apollo 17 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald Evans (astronaut) 	 St. Francis, Kansas 
+ USA-156 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ BSAT-2c 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ Apollo 17 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eugene Cernan 	 Illinois 
+ STS-126 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald Pettit 	 Silverton, Oregon 
+ STS-51-J 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David C. Hilmers 	 Clinton, Iowa 
+ USA-94 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Kosmos 2444 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Intelsat 601 	 Intelsat 	 ELA-2 				
+ STS-41-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Walker 	 Bedford, Indiana 
+ USA-1 (satellite) 	 US Air Force 	 Vandenberg Air Force Base 				
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tracy Caldwell Dyson 	 Arcadia, California 
+ Hayato (satellite) 	 Kagoshima University 	 Tanegashima Space Center 				
+ EarthCARE 	 ESA 	 Ensemble de Lancement Soyouz 				
+ EduSAT 	 Sapienza University of Rome 	 Dombarovsky (air base) 				
+ INSAT-4A 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ Lituanica SAT-2 	 Vilnius University 	 Yasny Cosmodrome 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9606,100.298	 Jing Haipeng 	 Yuncheng 
+ NOAA-7 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ CBERS-1 	 China National Space Administration 	 Taiyuan Satellite Launch Center 				
+ Horizons-1 	 Intelsat 	 Ocean Odyssey 				
+ Discoverer 19 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Progress M-20M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ AAUSAT3 	 University of Aalborg 	 Satish Dhawan Space Centre 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael P. Anderson 	 Plattsburgh (city), New York 
+ Eutelsat 33C 	 Eutelsat 	 Guiana Space Centre 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ USA-87 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-81 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marsha Ivins 	 Baltimore, Maryland 
+ Van Allen Probes 	 NASA 	 Cape Canaveral Air Force Station 				
+ Venera 1 	 OKB-1 	 Baikonur Cosmodrome Site 1 				
+ Progress M-26M 	 Roskosmos 	 Gagarin's Start 				
+ Kosmos 605 	 Institute of Biomedical Problems 	 Plesetsk Cosmodrome 				
+ Kosmos 2133 	 VKS 	 Baikonur Cosmodrome 				
+ Soyuz TM-30 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ SpaceX CRS-1 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-62 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marsha Ivins 	 Baltimore, Maryland 
+ AGILE (satellite) 	 Italian Space Agency 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Kosmos 2480 	 GRU 	 Plesetsk Cosmodrome 				
+ STS-38 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Gemar 	 Yankton, South Dakota 
+ Greenhouse Gases Observing Satellite 	 JAXA 	 Tanegashima Space Center 				
+ Dynamics Explorer 	 NASA 	 Vandenberg Air Force Base 				
+ STS-63 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eileen Collins 	 Elmira, New York 
+ STS-119 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph M. Acaba 	 United States 
+ Progress M-MIM2 	 Roskosmos 	 Gagarin's Start 				
+ STS-73 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael López-Alegría 	 Spain 
+ Kosmos 2175 	 VKS 	 Plesetsk Cosmodrome 				
+ Garuda 1 	 ACeS 	 Baikonur Cosmodrome Site 81 				
+ Spektr-R 	 Astro Space Center (Russia) 	 Baikonur Cosmodrome Site 45 				
+ STS-95 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott E. Parazynski 	 Little Rock, Arkansas 
+ Soyuz 4 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Vladimir Shatalov 	 Petropavl 
+ Nahuel 1A 	 AR-SAT 	 ELA-2 				
+ STS-104 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James F. Reilly 	 Idaho 
+ STS-112 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Piers Sellers 	 United Kingdom 
+ AMC-7 	 SES S.A. 	 Guiana Space Centre 				
+ Gemini 4 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 James McDivitt 	 Chicago 
+ STS-119 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John L. Phillips 	 Fort Belvoir 
+ USA-49 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Telstar 14 	 Telesat 	 Odyssey (launch platform) 				
+ Thaicom 6 	 Thaicom 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-06M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Oleg Novitskiy 	 Chervyen’ 
+ STS-135 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christopher Ferguson 	 Pennsylvania 
+ Progress M1-3 	 Roskosmos 	 Gagarin's Start 				
+ Kosmos 2426 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Globus-1M No.12L 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ XMM-Newton 	 European Space Agency 	 Guiana Space Centre 				
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Lawrence J. DeLucas 	 Syracuse, New York 
+ SpaceX CRS-7 	 NASA 	 Cape Canaveral Air Force Station 				
+ O/OREOS 	 NASA 	 Kodiak Launch Complex 				
+ Pioneer 5 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-80 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tamara E. Jernigan 	 Chattanooga, Tennessee 
+ Moon Mineralogy Mapper 	 NASA 	 Satish Dhawan Space Centre 				
+ PSLV-C5 	 ISRO 	 Satish Dhawan Space Centre 				
+ Swarm (spacecraft) 	 ESA 	 Plesetsk Cosmodrome Site 133 				
+ Progress M-59 	 Roskosmos 	 Gagarin's Start 				
+ PSSC-2 	 United States Air Force 	 Kennedy Space Center Launch Complex 39 				
+ STS-82 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark C. Lee 	 Viroqua, Wisconsin 
+ Telstar 12 	 Telesat 	 ELA-2 				
+ STS-101 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott J. Horowitz 	 Pennsylvania 
+ GSAT-9 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Kosmos 2229 	 Institute of Biomedical Problems 	 Plesetsk Cosmodrome 				
+ STS-115 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph R. Tanner 	 Illinois 
+ Ekspress AM6 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome Site 81 				
+ Kosmos 2483 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ STS-54 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald R. McMonagle 	 Flint, Michigan 
+ Zond 6 	 Soviet Union 	 Baikonur Cosmodrome Site 81 				
+ Türksat 2A 	 Turksat (company) 	 ELA-2 				
+ STS-102 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James M. Kelly (astronaut) 	 Burlington, Iowa 
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen Frick 	 Pittsburgh 
+ San Marco 1 	 Consiglio Nazionale delle Ricerche 	 Wallops Flight Facility Launch Area 3 				
+ STS-9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Byron K. Lichtenberg 	 Jim Thorpe, Pennsylvania 
+ Hypersonic Flight Experiment 	 ISRO 	 Satish Dhawan Space Centre 				
+ GOES-G 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ Pioneer 6, 7, 8, and 9 	 National Aeronautics and Space Administration 	 Cape Canaveral Air Force Station 				
+ Luch 5B 	 Roskosmos 	 Baikonur Cosmodrome Site 81 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,79.0804	 Yelena Serova 	 Ussuriysk 
+ Chang'e 5 	 China National Space Administration 	 Wenchang Satellite Launch Center 				
+ ST-1 	 Chunghwa Telecom 	 ELA-2 				
+ Cornell University Satellite 	 AFRL 	 Vandenberg Air Force Base 				
+ SumbandilaSat 	 University of Stellenbosch 	 Baikonur Cosmodrome 				
+ Soyuz TMA-17 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-62 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pierre J. Thuot 	 Groton, Connecticut 
+ Soyuz TMA-1 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ Gemini 9A 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Thomas P. Stafford 	 Oklahoma 
+ STS-89 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Salizhan Sharipov 	 Uzgen 
+ Intelsat 28 	 Intelsat 	 Guiana Space Centre 				
+ Star One B4 	 Star One (satellite operator) 	 ELA-2 				
+ Proba-3 	 ESA 	 Guiana Space Centre 				
+ Venera 10 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ Dove-2 	 Planet Labs 	 Baikonur Cosmodrome 				
+ Ranger 4 	 NASA 	 Cape Canaveral Air Force Station 				
+ AMC-4 	 GE Americom 	 ELA-2 				
+ Mercury-Redstone 3 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Alan Shepard 	 Derry, New Hampshire 
+ Ekspress MD1 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ Kosmos 1894 	 VKS 	 Baikonur Cosmodrome 				
+ MEASAT-3a 	 MEASAT Satellite Systems 	 Baikonur Cosmodrome Site 45 				
+ Kosmos 2394 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jean-Jacques Favier 	 Kehl 
+ Cygnus CRS OA-10E 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Ekspress-AMU1 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ STS-82 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory J. Harbaugh 	 Cleveland, Ohio 
+ STS-59 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael R. Clifford 	 California 
+ Apollo 10 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Thomas P. Stafford 	 Oklahoma 
+ Intelsat 20 	 Intelsat 	 Guiana Space Centre 				
+ Soyuz TMA-13M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Maksim Surayev 	 Soviet Union 
+ Progress M-19M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Astra 2D 	 SES S.A. 	 Guiana Space Centre 				
+ Skynet 5A 	 Paradigm Secure Communications 	 Guiana Space Centre 				
+ STS-135 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sandra Magnus 	 Belleville, Illinois 
+ USA-96 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-106 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Boris Morukov 	 Soviet Russia 
+ STS-92 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William S. McArthur 	 Laurinburg 
+ Explorer 3 	 Army Ballistic Missile Agency 	 Cape Canaveral Air Force Station 				
+ Cygnus CRS OA-8E 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ USA-195 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-134 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Roberto Vittori 	 Viterbo 
+ Zond 5 	 Soviet Union 	 Baikonur Cosmodrome 				
+ STS-131 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Naoko Yamazaki 	 Japan 
+ STS-61 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard O. Covey 	 Fayetteville, Arkansas 
+ STS-96 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen Ochoa 	 California 
+ Delfi-C3 	 Delft University of Technology 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Lunar Orbiter 5 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-45 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Byron K. Lichtenberg 	 Pennsylvania 
+ GSAT-16 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Foale 	 Louth, Lincolnshire 
+ Mars Geyser Hopper 	 NASA 	 Florida, USA 				
+ STS-95 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Chiaki Mukai 	 Tatebayashi, Gunma 
+ INSAT-3C 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory H. Johnson 	 United Kingdom 
+ Skylab Rescue 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Don L. Lind 	 Midvale, Utah 
+ Superbird-B2 	 SKY Perfect JSAT Group 	 ELA-2 				
+ Kosmos 482 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ STS-116 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nicholas Patrick 	 England 
+ Türksat 3A 	 Turksat (company) 	 Guiana Space Centre 				
+ Suzaku (satellite) 	 Institute of Space and Astronautical Science 	 Uchinoura Space Center 				
+ Galaxy 10R 	 Intelsat 	 ELA-2 				
+ STS-46 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marsha Ivins 	 Baltimore 
+ Superbird-C2 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ STS-49 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin P. Chilton 	 California 
+ Kounotori 2 	 JAXA 	 Tanegashima Space Center 				
+ ROBUSTA 	 Centre Spatial Universitaire Montpellier-Nîmes 	 Guiana Space Centre 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terence T. Henricks 	 Bryan, Ohio 
+ Uhuru (satellite) 	 NASA 	 Broglio Space Centre 				
+ STS-126 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christopher Ferguson 	 Pennsylvania 
+ NOAA-19 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David C. Hilmers 	 Clinton, Iowa 
+ Progress M-06M 	 Roskosmos 	 Gagarin's Start 				
+ Sakigake 	 Institute of Space and Astronautical Science 	 Uchinoura Space Center 				
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Samuel T. Durrance 	 Tallahassee, Florida 
+ STS-41-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sally Ride 	 California 
+ Discoverer 27 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Badr-4 	 Arab Satellite Communications Organization 	 Baikonur Cosmodrome 				
+ INSAT-4CR 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Discoverer 18 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Raijin-2 	 Tohoku University 	 Tanegashima Space Center 				
+ Eutelsat 21B 	 Eutelsat 	 Guiana Space Centre 				
+ Mars Hope 	 Mohammed bin Rashid Space Centre 	 Tanegashima Space Center 				
+ OPS 5112 	 US Air Force 	 Vandenberg Air Force Base 				
+ Samos 2 	 United States Air Force 	 Point Arguello 				
+ STS-91 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic L. Pudwill Gorie 	 Lake Charles, Louisiana 
+ NSS-9 	 SES S.A. 	 Guiana Space Centre 				
+ Galaxy 17 	 Intelsat 	 Guiana Space Centre 				
+ Intelsat 708 	 Intelsat 	 Xichang Satellite Launch Center 				
+ Gemini 4 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Edward Higgins White 	 San Antonio 
+ Apollo 16 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John Young (astronaut) 	 California 
+ STS-84 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Yelena Kondakova 	 Russian SFSR 
+ RazakSAT 	 Astronautic Technology (M) Sdn. Bhd. 	 Omelek Island 				
+ IRS-1B 	 Indian Space Research Organisation 	 Baikonur Cosmodrome 				
+ Luna 21 	 Soviet Union 	 Baikonur Cosmodrome 				
+ SES-9 	 SES S.A. 	 Cape Canaveral Air Force Station 				
+ STS-100 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Umberto Guidoni 	 Italy 
+ Soyuz 11 	 Soviet space program 	 Gagarin's Start 	45.9203,63.3422	 Vladislav Volkov 	 Moscow 
+ STS-51-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven R. Nagel 	 Canton, Illinois 
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Lindsey 	 Arcadia, California 
+ Bion-M No.1 	 Russian Academy of Sciences 	 Baikonur Cosmodrome 				
+ UniBRITE-1 	 University of Vienna 	 Satish Dhawan Space Centre 				
+ STS-85 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Curtis Brown 	 Elizabethtown, North Carolina 
+ Soyuz TMA-13 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Michael Fincke 	 Pittsburgh 
+ AS-101 (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rick Husband 	 Amarillo, Texas 
+ Intelsat 35e 	 Intelsat 	 SLC-40 				
+ Vostok 1 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Telstar 301 	 AT&T Corporation 	 Cape Canaveral Air Force Station 				
+ Ekspress AM4 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ Progress M1-5 	 Russian Federal Space Agency 	 Gagarin's Start 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin R. Kregel 	 Amityville, New York 
+ Exploration of Energization and Radiation in Geospace 	 JAXA 	 Uchinoura Space Center 				
+ STEX 	 National Reconnaissance Office 	 Vandenberg AFB 				
+ AsiaSat 8 	 AsiaSat 	 Cape Canaveral Air Force Station 				
+ Beagle 2 	 European Space Agency 	 Baikonur Cosmodrome 				
+ Mars 5 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ STS-44 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James S. Voss 	 Cordova, Alabama 
+ Angara-1.2pp 	 Khrunichev State Research and Production Space Center 	 Plesetsk Cosmodrome 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rex J. Walheim 	 Redwood City, California 
+ STS-9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert A. Parker 	 New York City 
+ Soyuz TMA-5 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Explorer 17 	 NASA 	 Cape Canaveral Air Force Station 				
+ Pad Abort Test 1 	 NASA 	 White Sands Missile Range 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,71.4333	 Barry E. Wilmore 	 Murfreesboro, Tennessee 
+ BSAT-4a 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ PROCYON 	 University of Tokyo 	 Tanegashima Space Center 				
+ Progress M-64 	 Roskosmos 	 Gagarin's Start 				
+ Kosmos 2413 	 Russian Space Forces 	 Baikonur Cosmodrome 				
+ Nimiq-4 	 Telesat Canada 	 Baikonur Cosmodrome 				
+ Spirit (rover) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-62 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andrew M. Allen 	 Richboro, Pennsylvania 
+ Chang'e 1 	 China National Space Administration 	 Xichang Satellite Launch Center 				
+ PSLV-C4 	 ISRO 	 Satish Dhawan Space Centre 				
+ Sunjammer (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ Chang'e 3 	 China National Space Administration 	 Xichang Satellite Launch Center 				
+ Kosmos 2478 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ WIND (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-130 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn P. Hire 	 Mobile, Alabama 
+ STS-80 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kent Rominger 	 Del Norte, Colorado 
+ STS-29 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert C. Springer 	 St. Louis, Missouri 
+ Kosmos 2411 	 Russian Space Forces 	 Baikonur Cosmodrome 				
+ Intelsat III F-3 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ Pujiang-1 	 Shanghai Academy of Spaceflight Technology 	 Jiuquan Satellite Launch Center 				
+ Inmarsat-4A F4 	 Inmarsat 	 Guiana Space Centre 				
+ Mikhailo Lomonosov (satellite) 	 Moscow State University 	 Vostochny Cosmodrome 				
+ USA-71 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,79.0804	 Aleksandr Samokutyayev 	 Russia 
+ Progress M-22M 	 Roskosmos 	 Gagarin's Start 				
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles O. Hobaugh 	 Bar Harbor, Maine 
+ Progress MS-09 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ Soyuz TMA-4 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Azerspace-1/Africasat-1a 	 Azercosmos 	 Guiana Space Centre 				
+ STS-101 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James S. Voss 	 Cordova, Alabama 
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James P. Bagian 	 Philadelphia 
+ JCSAT-15 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ Artemis (satellite) 	 European Space Agency 	 Guiana Space Centre 				
+ Eutelsat 113 West A 	 Satmex 	 Guiana Space Centre 				
+ USA-178 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-80 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Story Musgrave 	 Massachusetts 
+ Mercury-Atlas 6 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 John Glenn 	 Cambridge, Ohio 
+ Apollo 11 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Buzz Aldrin 	 Glen Ridge, New Jersey 
+ STSAT-2B 	 Korea Aerospace Research Institute 	 Naro Space Center 				
+ STS-53 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael R. Clifford 	 California 
+ Sentinel-2A 	 European Space Agency 	 Guiana Space Centre 				
+ STS-77 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Curtis Brown 	 Elizabethtown, North Carolina 
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard A. Searfoss 	 Michigan 
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald J. Grabe 	 New York City 
+ Courier 1B 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ Telstar 14R 	 Telesat 	 Baikonur Cosmodrome 				
+ Banxing 	 China Aerospace Science and Technology Corporation 	 Jiuquan Satellite Launch Center 				
+ GOES 1 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ Progress M-27M 	 Roscosmos 	 Baikonur Cosmodrome 				
+ Kosmos 2412 	 Russian Space Forces 	 Baikonur Cosmodrome 				
+ Samos 4 	 US Air Force 	 Point Arguello 				
+ TecSAR 	 Israel Aerospace Industries 	 Satish Dhawan Space Centre 				
+ CASSIOPE 	 MacDonald, Dettwiler and Associates 	 Vandenberg Air Force Base 				
+ USA-117 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Resurs-P No.2 	 Roskosmos 	 Baikonur Cosmodrome 				
+ Badr-1 	 Space and Upper Atmosphere Research Commission 	 Xichang Satellite Launch Center 				
+ Landsat 2 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ STS-96 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel T. Barry 	 Norwalk, Connecticut 
+ Skynet 5C 	 Paradigm Secure Communications 	 Guiana Space Centre 				
+ Deimos-2 	 Deimos Space 	 Dombarovsky (air base) 				
+ SSOT (satellite) 	 Chilean Air Force 	 Ensemble de Lancement Soyouz 				
+ OPS 5118 	 US Air Force 	 Vandenberg Air Force Base 				
+ Soyuz 7 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Cygnus CRS Orb-2 	 Orbital Sciences Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-53 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David M. Walker (astronaut) 	 Columbus, Georgia 
+ Landsat 1 	 NASA 	 Vandenberg Air Force Base 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stanley G. Love 	 San Diego 
+ STS-121 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Piers Sellers 	 Crowborough 
+ STS-6 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Story Musgrave 	 Massachusetts 
+ STS-38 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl J. Meade 	 Chanute Air Force Base 
+ EchoStar VI 	 EchoStar 	 Cape Canaveral Air Force Station 				
+ Eutelsat 33E 	 Eutelsat 	 Guiana Space Centre 				
+ STS-99 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic L. Pudwill Gorie 	 Lake Charles, Louisiana 
+ SpaceX CRS-18 	 SpaceX 	 SLC-40 				
+ BSAT-3c 	 SKY Perfect JSAT Group 	 Guiana Space Center 				
+ OPS 5113 	 US Air Force 	 Vandenberg Air Force Base 				
+ Luch 5A 	 Roskosmos 	 Baikonur Cosmodrome Site 81 				
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Chiaki Mukai 	 Japan 
+ Discoverer 16 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-63 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Foale 	 England 
+ STS-88 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nancy J. Currie 	 Wilmington, Delaware 
+ STS-39 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald R. McMonagle 	 Flint, Michigan 
+ ITF-1 	 Tsukuba University 	 Tanegashima Space Center 				
+ Mercury-Redstone 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ GPS IIR-1 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Exploration Flight Test 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Göktürk-1 	 Ministry of National Defence (Turkey) 	 Guiana Space Centre 				
+ STS-51-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dale Gardner 	 Fairmont, Minnesota 
+ STS-76 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Linda M. Godwin 	 Cape Girardeau, Missouri 
+ Kosmos 379 	 Soviet Union 	 Baikonur Cosmodrome 				
+ STS-51-J 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Karol J. Bobko 	 New York (state) 
+ SES-3 	 SES S.A. 	 Baikonur Cosmodrome 				
+ Gemini 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Jim Lovell 	 Cleveland 
+ Space Flyer Unit 	 Institute of Space and Astronautical Science 	 Tanegashima Space Center 				
+ Ziyuan III-01 	 Ministry of Land and Resources of the People's Republic of China 	 Taiyuan Satellite Launch Center 				
+ Venera 2MV-1 No.2 	 OKB-1 	 Gagarin's Start 				
+ DirecTV-11 	 DirecTV 	 Odyssey (launch platform) 				
+ Heweliusz (satellite) 	 Space Research Centre 	 Taiyuan Satellite Launch Center 				
+ STS-96 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rick Husband 	 Amarillo, Texas 
+ BSAT-1b 	 JSAT Corporation 	 ELA-2 				
+ ARGOS (satellite) 	 AFRL 	 Vandenberg Air Force Base 				
+ Aquarius (SAC-D instrument) 	 NASA 	 Vandenberg Air Force Base 				
+ Progress M-29M 	 Roscosmos 	 Gagarin's Start 				
+ Proba-V 	 European Space Agency 	 Guiana Space Centre 				
+ Venera 2 	 OKB-1 	 Baikonur Cosmodrome 				
+ Solar Maximum Mission 	 NASA 	 Cape Canaveral Air Force Station 				
+ Arabsat-1A 	 Arab Satellite Communications Organization 	 Guiana Space Centre 				
+ STS-57 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 G. David Low 	 Cleveland 
+ USA-244 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-128 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John D. Olivas 	 Los Angeles 
+ Solar Dynamics Observatory 	 NASA 	 Cape Canaveral Air Force Station 				
+ Intelsat 26 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ Navid (satellite) 	 Iranian Space Agency 	 Semnan (city) 				
+ STS-124 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Karen L. Nyberg 	 Parkers Prairie, Minnesota 
+ SMART-1 	 European Space Agency 	 Guiana Space Centre 				
+ STS-116 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William Oefelein 	 Fort Belvoir, Virginia 
+ STS-115 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christopher Ferguson 	 Pennsylvania 
+ SpaceX CRS-19 	 SpaceX 	 SLC-40 				
+ STS-84 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jean-François Clervoy 	 Longeville-lès-Metz 
+ Meteor-M No.1 	 Roscosmos 	 Baikonur Cosmodrome 				
+ Soyuz TMA-13M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Alexander Gerst 	 Germany 
+ STS-38 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert C. Springer 	 Missouri 
+ Ekspress A3 	 Eutelsat 	 Baikonur Cosmodrome 				
+ STS-130 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Behnken 	 Creve Coeur, Missouri 
+ STS-36 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David C. Hilmers 	 Clinton, Iowa 
+ USA-177 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-93 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michel Tognini 	 Vincennes 
+ Kosmos 2345 	 VKS 	 Baikonur Cosmodrome 				
+ Wilkinson Microwave Anisotropy Probe 	 National Aeronautics and Space Administration 	 Cape Canaveral Air Force Station 				
+ Amazonas 3 	 Hispasat 	 Guiana Space Centre 				
+ Gemini 6A 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Wally Schirra 	 Hackensack, New Jersey 
+ Elektro-L No.2 	 Roskosmos 	 Baikonur Cosmodrome Site 45 				
+ Cosmos 1 	 Planetary Society 	 Barents Sea 				
+ Gemini 5 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Pete Conrad 	 Philadelphia 
+ USA-221 	 United States Air Force Academy 	 Kodiak Launch Complex 				
+ ADM-Aeolus 	 ESA 	 Guiana Space Centre 				
+ Ginga (satellite) 	 Institute of Space and Astronautical Science 	 Uchinoura Space Center 				
+ Skylab 2 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pete Conrad 	 Philadelphia 
+ AMC-21 	 SES World Skies 	 Guiana Space Centre 				
+ STS-7 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Fabian 	 Goose Creek, Texas 
+ BILSAT-1 	 TÜBİTAK Space Technologies Research Institute 	 Plesetsk Cosmodrome 				
+ Soyuz 8 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Vladimir Shatalov 	 Petropavl 
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Roberta Bondar 	 Sault Ste. Marie, Ontario 
+ Kosmos 2468 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ Lunar Orbiter 4 	 NASA 	 Cape Canaveral Air Force Station 				
+ Foton-M No.2 	 European Space Agency 	 Baikonur Cosmodrome Site 1 				
+ Intelsat 3R 	 Intelsat 	 ELA-2 				
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven R. Nagel 	 Canton, Illinois 
+ STS-5 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Vance D. Brand 	 Longmont, Colorado 
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott Kelly (astronaut) 	 New Jersey 
+ Astrosat 	 ISRO 	 Satish Dhawan Space Centre First Launch Pad 				
+ Brasilsat B2 	 Embratel 	 ELA-2 				
+ STS-120 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 George D. Zamka 	 Jersey City, New Jersey 
+ Soyuz TMA-10 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Meridian 5 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ STS-32 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jim Wetherbee 	 Flushing, Queens 
+ Surveyor 4 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Prowler (satellite) 	 National Reconnaissance Office 	 Kennedy Space Center Launch Complex 39 				
+ IRNSS-1B 	 ISRO 	 Satish Dhawan Space Centre 				
+ Mars Observer 	 JPL 	 Cape Canaveral Air Force Station 				
+ Meteosat 8 	 ESA 	 Guiana Space Centre 				
+ Kosmos 2434 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Kosmos 212 	 OKB-1 	 Baikonur Cosmodrome 				
+ Discoverer 17 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-68 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel W. Bursch 	 Bristol, Pennsylvania 
+ STS-51-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Anthony W. England 	 Indianapolis 
+ Meridian 2 	 VKS 	 Plesetsk Cosmodrome 				
+ Sputnik 1 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Ariel 6 	 Science and Engineering Research Council 	 Wallops Flight Facility Launch Area 3 				
+ Apollo 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ PasComSat 	 US Air Force 	 Vandenberg Air Force Base 				
+ STS-99 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin R. Kregel 	 Amityville, New York 
+ GOES 10 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ Progress MS-01 	 Roscosmos 	 Baikonur Cosmodrome 				
+ Pioneer 11 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ilan Ramon 	 Israel 
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sherwood C. Spring 	 Hartford, Connecticut 
+ Kosmos 2431 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Soyuz TMA-12 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-61-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven R. Nagel 	 Canton, Illinois 
+ EChO 	 ESA 	 Centre Spatial Guyanais 				
+ Pad Abort 1 (Orion) 	 NASA 	 White Sands Missile Range 				
+ Progress M1-7 	 Roskosmos 	 Gagarin's Start 				
+ Progress M-03M 	 Roskosmos 	 Gagarin's Start 				
+ Ranger 9 	 NASA 	 Cape Canaveral Air Force Station 				
+ Colorado Student Space Weather Experiment 	 Laboratory for Atmospheric and Space Physics 	 Vandenberg Air Force Base 				
+ Agila-1 	 Mabuhay Satellite Corporation 	 Cape Canaveral Air Force Station 				
+ INSAT-4C 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Discoverer 33 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-6 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Paul J. Weitz 	 Erie, Pennsylvania 
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bonnie J. Dunbar 	 Sunnyside, Washington 
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Barratt (astronaut) 	 Vancouver, Washington 
+ NanoSail-D2 	 NASA 	 Kodiak Launch Complex 				
+ AsiaSat 6 	 AsiaSat 	 Cape Canaveral Air Force Station 				
+ E.Deorbit 	 ESA 	 Guiana Space Centre 				
+ USA-92 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Susan Helms 	 Charlotte, North Carolina 
+ Mercury-Atlas 5 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-26 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David C. Hilmers 	 Clinton, Iowa 
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jean-François Clervoy 	 France 
+ USA-66 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ SELENE 	 JAXA 	 Tanegashima Space Center 				
+ STS-61-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Reinhard Furrer 	 Austria 
+ STS-71 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Gibson 	 Cooperstown, New York 
+ Eutelsat I F-1 	 European Space Agency 	 Guiana Space Centre 				
+ STS-58 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard A. Searfoss 	 Mount Clemens, Michigan 
+ Galaxy 15 	 Intelsat 	 Guiana Space Centre 				
+ Magnetospheric Multiscale Mission 	 NASA 	 Cape Canaveral Air Force Station 				
+ Hispasat 1C 	 Hispasat 	 Cape Canaveral Air Force Station 				
+ STS-62 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Gemar 	 Yankton, South Dakota 
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Grunsfeld 	 Chicago 
+ Soyuz TMA-11 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Koronas-Foton 	 National Research Nuclear University   MEPhI   	 Plesetsk Cosmodrome 				
+ MOST (satellite) 	 Canadian Space Agency 	 Plesetsk Cosmodrome 				
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James M. Kelly (astronaut) 	 Burlington, Iowa 
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott Altman 	 Lincoln, Illinois 
+ Apollo 14 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Edgar Mitchell 	 Hereford 
+ Midcourse Space Experiment 	 Ballistic Missile Defense Organization 	 Vandenberg Air Force Base 				
+ STS-49 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pierre J. Thuot 	 Connecticut 
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andrew J. Feustel 	 Lancaster, Pennsylvania 
+ Sky Muster 	 National Broadband Network 	 Guiana Space Centre 				
+ Aura (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ STS-132 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael T. Good 	 Parma, Ohio 
+ Zond 7 	 Soviet Union 	 Baikonur Cosmodrome 				
+ Skynet 5B 	 Paradigm Secure Communications 	 Guiana Space Centre 				
+ STS-41-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mike Mullane 	 Wichita Falls, Texas 
+ Mercury-Atlas 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Scott Carpenter 	 Boulder, Colorado 
+ Amos-4 	 Spacecom 	 Baikonur Cosmodrome Site 45 				
+ STS-56 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth D. Cameron 	 Cleveland 
+ Intelsat 36 	 Intelsat 	 Guiana Space Center 				
+ NOAA-16 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ GOES 7 	 National Oceanic and Atmospheric Administration 	 Cape Canaveral Air Force Station 				
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Samuel T. Durrance 	 Tallahassee, Florida 
+ STS-106 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel C. Burbank 	 Manchester, Connecticut 
+ Intelsat 1R 	 Intelsat 	 Guiana Space Centre 				
+ AMC-14 	 SES Americom 	 Baikonur Cosmodrome 				
+ Badr (satellite) 	 SUPARCO 	 Baikonur Cosmodrome Site 45 				
+ STEREO 	 NASA 	 Cape Canaveral Air Force Station 				
+ ITUpSAT1 	 ITU School of Aeronautics and Astronautics 	 Satish Dhawan Space Centre 				
+ SES-7 	 SES World Skies 	 Baikonur Cosmodrome 				
+ STS-126 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Heidemarie Stefanyshyn-Piper 	 Saint Paul, Minnesota 
+ Kosmos 2472 	 GRU 	 Plesetsk Cosmodrome 				
+ Exploration Mission 2 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Progress M-13M 	 Roskosmos 	 Gagarin's Start 				
+ STS-93 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Hawley 	 Ottawa, Kansas 
+ Apollo 8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frank Borman 	 Gary, Indiana 
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Grunsfeld 	 Chicago 
+ Kounotori 4 	 JAXA 	 Tanegashima Space Center 				
+ Apollo 14 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alan Shepard 	 New Hampshire 
+ Ariel 2 	 Science and Engineering Research Council 	 Wallops Flight Facility Launch Area 3 				
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald R. McMonagle 	 Flint, Michigan 
+ STS-34 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald E. Williams 	 Lafayette, Indiana 
+ Cartosat-2C 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Pioneer P-1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Solar Mesosphere Explorer 	 NASA 	 Vandenberg Air Force Base 				
+ Soyuz TMA-08M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Pavel Vinogradov 	 USSR 
+ Lunar Lander (space mission) 	 ESA 	 Guiana Space Centre 				
+ Venera 2MV-1 No.1 	 OKB-1 	 Gagarin's Start 				
+ EgyptSat 2 	 National Authority for Remote Sensing and Space Sciences 	 Baikonur Cosmodrome 				
+ Soyuz 3 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Georgy Beregovoy 	 Poltava Oblast 
+ Edoardo Amaldi ATV 	 European Space Agency 	 Guiana Space Centre 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Massimino 	 New York City 
+ STS-45 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Brian Duffy (astronaut) 	 Boston, Massachusetts 
+ Discoverer 1 	 US Air Force 	 Vandenberg Air Force Base 				
+ TDRS-8 	 NASA 	 Cape Canaveral Air Force Station 				
+ Progress MS-03 	 Roscosmos State Corporation 	 Baikonur Cosmodrome 				
+ STS-85 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bjarni Tryggvason 	 Iceland 
+ Soyuz TMA-22 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ USA-100 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Kosmos 2474 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ Progress MS-02 	 Roscosmos 	 Baikonur Cosmodrome 				
+ Mariner 4 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ Yamal 203 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9606,100.279	 Chen Dong (astronaut) 	 Luoyang 
+ Yamal-601 	 Gazprom Space Systems 	 Baikonur Cosmodrome 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9606,100.298	 Chen Dong (astronaut) 	 Luoyang 
+ PSLV-C6 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Heat Capacity Mapping Mission 	 NASA 	 Vandenberg AFB 				
+ STS-117 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John D. Olivas 	 Los Angeles 
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Curtis Brown 	 Elizabethtown, North Carolina 
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Umberto Guidoni 	 Italy 
+ Soyuz TMA-07M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Roman Romanenko 	 Soviet Union 
+ SCORE (satellite) 	 Defense Advanced Research Projects Agency 	 Cape Canaveral Air Force Station 				
+ AMC-1 	 GE Americom 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ ASTRO (satellite) 	 DARPA 	 Cape Canaveral Air Force Station 				
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Karol J. Bobko 	 New York City 
+ Göktürk-2 	 Ministry of National Defence (Turkey) 	 Jiuquan Satellite Launch Center 				
+ USA-192 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Cygnus CRS OA-11 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ TIROS-2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Gravity and Extreme Magnetism 	 NASA 	 Cape Canaveral Air Force Station 				
+ Progress M-01M 	 Roskosmos 	 Gagarin's Start 				
+ Hot Bird 13B 	 Eutelsat 	 Baikonur Cosmodrome 				
+ Kwangmyŏngsŏng-4 	 National Aerospace Development Administration 	 Sohae Satellite Launching Station 				
+ Landsat 4 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ NOAA-B 	 NOAA 	 Vandenberg Air Force Base 				
+ STS-41 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard N. Richards 	 Key West 
+ Mars Polar Lander 	 JPL 	 Cape Canaveral Air Force Station Space Launch Complex 17 				
+ N-SAT-110 	 SKY Perfect JSAT Group 	 ELA-2 				
+ N-STAR b 	 SKY Perfect JSAT Group 	 ELA-2 				
+ Apollo 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Donn F. Eisele 	 Columbus, Ohio 
+ Astra 1D 	 SES S.A. 	 ELA-2 				
+ Clementine (spacecraft) 	 NASA 	 Vandenberg Air Force Base 				
+ STS-88 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick W. Sturckow 	 La Mesa, California 
+ OPS 0855 	 US Air Force 	 Cape Canaveral Air Force Station Launch Complex 40 				
+ Soyuz TMA-13M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Gregory R. Wiseman 	 Baltimore 
+ NEE-01 Pegaso 	 Ecuadorian Civilian Space Agency 	 Jiuquan Satellite Launch Center 				
+ Helios (spacecraft) 	 German Aerospace Center 	 Cape Canaveral Air Force Station Space Launch Complex 41 				
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory C. Johnson 	 Seattle 
+ Fobos-Grunt 	 Russian Federal Space Agency 	 Baikonur Cosmodrome Site 45 				
+ Vostok 3 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Kosmos 2476 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ S-45A 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ STS-44 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Thomas J. Hennen 	 Albany, Georgia 
+ STS-113 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael López-Alegría 	 Madrid 
+ USA-168 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ MAVEN 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kosmos 2403 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Progress M-44 	 Roskosmos 	 Gagarin's Start 				
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bryan D. O'Connor 	 Orange, California 
+ STS-57 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Brian Duffy (astronaut) 	 Boston, Massachusetts 
+ GISAT-1 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Soyuz TMA-10M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-72 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Winston E. Scott 	 Miami 
+ Kosmos 2380 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Lunar Prospector 	 NASA 	 Cape Canaveral Air Force Station 				
+ PSLV-D2 	 ISRO 	 Satish Dhawan Space Centre 				
+ PSLV-D1 	 ISRO 	 Satish Dhawan Space Centre 				
+ INSAT-3B 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ Sirius FM-5 	 Sirius XM Radio 	 Baikonur Cosmodrome 				
+ STS-58 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Martin J. Fettman 	 Brooklyn 
+ STS-41-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bruce McCandless II 	 Boston, Massachusetts 
+ USA-183 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-08M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Christopher Cassidy 	 Salem, Massachusetts 
+ VENµS 	 CNES 	 Guiana Space Centre 				
+ STS-88 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert D. Cabana 	 Minneapolis, Minnesota 
+ Nozomi (spacecraft) 	 JAXA 	 Uchinoura Space Center 				
+ Kosmos 2251 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ STS-92 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leroy Chiao 	 Wisconsin 
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Norman Thagard 	 Florida 
+ Progress M1-1 	 Roskosmos 	 Gagarin's Start 				
+ Solar Orbiter 	 European Space Agency 	 Cape Canaveral Air Force Station 				
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Claude Nicollier 	 Switzerland 
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Hans Schlegel 	 Überlingen 
+ SpaceX CRS-12 	 SpaceX 	 SLC-40 				
+ Progress M-61 	 Roskosmos 	 Gagarin's Start 				
+ Progress M1-6 	 Roskosmos 	 Gagarin's Start 				
+ TIROS-1 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mary L. Cleave 	 Southampton, New York 
+ Venus Spectral Rocket Experiment 	 NASA 	 White Sands Missile Range 				
+ Kitsat-2 	 KAIST Satellite Technology Research Center 	 Guiana Space Centre 				
+ OSO 7 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-116 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christer Fuglesang 	 Stockholm 
+ Vostok 4 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ SBS 6 (satellite) 	 Intelsat 	 ELA-2 				
+ JCSAT-3A 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ SpaceX CRS-6 	 NASA 	 Cape Canaveral Air Force Station 				
+ UK-DMC 2 	 UK Space Agency 	 Baikonur Cosmodrome Site 109 				
+ SNAP-1 	 Surrey Satellite Technology Ltd 	 Plesetsk Cosmodrome 				
+ Discoverer 26 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Yinghuo-1 	 China National Space Administration 	 Baikonur Cosmodrome Site 45 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9675,100.279	 Chen Dong (astronaut) 	 Luoyang 
+ STS-32 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 G. David Low 	 Cleveland, Ohio 
+ Kosmos 2350 	 VKS 	 Baikonur Cosmodrome 				
+ Sina-1 	 Iranian Space Agency 	 Plesetsk Cosmodrome 				
+ USA-128 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ AS-202 	 NASA 	 Cape Canaveral Air Force Station 				
+ Yutu (rover) 	 China National Space Administration 	 Xichang Satellite Launch Center 				
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Gibson 	 Long Beach, California 
+ Earth Observing-3 	 NASA 	 Cape Canaveral Air Force Station 				
+ Intelsat 16 	 Intelsat 	 Baikonur Cosmodrome 				
+ CryoSat-2 	 European Space Agency 	 Baikonur Cosmodrome Site 109 				
+ USA-229 	 National Reconnaissance Office 	 Vandenberg Air Force Base 				
+ Cygnus CRS Orb-1 	 Orbital Sciences Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-98 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark L. Polansky 	 Paterson, New Jersey 
+ AO-51 	 AMSAT 	 Baikonur Cosmodrome Site 109 				
+ Progress M-47 	 Roskosmos 	 Gagarin's Start 				
+ Giotto (spacecraft) 	 European Space Agency 	 Guiana Space Centre 				
+ AMC-3 	 GE Americom 	 Cape Canaveral Air Force Station 				
+ GOES 3 	 NOAA 	 Cape Canaveral Air Force Station 				
+ JCSAT-16 	 SKY Perfect JSAT Group 	 Cape Canaveral Air Force Station 				
+ Progress M1-4 	 Roskosmos 	 Gagarin's Start 				
+ Gaia (spacecraft) 	 European Space Agency 	 Ensemble de Lancement Soyouz 				
+ STS-61-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David C. Hilmers 	 Clinton, Iowa 
+ AS-102 (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mercury-Atlas 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Eutelsat 5 West A 	 Eutelsat 	 Guyana Space Centre 				
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Foreman (astronaut) 	 Columbus, Ohio 
+ Soil Moisture and Ocean Salinity 	 ESA 	 Plesetsk Cosmodrome 				
+ TDRS-6 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Progress M-23M 	 Roskosmos 	 Gagarin's Start 				
+ Türksat 1C 	 Turksat (company) 	 ELA-2 				
+ Progress M-65 	 Roskosmos 	 Gagarin's Start 				
+ Sloshsat-FLEVO 	 National Aerospace Laboratory 	 Guiana Space Centre 				
+ Long Duration Exposure Facility 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ EchoStar X 	 EchoStar 	 Ocean Odyssey 				
+ USA-211 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Technology Experiment Satellite 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alvin Drew 	 Washington, D.C. 
+ Kosmos 690 	 Institute of Biomedical Problems 	 Plesetsk Cosmodrome 				
+ STS-117 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick W. Sturckow 	 La Mesa, California 
+ Lunar Atmosphere and Dust Environment Explorer 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Space Technology Research Vehicle 	 Ministry of Defense (United Kingdom) 	 Guiana Space Center 				
+ Apollo 12 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alan Bean 	 Wheeler, Texas 
+ Sputnik 41 	 Rosaviakosmos 	 Gagarin's Start 				
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph R. Tanner 	 Illinois 
+ Soyuz TMA-3 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ Goliat 	 Romanian Space Agency 	 Guiana Space Centre 				
+ Intelsat 22 	 Intelsat 	 Baikonur Cosmodrome 				
+ PSLV-C35 	 ISRO 	 Satish Dhawan Space Centre First Launch Pad 				
+ STS-59 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin P. Chilton 	 Los Angeles, California 
+ STS-61-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bonnie J. Dunbar 	 Sunnyside, Washington 
+ Yamal 101 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ USA-135 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Amazônia-1 	 National Institute for Space Research 	 Alcântara Launch Center 				
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Barry E. Wilmore 	 Murfreesboro, Tennessee 
+ Darwin (spacecraft) 	 European Space Agency 	 Ensemble de Lancement Soyouz 				
+ Sputnik 40 	 Rosaviakosmos 	 Gagarin's Start 				
+ Kosmos 2494 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome Site 43 				
+ Kounotori 9 	 JAXA 	 Tanegashima Space Center 				
+ USA-47 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Amos-2 	 Spacecom 	 Baikonur Cosmodrome 				
+ CBERS-4 	 China National Space Administration 	 Taiyuan Satellite Launch Center 				
+ Apollo 16 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles Duke 	 Charlotte, North Carolina 
+ Ranger 7 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Grunsfeld 	 Chicago 
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Lee Morin 	 Manchester, New Hampshire 
+ Intelsat 11 	 Intelsat 	 Guiana Space Centre 				
+ STS-94 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James D. Halsell 	 West Monroe, Louisiana 
+ ARSAT-3 	 ARSAT 	 Guiana Space Centre 				
+ SpaceX CRS-16 	 SpaceX 	 SLC-40 				
+ Apollo 12 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pete Conrad 	 Philadelphia, Pennsylvania 
+ MEASAT-3 	 MEASAT 	 Baikonur Cosmodrome 				
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nicole Stott 	 Albany, New York 
+ BSAT-3b 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ TechEdSat 	 NASA 	 Tanegashima Space Center 				
+ Discoverer 29 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Intelsat II F-3 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ JCSAT-1B 	 SKY Perfect JSAT Group 	 ELA-2 				
+ Student Nitric Oxide Explorer 	 NASA 	 Vandenberg AFB 				
+ AMSAT-OSCAR 16 	 AMSAT 	 ELA-2 				
+ Progress M-56 	 Roskosmos 	 Gagarin's Start 				
+ STS-92 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Koichi Wakata 	 Ōmiya, Saitama 
+ Ariel 5 	 NASA 	 Broglio Space Centre 				
+ STS-131 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Clayton Anderson 	 Ashland, Nebraska 
+ Mariner 2 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ Compton Gamma Ray Observatory 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Galaxy 4R 	 Intelsat 	 ELA-2 				
+ HYLAS-1 	 Avanti Communications 	 Guiana Space Centre 				
+ STS-48 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Gemar 	 Yankton, South Dakota 
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark L. Polansky 	 Paterson, New Jersey 
+ Nanosat-1B 	 Instituto Nacional de Técnica Aeroespacial 	 Baikonur Cosmodrome Site 109 				
+ Ciel-2 	 Ciel Satellite Group 	 Baikonur Cosmodrome 				
+ USA-79 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Ratsat 	 SpaceX 	 Omelek Island 				
+ Surveyor 3 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ USA-190 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Kosmos 2436 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Pleiades (satellite) 	 CNES 	 Ensemble de Lancement Soyouz 				
+ STS-55 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terence T. Henricks 	 Bryan, Ohio 
+ ABS-3A 	 Asia Broadcast Satellite 	 Cape Canaveral Air Force Station 				
+ Progress M-52 	 Roskosmos 	 Gagarin's Start 				
+ BeeSat-1 	 Technical University of Berlin 	 Satish Dhawan Space Centre 				
+ Hot Bird 7 	 Eutelsat 	 Guiana Space Centre 				
+ STS-26 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Lounge 	 Denver 
+ BSAT-2b 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ STS-41-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Vance D. Brand 	 Longmont, Colorado 
+ Mercury-Redstone 1A 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-124 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael E. Fossum 	 Sioux Falls, South Dakota 
+ SpaceX CRS-13 	 SpaceX 	 SLC-40 				
+ Galileo (spacecraft) 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STS-58 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David Wolf (astronaut) 	 Indianapolis 
+ Soyuz 8 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Aleksei Yeliseyev 	 Zhizdra 
+ AubieSat-1 	 Auburn University 	 Vandenberg Air Force Base 				
+ Soyuz 11 	 Soviet space program 	 Gagarin's Start 	45.9203,63.3422	 Viktor Patsayev 	 Aktyubinsk 
+ Kwangmyŏngsŏng-1 	 Korean Committee of Space Technology 	 Tonghae Satellite Launching Ground 				
+ Ofek-7 	 Ministry of Defense (Israel) 	 Palmachim Airbase 				
+ Progress M-45 	 Roskosmos 	 Gagarin's Start 				
+ Soyuz 3 	 Soviet space program 	 Baikonur Cosmodrome 				
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl J. Meade 	 Chanute Air Force Base 
+ STS-3 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jack R. Lousma 	 Grand Rapids, Michigan 
+ Global Precipitation Measurement 	 NASA 	 Tanegashima Space Center 				
+ Nilesat 101 	 Nilesat 	 ELA-2 				
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Grunsfeld 	 Chicago, Illinois 
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	43.3503,71.4333	 Yelena Serova 	 Ussuriysk 
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott Kelly (astronaut) 	 New Jersey 
+ Progress M1-8 	 Roskosmos 	 Gagarin's Start 				
+ Kosmos 96 	 OKB-1 	 Baikonur Cosmodrome 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William C. McCool 	 San Diego 
+ Pegasus 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Apollo 15 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James Irwin 	 Pittsburgh 
+ Ekspress AM4R 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ Eutelsat 31A 	 Eutelsat 	 Guiana Space Centre 				
+ STS-134 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory Chamitoff 	 Montreal 
+ Programme for Reusable In-orbit Demonstrator in Europe 	 ESA 	 ELA-1 				
+ INSAT-3DR 	 Indian National Satellite System 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Discoverer 25 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic L. Pudwill Gorie 	 Lake Charles, Louisiana 
+ Luch 5V 	 Roskosmos 	 Baikonur Cosmodrome Site 81 				
+ Ekspress AM22 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome 				
+ STS-41 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bruce E. Melnick 	 New York City 
+ STS-86 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jean-Loup Chrétien 	 French Third Republic 
+ Raiko 	 Wakayama University 	 Tanegashima Space Center 				
+ Mars Climate Orbiter 	 JPL 	 Cape Canaveral Air Force Station 				
+ Cygnus Orb-D1 	 Orbital Sciences Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ GSAT-5P 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ ISRO Pad Abort Test 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-105 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott J. Horowitz 	 Pennsylvania 
+ Kosmos 2424 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Surveyor 1 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Vanguard 1 	 United States Navy 	 Cape Canaveral Air Force Station 				
+ STS-61-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rodolfo Neri Vela 	 Chilpancingo 
+ TDRS-4 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Progress M-02M 	 Roskosmos 	 Gagarin's Start 				
+ STS-134 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory H. Johnson 	 United Kingdom 
+ Mercury-Atlas 9 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Gordon Cooper 	 United States 
+ Badr-B 	 Space and Upper Atmosphere Research Commission 	 Baikonur Cosmodrome Site 45 				
+ STS-61-M 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William Frederick Fisher 	 Dallas 
+ Progress M1-9 	 Roskosmos 	 Gagarin's Start 				
+ Astra 1B 	 SES S.A. 	 ELA-2 				
+ Little Joe II Qualification Test Vehicle 	 NASA 	 White Sands Missile Range 				
+ Discoverer 31 	 United States Air Force 	 Vandenberg Air Force Base 				
+ Yahsat 1A 	 Yahsat 	 Guiana Space Centre 				
+ GSAT-1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ STS-52 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tamara E. Jernigan 	 Chattanooga, Tennessee 
+ STS-51-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David M. Walker (astronaut) 	 Columbus, Georgia 
+ Kosmos 2417 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ 2001 Mars Odyssey 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ STS-51-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Don L. Lind 	 Midvale, Utah 
+ E-st@r-II 	 Polytechnic University of Turin 	 Guiana Space Centre 				
+ STS-51-J 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Stewart 	 Washington, D.C. 
+ S-45 (satellite) 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Curtis Brown 	 Elizabethtown, North Carolina 
+ Gemini 9A 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Eugene Cernan 	 Illinois 
+ STS-131 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James Dutton (astronaut) 	 Eugene, Oregon 
+ Kosmos 2485 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome Site 43 				
+ Hipparcos 	 European Space Agency 	 ELA-2 				
+ STS-64 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard N. Richards 	 Key West, Florida 
+ SpaceX COTS Demo Flight 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Intelsat 29e 	 Intelsat 	 Guiana Space Center 				
+ JCSAT-4A 	 SKY Perfect JSAT Group 	 Cape Canaveral Air Force Station 				
+ Gemini 6A 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Thomas P. Stafford 	 Oklahoma 
+ Kosmos 2379 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ STS-116 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark L. Polansky 	 Paterson, New Jersey 
+ Soyuz MS-02 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Andrei Borisenko 	 Russia 
+ RISAT-1 	 ISRO 	 Satish Dhawan Space Centre 				
+ Sirius FM-1 	 Sirius Satellite Radio 	 Baikonur Cosmodrome Site 81 				
+ Mercury-Atlas 3 	 NASA 	 Cape Canaveral Air Force Station 				
+ TerreStar-1 	 TerreStar Corporation 	 Guiana Space Centre 				
+ Kosmos 2457 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Intelsat 34 	 Intelsat 	 Guiana Space Centre 				
+ VRSS-1 	 Bolivarian Agency for Space Activities 	 Jiuquan Satellite Launch Center 				
+ STS-80 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Thomas David Jones 	 Baltimore 
+ Libertad 1 	 Sergio Arboleda University 	 Baikonur Cosmodrome Site 109 				
+ SpaceX CRS-15 	 SpaceX 	 SLC-40 				
+ Kosmos 2419 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-41-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James van Hoften 	 California 
+ STS-129 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert Satcher 	 Hampton, Virginia 
+ STS-120 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott E. Parazynski 	 Little Rock, Arkansas 
+ Venera 13 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ DubaiSat-2 	 Emirates Institution for Advanced Science and Technology 	 Dombarovsky (air base) 				
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Maurizio Cheli 	 Modena 
+ Venera 6 	 Lavochkin 	 Baikonur Cosmodrome Site 1 				
+ STS-97 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Bloomfield 	 Flint, Michigan 
+ DirecTV-12 	 DirecTV 	 Baikonur Cosmodrome 				
+ Jules Verne ATV 	 European Space Agency 	 Guiana Space Centre 				
+ STS-103 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Claude Nicollier 	 Switzerland 
+ Soyuz TM-18 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-51-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph P. Allen 	 Crawfordsville, Indiana 
+ Cygnus CRS OA-9E 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard M. Linnehan 	 Lowell, Massachusetts 
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald A. Parise 	 Warren, Ohio 
+ Nilesat 201 	 Nilesat 	 Guiana Space Centre 				
+ GSAT-18 	 Indian National Satellite System 	 Guiana Space Centre 				
+ Progress M-51 	 Roskosmos 	 Gagarin's Start 				
+ Soyuz TMA-15M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Samantha Cristoforetti 	 Milan 
+ STS-132 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Piers Sellers 	 Sussex 
+ UniCubeSat-GG 	 GAUSS 	 Guiana Space Centre 				
+ Vega 1 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ STS-51 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl E. Walz 	 Cleveland 
+ HYLAS 2 	 Avanti Communications 	 Guiana Space Centre 				
+ Optus D3 	 Optus 	 Guiana Space Centre 				
+ RISAT-1A 	 ISRO 	 Satish Dhawan Space Centre 				
+ Chang'e 2 	 China National Space Administration 	 Xichang Satellite Launch Center 				
+ STS-100 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John L. Phillips 	 Fort Belvoir, Virginia 
+ STS-7 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sally Ride 	 Los Angeles 
+ STS-44 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick D. Gregory 	 Washington, D.C. 
+ STS-71 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory J. Harbaugh 	 Cleveland 
+ Freja (satellite) 	 Swedish National Space Board 	 Jiuquan Satellite Launch Center 				
+ Elektro-L No.1 	 Roskosmos 	 Baikonur Cosmodrome Site 45 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9675,100.279	 Jing Haipeng 	 Yuncheng 
+ Kwangmyŏngsŏng-2 	 Korean Committee of Space Technology 	 Tonghae Satellite Launching Ground 				
+ STS-33 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn C. Thornton 	 Montgomery, Alabama 
+ Intelsat III F-1 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ STS-100 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott E. Parazynski 	 Little Rock, Arkansas 
+ Crew Module Atmospheric Re-entry Experiment 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Kosmos 2209 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ Kosmos 2447 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Ginrei 	 Shinshu University 	 Tanegashima Space Center 				
+ Soyuz TMA-09M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-125 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael T. Good 	 Parma, Ohio 
+ STS-117 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James F. Reilly 	 Idaho 
+ Kosmos 2482 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ Astra 2F 	 SES S.A. 	 Guiana Space Centre 				
+ Progress M-08M 	 Roskosmos 	 Gagarin's Start 				
+ Bion No.11 	 Institute of Biomedical Problems 	 Plesetsk Cosmodrome 				
+ Intelsat III F-2 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard M. Linnehan 	 Lowell, Massachusetts 
+ Sojourner (rover) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Soichi Noguchi 	 Japan 
+ SES-8 	 SES S.A. 	 Cape Canaveral Air Force Station 				
+ Polar (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ STS-61-M 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark C. Lee 	 Viroqua, Wisconsin 
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mae Jemison 	 Decatur, Alabama 
+ Kosmos 2501 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ STS-43 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael A. Baker 	 Memphis, Tennessee 
+ Hiten 	 Institute of Space and Astronautical Science 	 Uchinoura Space Center 				
+ Vostok 5 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Interstellar Boundary Explorer 	 NASA 	 Bucholz Army Airfield 				
+ SpaceShipOne flight 16P 	 Scaled Composites 	 Mojave Air and Space Port 	35.0594,-118.152	 Mike Melvill 	 Johannesburg 
+ Venera 7 	 Lavochkin 	 Baikonur Cosmodrome 				
+ AsiaSat 5 	 AsiaSat 	 Baikonur Cosmodrome 				
+ TacSat-2 	 AFRL 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ SkyFire (spacecraft) 	 Lockheed Martin Space Systems 	 Kennedy Space Center Launch Complex 39 				
+ Soyuz 5 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ ATS-1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kounotori 8 	 JAXA 	 Tanegashima Space Center 				
+ GSAT-4 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ GeoEye-1 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ Paksat-1 	 Boeing 	 Cape Canaveral Air Force Station 				
+ Ofek-11 	 Ministry of Defense (Israel) 	 Palmachim Airbase 				
+ STS-132 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic A. Antonelli 	 Detroit 
+ STS-27 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Gibson 	 Cooperstown, New York 
+ STS-123 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Behnken 	 Creve Coeur, Missouri 
+ Hispasat AG1 	 Hispasat 	 Guiana Space Centre 				
+ Lunar Reconnaissance Orbiter 	 NASA 	 Cape Canaveral Air Force Station 				
+ Albert Einstein ATV 	 European Space Agency 	 Guiana Space Centre 				
+ A-004 	 NASA 	 White Sands Missile Range 				
+ TerraSAR-X 	 German Aerospace Center 	 Baikonur Cosmodrome Site 109 				
+ AS-103 (spacecraft) 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-32 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marsha Ivins 	 Baltimore 
+ ESTCube-1 	 University of Tartu 	 Guiana Space Centre 				
+ STS-83 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James D. Halsell 	 West Monroe, Louisiana 
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eric Boe 	 Miami, Florida 
+ Drag and Atmospheric Neutral Density Explorer 	 AFRL 	 Vandenberg Air Force Base 				
+ Soyuz TMA-8 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Tyazhely Sputnik 	 Soviet Academy of Sciences 	 Gagarin's Start 				
+ GSAT-12 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ AMC-18 	 SES S.A. 	 Guiana Space Centre 				
+ STS-61-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert J. Cenker 	 Uniontown, Pennsylvania 
+ STS-134 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andrew J. Feustel 	 Lancaster, Pennsylvania 
+ CUTE-1.7 + APD 	 Tokyo Institute of Technology 	 Uchinoura Space Center 				
+ Kosmos 2479 	 VKO 	 Baikonur Cosmodrome Site 81 				
+ Astra 2E 	 SES S.A. 	 Baikonur Cosmodrome 				
+ STS-91 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles J. Precourt 	 Waltham, Massachusetts 
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Wendy B. Lawrence 	 Jacksonville, Florida 
+ Progress M-54 	 Roskosmos 	 Gagarin's Start 				
+ STS-122 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Hans Schlegel 	 Germany 
+ TDRS-L 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mercury-Atlas 2 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mariner 10 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ RAX-2 	 University of Michigan 	 Vandenberg Air Force Base 				
+ Geosat 	 United States Navy 	 Vandenberg Air Force Base 				
+ Radarsat-2 	 MacDonald, Dettwiler and Associates 	 Baikonur Cosmodrome 				
+ Galaxy 18 	 Intelsat 	 Odyssey (launch platform) 				
+ Vanguard TV3 	 United States Naval Research Laboratory 	 Cape Canaveral Air Force Station 				
+ FASTRAC 	 AFRL 	 Kodiak Launch Complex 				
+ Xatcobeo 	 University of Vigo 	 Guiana Space Centre 				
+ STS-46 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Franco Malerba 	 Italy 
+ STS-51-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John-David F. Bartoe 	 Abington Township, Montgomery County, Pennsylvania 
+ Extreme Ultraviolet Explorer 	 NASA 	 Cape Canaveral 				
+ A-003 	 NASA 	 White Sands Missile Range 				
+ STS-77 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andy Thomas 	 Adelaide 
+ Cartosat-2E 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ STS-6 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald H. Peterson 	 Winona, Mississippi 
+ EchoStar XVII 	 EchoStar 	 Guiana Space Centre 				
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott J. Horowitz 	 Pennsylvania 
+ STS-51-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Lodewijk van den Berg 	 Terneuzen 
+ Emirates Mars Mission 	 Mohammed bin Rashid Space Centre 	 Tanegashima Space Center 				
+ AS-203 	 NASA 	 Cape Canaveral Air Force Station 				
+ ATS-3 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-106 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Yuri Malenchenko 	 Soviet Union 
+ NOAA-15 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ ABS-3 	 Mabuhay Satellite Corporation 	 Xichang Satellite Launch Center 				
+ INSAT-3E 	 Indian Space Research Organisation 	 Guiana Space Centre 				
+ Voyager 1 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ Energia-100 	 Rostelecom 	 Vostochny Cosmodrome 				
+ SES-1 	 SES World Skies 	 Baikonur Cosmodrome 				
+ STS-120 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pamela Melroy 	 Palo Alto, California 
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles D. Walker 	 Bedford, Indiana 
+ Alouette 2 	 Defence Research and Development Canada 	 Vandenberg Air Force Base 				
+ Small Astronomy Satellite 3 	 NASA 	 Broglio Space Centre 				
+ Intelsat II F-1 	 Intelsat 	 Cape Canaveral Air Force Station 				
+ STS-106 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terrence W. Wilcutt 	 Russellville, Kentucky 
+ USA-84 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-69 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael L. Gernhardt 	 Mansfield, Ohio 
+ Gravity Field and Steady-State Ocean Circulation Explorer 	 ESA 	 Plesetsk Cosmodrome Site 133 				
+ Negai (satellite) 	 Soka University (Japan) 	 Tanegashima Space Center 				
+ Samos 3 	 US Air Force 	 Point Arguello 				
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James D. Halsell 	 West Monroe, Louisiana 
+ Transit 3B 	 US Navy 	 Cape Canaveral Air Force Station 				
+ Meridian 1 	 VKS 	 Plesetsk Cosmodrome 				
+ TDRS-7 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Explorer 35 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mercury-Scout 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Barbara Morgan 	 Fresno, California 
+ Soyuz 1 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Eutelsat 48D 	 Eutelsat 	 Guiana Space Centre 				
+ STS-105 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick W. Sturckow 	 La Mesa, California 
+ IRNSS-1C 	 ISRO 	 Satish Dhawan Space Centre 				
+ Resourcesat-2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ STS-89 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terrence W. Wilcutt 	 Russellville, Kentucky 
+ Progress MS-10 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,79.0804	 Yelena Serova 	 Ussuriysk 
+ Kosmos 2425 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Kounotori 3 	 Japan Aerospace Exploration Agency 	 Tanegashima Space Center 				
+ STS-28 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James C. Adamson 	 Warsaw, New York 
+ USA-224 	 National Reconnaissance Office 	 Vandenberg Air Force Base 				
+ Kosmos 2456 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ MaSat-1 	 Technical University of Budapest 	 Guiana Space Centre 				
+ STS-51-J 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William A. Pailes 	 Hackensack, New Jersey 
+ Galaxy 11 	 Intelsat 	 ELA-2 				
+ STS-84 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carlos I. Noriega 	 Lima, Peru 
+ KySat-1 	 Kentucky Space 	 Vandenberg Air Force Base 				
+ SARAL 	 CNES 	 Satish Dhawan Space Centre 				
+ Soyuz 10 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James A. Pawelczyk 	 Buffalo, New York 
+ Solar Probe Plus 	 NASA 	 Cape Canaveral Air Force Station 				
+ DirecTV-14 	 DirecTV 	 Guiana Space Centre 				
+ STS-51-F 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Story Musgrave 	 Massachusetts 
+ STS-39 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles L. Veach 	 Chicago 
+ Discoverer 35 	 United States Air Force 	 Vandenberg Air Force Base 				
+ USA-10 	 US Air Force 	 Vandenberg Air Force Base 				
+ IRS-1C 	 Indian Space Research Organisation 	 Baikonur Cosmodrome 				
+ SpaceX CRS-20 	 SpaceX 	 SLC-40 				
+ STS-104 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janet L. Kavandi 	 Carthage, Missouri 
+ Cygnus CRS OA-4 	 Orbital ATK 	 Cape Canaveral Air Force Station 				
+ Intelsat 605 	 Intelsat 	 ELA-2 				
+ Mariner 3 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station 				
+ Apollo 8 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jim Lovell 	 Cleveland, Ohio 
+ Kosmos 110 	 OKB-1 	 Baikonur Cosmodrome 				
+ LARES (satellite) 	 Italian Space Agency 	 Guiana Space Centre 				
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carl E. Walz 	 Cleveland 
+ Rosetta (spacecraft) 	 European Space Agency 	 Guiana Space Centre 				
+ Venera 11 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome Site 81 				
+ SpaceX CRS-17 	 SpaceX 	 SLC-40 				
+ ARSAT-1 	 AR-SAT 	 Guiana Space Centre 				
+ Soyuz TMA-07M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Thomas Marshburn 	 North Carolina 
+ CBERS-3 	 China National Space Administration 	 Taiyuan Satellite Launch Center 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James H. Newman 	 Federated States of Micronesia 
+ Ranger 3 	 NASA 	 Cape Canaveral Air Force Station 				
+ Ekspress AT2 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome Site 81 				
+ STS-30 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mary L. Cleave 	 Southampton, New York 
+ Ranger 5 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-101 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Susan Helms 	 Charlotte, North Carolina 
+ Transit 5E-1 	 US Air Force 	 Vandenberg Air Force Base 				
+ STS-60 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald M. Sega 	 Macedonia, Ohio 
+ N-STAR c 	 SKY Perfect JSAT Group 	 Guiana Space Centre 				
+ NEE-02 Krysaor 	 Ecuadorian Civilian Space Agency 	 Dombarovsky (air base) 				
+ STS-134 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael Fincke 	 Pittsburgh, Pennsylvania 
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jay C. Buckey 	 New York City 
+ STS-99 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janice E. Voss 	 South Bend, Indiana 
+ STS-9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John Young (astronaut) 	 California 
+ Eutelsat 36B 	 Eutelsat 	 Baikonur Cosmodrome 				
+ OPS 5111 	 US Air Force 	 Vandenberg Air Force Base 				
+ Soyuz TMA-2 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ Gemini 3 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 John Young (astronaut) 	 California 
+ STS-128 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kevin A. Ford 	 Portland, Indiana 
+ BelKA 	 National Academy of Sciences of Belarus 	 Baikonur Cosmodrome Site 109 				
+ Spaceway-3 	 Hughes Network Systems 	 Guiana Space Centre 				
+ Ranger 8 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-76 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald M. Sega 	 Macedonia, Ohio 
+ Yubileiny 	 NPO PM 	 Plesetsk Cosmodrome 				
+ Gamma (satellite) 	 Russian Federal Space Agency 	 Tyuratam 				
+ BugSat 1 	 Satellogic 	 Dombarovsky (air base) 				
+ Picard (satellite) 	 CNES 	 Dombarovsky (air base) 				
+ Brasilsat B1 	 Embratel 	 ELA-2 				
+ STS-34 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. McCulley 	 San Diego 
+ STS-133 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephen Bowen (astronaut) 	 Cohasset, Massachusetts 
+ STS-49 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn C. Thornton 	 Montgomery, Alabama 
+ ATS-4 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 36 				
+ Soyuz TM-19 	 Rosaviakosmos 	 Baikonur Cosmodrome Site 1 				
+ Kosmos 2459 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9675,100.298	 Chen Dong (astronaut) 	 Luoyang 
+ WorldView-1 	 DigitalGlobe 	 Vandenberg Air Force Base 				
+ DirecTV-5 	 DirecTV 	 Baikonur Cosmodrome Site 81 				
+ USA-42 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-16M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Kosmos 2461 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Chandrayaan-1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ USA-50 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-121 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven Lindsey 	 Arcadia, California 
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andrew M. Allen 	 Philadelphia 
+ USA-38 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Kosmos 1546 	 VKS 	 Baikonur Cosmodrome 				
+ AS-201 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-75 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey A. Hoffman 	 Brooklyn 
+ Apollo 9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James McDivitt 	 Illinois 
+ STS-71 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles J. Precourt 	 Waltham, Massachusetts 
+ STS-94 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald A. Thomas 	 Cleveland 
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Thomas Marshburn 	 North Carolina 
+ Transit Research and Attitude Control 	 United States Navy 	 Cape Canaveral Air Force Station 				
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark C. Lee 	 Wisconsin 
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Rex J. Walheim 	 Redwood City, California 
+ STS-45 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn D. Sullivan 	 New Jersey 
+ Spaceway F2 	 DirecTV 	 Guiana Space Centre 				
+ STS-85 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jan Davis 	 Cocoa Beach, Florida 
+ STS-66 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott E. Parazynski 	 Little Rock, Arkansas 
+ Beach Abort 	 NASA 	 Wallops Flight Facility 				
+ Progress M-49 	 Roskosmos 	 Gagarin's Start 				
+ CAPE-1 	 University of Louisiana at Lafayette 	 Baikonur Cosmodrome Site 109 				
+ Kosmos 434 	 Soviet Union 	 Baikonur Cosmodrome 				
+ Alsat-1B 	 Surrey Satellite Technology Ltd 	 Sriharikota 				
+ STS-28 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mark N. Brown 	 Valparaiso, Indiana 
+ STS-37 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Steven R. Nagel 	 Canton, Illinois 
+ Vinasat-1 	 Vietnam Posts and Telecommunications Group 	 Guiana Space Centre 				
+ Advanced Land Observation Satellite 	 Japan Aerospace Exploration Agency 	 Tanegashima Space Center 				
+ Skylab 4 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William R. Pogue 	 Okemah, Oklahoma 
+ STS-52 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael A. Baker 	 Memphis, Tennessee 
+ Voskhod 1 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ Spaceway F1 	 DirecTV 	 Odyssey (launch platform) 				
+ STS-109 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Nancy J. Currie 	 Wilmington, Delaware 
+ Jason-3 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ Cartosat-1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ STS-91 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Wendy B. Lawrence 	 Jacksonville, Florida 
+ Mariner 6 and 7 	 Jet Propulsion Laboratory 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ VNREDSat 1A 	 Vietnam Academy of Science and Technology 	 Guiana Space Centre 				
+ Gravity Probe B 	 Stanford University 	 Vandenberg Air Force Base 				
+ Georges Lemaître ATV 	 European Space Agency 	 Guiana Space Centre 				
+ STS-128 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick W. Sturckow 	 La Mesa, California 
+ Cygnus CRS OA-6 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mercury-Atlas 8 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Wally Schirra 	 Hackensack, New Jersey 
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerome Apt 	 Massachusetts 
+ STS-41-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert L. Stewart 	 Washington, D.C. 
+ Skylab 3 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Alan Bean 	 Wheeler, Texas 
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Julie Payette 	 Montreal 
+ Amos-3 	 Spacecom 	 Baikonur Cosmodrome Site 45 				
+ Lunar Flashlight 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ ADEOS I 	 NASDA 	 Tanegashima Space Center 				
+ Soyuz 11 	 Soviet space program 	 Gagarin's Start 	45.9203,63.3422	 Georgy Dobrovolsky 	 Soviet Union 
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles O. Hobaugh 	 Bar Harbor, Maine 
+ JCSAT-1 	 JSAT Corporation 	 ELA-2 				
+ International Cometary Explorer 	 NASA 	 Cape Canaveral Air Force Station 				
+ Kosmos 775 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ Mercury-Atlas 4 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-46 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Andrew M. Allen 	 Philadelphia 
+ ST-2 	 Chunghwa Telecom 	 Guiana Space Centre 				
+ Surveyor 5 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ STARS-II 	 Kagawa University 	 Tanegashima Space Center 				
+ Lem (satellite) 	 Space Research Centre 	 Dombarovsky (air base) 				
+ Granat 	 Soviet space program 	 Baikonur Cosmodrome 				
+ STS-97 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Carlos I. Noriega 	 Lima, Peru 
+ Kwangmyŏngsŏng-3 Unit 2 	 Korean Committee of Space Technology 	 Sohae Satellite Launching Station 				
+ SpaceX CRS-4 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-44 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terence T. Henricks 	 Bryan, Ohio 
+ Orbiting Carbon Observatory 	 NASA 	 Vandenberg Air Force Base 				
+ Solrad 8 	 NASA 	 Wallops Flight Facility Launch Area 3 				
+ Ekspress AM8 	 Russian Satellite Communications Company 	 Baikonur Cosmodrome Site 81 				
+ STS-68 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael A. Baker 	 Memphis, Tennessee 
+ M-Cubed 	 University of Michigan 	 Vandenberg Air Force Base 				
+ USA-180 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-11M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Kosmos 2466 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Progress M-55 	 Roskosmos 	 Gagarin's Start 				
+ STS-37 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth D. Cameron 	 Cleveland 
+ AMC-11 	 SES World Skies 	 Cape Canaveral Air Force Station 				
+ TDRS-9 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-51-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Patrick Baudry 	 Cameroon 
+ Apollo 4 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Zhongxing-10 	 China Satcom 	 Xichang Satellite Launch Center 				
+ PSLV-C28 	 Antrix Corporation 	 Satish Dhawan Space Centre 				
+ Intelsat 19 	 Intelsat 	 Odyssey (launch platform) 				
+ ALMASat-1 	 University of Bologna 	 Guiana Space Centre 				
+ IMS-1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ UniSat-6 	 GAUSS Srl 	 Dombarovsky (air base) 				
+ Hayabusa 2 	 JAXA 	 Tanegashima Space Center 				
+ STS-92 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Brian Duffy (astronaut) 	 Boston 
+ Eutelsat 3D 	 Eutelsat 	 Baikonur Cosmodrome 				
+ Progress M-17M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Saturn I SA-3 	 NASA 	 Cape Canaveral Air Force Station 				
+ STS-49 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bruce E. Melnick 	 New York City 
+ USA-231 	 Operationally Responsive Space Office 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ INSAT-1B 	 Indian Space Research Organisation 	 Kennedy Space Center Launch Complex 39 				
+ Explorer 2 	 Army Ballistic Missile Agency 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ IRNSS-1F 	 ISRO 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Kosmos 2382 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Kosmos 2224 	 VKS 	 Baikonur Cosmodrome 				
+ Envisat 	 European Space Agency 	 Guiana Space Centre 				
+ CUTE-1.7 + APD II 	 Tokyo Institute of Technology 	 Satish Dhawan Space Centre 				
+ STS-81 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John M. Grunsfeld 	 Chicago, Illinois 
+ STS-92 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael López-Alegría 	 Spain 
+ TDRS-B 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert Thirsk 	 British Columbia 
+ Pegasus 3 	 NASA 	 Cape Canaveral Air Force Station 				
+ LOFTI-1 	 United States Naval Research Laboratory 	 Cape Canaveral Air Force Station 				
+ STS-105 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Patrick G. Forrester 	 El Paso, Texas 
+ STS-86 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Scott E. Parazynski 	 Little Rock, Arkansas 
+ Soyuz TMA-9 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-131 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephanie Wilson 	 Massachusetts 
+ Soil Moisture Active Passive 	 NASA 	 Vandenberg Air Force Base 				
+ Galaxy 1 	 Hughes Communications 	 Cape Canaveral Air Force Station 				
+ SpaceShipOne flight 15P 	 Scaled Composites 	 Mojave Air and Space Port 	35.0594,-118.152	 Mike Melvill 	 Johannesburg 
+ Progress M-48 	 Roskosmos 	 Gagarin's Start 				
+ STS-118 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard Mastracchio 	 Waterbury, Connecticut 
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael J. Bloomfield 	 Flint, Michigan 
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald A. Parise 	 Warren, Ohio 
+ STS-89 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Bonnie J. Dunbar 	 Sunnyside, Washington 
+ STS-46 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Claude Nicollier 	 Switzerland 
+ STS-83 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janice E. Voss 	 South Bend, Indiana 
+ RISAT-2 	 Indian Air Force 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Progress M-21M 	 Roskosmos 	 Baikonur Cosmodrome 				
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Eugene H. Trinh 	 Vietnam 
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ulf Merbold 	 Greiz 
+ STS-3 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 C. Gordon Fullerton 	 Rochester, New York 
+ USA-35 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-62-A 	 NASA 	 Vandenberg Air Force Base 				
+ MABES 	 NASDA 	 Tanegashima Space Center 				
+ Soyuz TMA-04M 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Lewis (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ New Horizons 	 NASA 	 Cape Canaveral Air Force Station 				
+ SEEDS-2 	 Nihon University 	 Satish Dhawan Space Centre Second Launch Pad 				
+ WINDS 	 JAXA 	 Tanegashima Space Center 				
+ STS-59 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sidney M. Gutierrez 	 Albuquerque, New Mexico 
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,71.4333	 Aleksandr Samokutyayev 	 Russia 
+ STS-69 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James H. Newman 	 Federated States of Micronesia 
+ Surveyor 2 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ Near Earth Object Surveillance Satellite 	 Canadian Space Agency 	 Satish Dhawan Space Centre 				
+ Mars Express 	 ESA 	 Baikonur Cosmodrome 				
+ Superbird-B1 	 Space Communications Corporation 	 ELA-2 				
+ Hisaki (satellite) 	 JAXA 	 Uchinoura Space Center 				
+ Kosmos 2404 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-114 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Wendy B. Lawrence 	 Jacksonville, Florida 
+ Alouette 1 	 Defence Research and Development Canada 	 Vandenberg Air Force Base 				
+ BLITS 	 Roskosmos 	 Baikonur Cosmodrome 				
+ Kosmos 2448 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Kosmos 1629 	 VKS 	 Baikonur Cosmodrome 				
+ STS-83 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Michael L. Gernhardt 	 Mansfield, Ohio 
+ Mars 6 	 Lavochkin 	 Baikonur Cosmodrome Site 81 				
+ STS-107 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David M. Brown 	 Arlington County, Virginia 
+ Seasat 	 California Institute of Technology 	 Vandenberg Air Force Base 				
+ Antares A-ONE 	 Orbital Sciences Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-1 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John Young (astronaut) 	 California 
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Donald E. Williams 	 Lafayette, Indiana 
+ TDRS-11 	 NASA 	 Cape Canaveral Air Force Station 				
+ Yamal 204 	 Gazprom Space Systems 	 Baikonur Cosmodrome Site 81 				
+ Soyuz TMA-08M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Alexander Misurkin 	 Russia 
+ Progress MS-06 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ Kounotori 6 	 JAXA 	 Tanegashima Space Center 				
+ Deimos-1 	 Deimos Imaging 	 Baikonur Cosmodrome Site 109 				
+ STS-33 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John E. Blaha 	 San Antonio, Texas 
+ Arabsat-5A 	 Arab Satellite Communications Organization 	 Guiana Space Centre 				
+ TET-1 	 German Aerospace Center 	 Baikonur Cosmodrome 				
+ USA-83 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-61-M 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Sally Ride 	 Los Angeles 
+ USA-154 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Kosmos 2418 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-29 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 John E. Blaha 	 San Antonio, Texas 
+ SpaceX CRS-11 	 SpaceX 	 SLC-40 				
+ Azur (satellite) 	 German Aerospace Centre 	 Vandenberg Air Force Base 				
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jan Davis 	 Cocoa Beach, Florida 
+ SES-10 	 SES S.A. 	 Cape Canaveral Air Force Station 				
+ Intelsat 2 	 Intelsat 	 ELA-2 				
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert A. Parker 	 New York City 
+ STS-110 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen Ochoa 	 California 
+ Lunar Orbiter 1 	 NASA 	 Cape Canaveral Air Force Station 				
+ Apollo 14 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stuart Roosa 	 Durango, Colorado 
+ STS-2 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard H. Truly 	 Fayette, Mississippi 
+ Progress M-57 	 Roskosmos 	 Gagarin's Start 				
+ Project Echo 	 NASA 	 Vandenberg Air Force Base 				
+ Kounotori 5 	 JAXA 	 Tanegashima Space Center 				
+ A-002 	 NASA 	 White Sands Missile Range 				
+ STS-61 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey A. Hoffman 	 Brooklyn 
+ STS-70 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Terence T. Henricks 	 Bryan, Ohio 
+ Tianlian I-01 	 China Aerospace Science and Technology Corporation 	 Xichang Satellite Launch Center 				
+ Soyuz 9 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Vitaly Sevastyanov 	 Soviet Union 
+ STS-33 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick D. Gregory 	 Washington, D.C. 
+ STS-40 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tamara E. Jernigan 	 Chattanooga, Tennessee 
+ USA-201 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Oceansat-1 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Pioneer P-30 	 NASA 	 Cape Canaveral Air Force Station 				
+ Mercury-Redstone 4 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Gus Grissom 	 Mitchell, Indiana 
+ Ariel 3 	 NASA 	 Vandenberg Air Force Base 				
+ Hot Bird 13C 	 Eutelsat 	 Guiana Space Centre 				
+ STS-35 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Vance D. Brand 	 Longmont, Colorado 
+ Advanced Composition Explorer 	 NASA 	 Cape Canaveral Air Force Station 				
+ Apollo 5 	 NASA 	 Cape Canaveral Air Force Station 				
+ Pad Abort Test 2 	 NASA 	 White Sands Missile Range 				
+ STS-78 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard M. Linnehan 	 Lowell, Massachusetts 
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Leroy Chiao 	 Milwaukee 
+ LitSat-1 	 Kaunas University of Technology 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ INSAT-3D 	 ISRO 	 Guiana Space Centre 				
+ USA-196 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ USA-54 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-76 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard A. Searfoss 	 Michigan 
+ USA-90 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-87 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kalpana Chawla 	 Haryana 
+ STS-91 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Janet L. Kavandi 	 Carthage, Missouri 
+ Progress MS-08 	 Roscosmos State Corporation 	 Gagarin's Start 				
+ IMAGE 	 NASA 	 Vandenberg Air Force Base 				
+ NSS-8 	 SES New Skies 	 Odyssey (launch platform) 				
+ Horizons-2 	 Intelsat 	 Guiana Space Centre 				
+ Kosmos 2484 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome 				
+ Star One C1 	 Star One (satellite operator) 	 Guiana Space Centre 				
+ Dong Fang Hong I 	 China Academy of Space Technology 	 Jiuquan Satellite Launch Center 				
+ Explorer 14 	 NASA 	 Cape Canaveral Air Force Station 				
+ Türksat 4A 	 Turksat (company) 	 Baikonur Cosmodrome Site 81 				
+ KA-SAT 	 Eutelsat 	 Baikonur Cosmodrome 				
+ NanoSail-D 	 NASA 	 Omelek Island 				
+ USA-241 	 United States Air Force 	 Cape Canaveral Air Force Station 				
+ STS-98 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marsha Ivins 	 Baltimore 
+ STS-121 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Stephanie Wilson 	 Massachusetts 
+ Orba (satellite) 	 Royal Aircraft Establishment 	 Woomera Launch Area 5 				
+ Venera 16 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ THEMIS 	 NASA 	 Cape Canaveral Air Force Station 				
+ DirecTV-10 	 DirecTV 	 Baikonur Cosmodrome 				
+ IRS-1A 	 Indian Space Research Organization 	 Baikonur Cosmodrome 				
+ Dragon C2+ 	 NASA 	 Cape Canaveral Air Force Station 				
+ Sparkie (satellite) 	 Arizona State University 	 Cape Canaveral Air Force Station 				
+ CHEOPS 	 Swiss Space Office 	 Guiana Space Centre 				
+ SpaceShipOne Flight 17P 	 Scaled Composites 	 Mojave Air and Space Port 	35.0594,-118.152	 Brian Binnie 	 West Lafayette, Indiana 
+ STS-54 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Gregory J. Harbaugh 	 Cleveland 
+ Soyuz TMA-06M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Evgeny Tarelkin 	 Russia 
+ USA-202 	 National Reconnaissance Office 	 Cape Canaveral Air Force Station 				
+ STS-65 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Robert D. Cabana 	 Minneapolis, Minnesota 
+ USA-150 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tamara E. Jernigan 	 Chattanooga, Tennessee 
+ Shenzhou 11 	 China National Space Administration 	 Jiuquan Satellite Launch Center 	40.9675,100.298	 Jing Haipeng 	 Yuncheng 
+ Eutelsat 8 West C 	 Eutelsat 	 Cape Canaveral Air Force Station 				
+ STS-36 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Pierre J. Thuot 	 Connecticut 
+ Thaicom 8 	 Thaicom 	 Cape Canaveral Air Force Station 				
+ STS-131 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard Mastracchio 	 Waterbury, Connecticut 
+ Petey (satellite) 	 Space Test Program 	 Cape Canaveral Air Force Station 				
+ STS-74 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 James D. Halsell 	 West Monroe, Louisiana 
+ Superbird-C 	 SKY Perfect JSAT Group 	 Cape Canaveral Air Force Station 				
+ CP6 (satellite) 	 California Polytechnic State University 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Kosmos 2471 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ OPS 9794 	 US Air Force 	 Vandenberg Air Force Base 				
+ Explorer 5 	 Army Ballistic Missile Agency 	 Cape Canaveral Air Force Station 				
+ STS-4 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Henry Hartsfield 	 Birmingham, Alabama 
+ STS-77 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marc Garneau 	 Canada 
+ STS-86 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Wendy B. Lawrence 	 Jacksonville, Florida 
+ Kounotori 7 	 JAXA 	 Tanegashima Space Center 				
+ Discoverer 30 	 United States Air Force 	 Vandenberg Air Force Base 				
+ STS-5 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William B. Lenoir 	 Miami 
+ Mars Orbiter Mission 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Bell (satellite) 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ VesselSat-2 	 Orbcomm 	 Taiyuan Satellite Launch Center 				
+ STS-41-G 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Marc Garneau 	 Quebec City 
+ STS-61-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ernst Messerschmid 	 Germany 
+ Vega 2 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ UoSAT-4 	 University of Surrey 	 ELA-2 				
+ Kosmos 2470 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ Intelsat 21 	 Intelsat 	 Odyssey (launch platform) 				
+ Soyuz TMA-15M 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Terry W. Virts 	 Maryland 
+ ESSA-8 	 Environmental Science Services Administration 	 Vandenberg Air Force Base 				
+ Venera 15 	 Soviet Academy of Sciences 	 Baikonur Cosmodrome 				
+ BSAT-3a 	 Broadcasting Satellite System Corporation 	 Guiana Space Center 				
+ Kosmos 2500 	 Russian Aerospace Defence Forces 	 Plesetsk Cosmodrome Site 43 				
+ Progress M-14M 	 Roskosmos 	 Gagarin's Start 				
+ STS-5 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Joseph P. Allen 	 Crawfordsville, Indiana 
+ Superbird-A 	 Space Communications Corporation 	 ELA-2 				
+ Kosmos 2441 	 Russian Space Forces 	 Plesetsk Cosmodrome 				
+ STS-9 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Owen K. Garriott 	 Enid, Oklahoma 
+ Terra (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ SDS-4 	 JAXA 	 Tanegashima Space Center 				
+ STS-90 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn P. Hire 	 Mobile, Alabama 
+ Skylab 4 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Edward Gibson 	 Buffalo, New York 
+ ISEE-1 	 NASA 	 Cape Canaveral AFS 				
+ Ariel 4 	 Science and Engineering Research Council 	 Vandenberg Air Force Base 				
+ Biosatellite program 	 NASA 	 Cape Canaveral Air Force Station 				
+ Space Capsule Recovery Experiment 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Kosmos 2433 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-51-A 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick Hauck 	 Long Beach, California 
+ Megha-Tropiques 	 CNES 	 Satish Dhawan Space Centre 				
+ STS-6 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Karol J. Bobko 	 New York City 
+ STS-4 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ken Mattingly 	 Chicago 
+ STS-127 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 David Wolf (astronaut) 	 Indianapolis 
+ STS-51-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William E. Thornton 	 North Carolina 
+ Rossi X-ray Timing Explorer 	 NASA 	 Cape Canaveral Air Force Station 				
+ GEOS-3 	 NASA 	 Vandenberg Air Force Base 				
+ Soyuz MS-02 	 Roskosmos 	 Baikonur Cosmodrome 	45.92,63.342	 Robert S. Kimbrough 	 Killeen, Texas 
+ STS-105 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel T. Barry 	 Norwalk, Connecticut 
+ Gemini 11 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Pete Conrad 	 Philadelphia, Pennsylvania 
+ USA-145 	 US Air Force 	 Cape Canaveral Air Force Station 				
+ Mercury-Redstone BD 	 NASA 	 Cape Canaveral Air Force Station 				
+ Soyuz TMA-14M 	 Roskosmos 	 Kazakhstan 	51.1667,71.4333	 Yelena Serova 	 Ussuriysk 
+ AeroCube 3 	 The Aerospace Corporation 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ Intermediate eXperimental Vehicle 	 ESA 	 Guiana Space Centre 				
+ STS-52 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Charles L. Veach 	 Chicago, Illinois 
+ ATS-6 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 40 				
+ STS-74 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth D. Cameron 	 Cleveland 
+ STS-108 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dominic L. Pudwill Gorie 	 Lake Charles, Louisiana 
+ Glory (satellite) 	 NASA 	 Vandenberg Air Force Base 				
+ STS-119 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard R. Arnold 	 Maryland 
+ CAT-1 	 European Space Agency 	 Guiana Space Centre 				
+ Coriolis (satellite) 	 AFRL 	 Vandenberg Air Force Base 				
+ Gemini 5 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Gordon Cooper 	 United States 
+ STS-51-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 S. David Griggs 	 Portland, Oregon 
+ Eutelsat 117 West A 	 Satmex 	 Baikonur Cosmodrome 				
+ STS-128 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Christer Fuglesang 	 Stockholm 
+ STS-124 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Akihiko Hoshide 	 Japan 
+ Spektr-RG 	 European Space Agency 	 Baikonur Cosmodrome Site 45 				
+ Dragon Spacecraft Qualification Unit 	 SpaceX 	 Cape Canaveral Air Force Station 				
+ Cartosat-2B 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Explorer 1 	 Army Ballistic Missile Agency 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ STS-93 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jeffrey Ashby 	 Dallas 
+ Soyuz TMA-14 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ Intelsat 602 	 Intelsat 	 ELA-2 				
+ Eutelsat 33B 	 Eutelsat 	 Cape Canaveral Air Force Station 				
+ Einstein Observatory 	 NASA 	 Cape Canaveral Air Force Station Space Launch Complex 36 				
+ GOES 4 	 NOAA 	 Cape Canaveral Air Force Station 				
+ TIROS-N 	 NOAA 	 Vandenberg Air Force Base 				
+ Yohkoh 	 Institute of Space and Astronautical Science 	 Uchinoura Space Center 				
+ TV-SAT 1 	 Deutsche Bundespost 	 Guiana Space Centre 				
+ Intelsat 9 	 Intelsat 	 Ocean Odyssey 				
+ UoSAT-12 	 University of Surrey 	 Baikonur Cosmodrome Site 109 				
+ STS-69 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kenneth Cockrell 	 Austin, Texas 
+ Oceansat-2 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ Explorer 11 	 NASA 	 Cape Canaveral Air Force Station Launch Complex 26 				
+ DLR-Tubsat 	 Technical University of Berlin 	 Sriharikota Launching Range 				
+ Kosmos 2442 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ PSLV-C2 	 ISRO 	 Satish Dhawan Space Centre 				
+ STS-117 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Patrick G. Forrester 	 El Paso, Texas 
+ Arabsat-1B 	 Arab Satellite Communications Organization 	 Kennedy Space Center Launch Complex 39 				
+ Satélite de Coleta de Dados 	 INPE - Instituto Nacional de Pesquisas Espaciais 	 Kennedy Space Center Launch Complex 39 				
+ AESP-14 	 Instituto Tecnológico de Aeronáutica 	 Cape Canaveral Air Force Station 				
+ STS-27 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ STS-30 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ronald J. Grabe 	 New York (state) 
+ Soyuz TMA-12M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Aleksandr Skvortsov (cosmonaut) 	 Shchyolkovo 
+ JCSAT-11 	 SKY Perfect JSAT Group 	 Baikonur Cosmodrome 				
+ CBERS-2 	 China National Space Administration 	 Taiyuan Satellite Launch Center 				
+ EchoStar XVI 	 EchoStar 	 Baikonur Cosmodrome 				
+ Kosmos 2464 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ STS-67 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William G. Gregory 	 New York City 
+ STS-41-C 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Dick Scobee 	 Cle Elum, Washington 
+ Kosmos 2449 	 Russian Space Forces 	 Baikonur Cosmodrome Site 81 				
+ Intelsat 901 	 Intelsat 	 ELA-2 				
+ Rubin-8 	 OHB-System 	 Satish Dhawan Space Centre Second Launch Pad 				
+ Venera 8 	 Lavochkin 	 Baikonur Cosmodrome 				
+ SwissCube-1 	 Ecole Polytechnique Fédérale de Lausanne 	 Satish Dhawan Space Centre 				
+ Intelsat 23 	 Intelsat 	 Baikonur Cosmodrome Site 81 				
+ STS-51-I 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard O. Covey 	 Fayetteville, Arkansas 
+ Cosmic Background Explorer 	 National Aeronautics and Space Administration 	 Vandenberg Air Force Base 				
+ Cartosat-2A 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre Second Launch Pad 				
+ STS-96 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Tamara E. Jernigan 	 Chattanooga, Tennessee 
+ Gemini 8 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Neil Armstrong 	 United States 
+ STS-41-D 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Judith Resnik 	 Akron, Ohio 
+ STS-47 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Mamoru Mohri 	 Japan 
+ Apollo 11 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Neil Armstrong 	 United States 
+ Kosmos 2282 	 VKS 	 Baikonur Cosmodrome Site 81 				
+ Small Astronomy Satellite 2 	 NASA 	 Broglio Space Centre 				
+ STS-72 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Brian Duffy (astronaut) 	 Boston 
+ Apollo 7 	 NASA 	 Cape Canaveral Air Force Station 	28.4889,-80.5778	 Walter Cunningham 	 Creston, Iowa 
+ Soyuz TMA-21 	 Roskosmos 	 Baikonur Cosmodrome Site 1 				
+ STS-50 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Ellen S. Baker 	 Fayetteville, North Carolina 
+ STS-37 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Jerry L. Ross 	 Crown Point, Indiana 
+ PharmaSat 	 NASA 	 Mid-Atlantic Regional Spaceport Launch Pad 0 				
+ STS-42 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 William F. Readdy 	 Quonset Point, Rhode Island 
+ STS-38 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Richard O. Covey 	 Fayetteville, Arkansas 
+ Titan Mare Explorer 	 NASA 	 Cape Canaveral Air Force Station 				
+ USA-225 	 National Reconnaissance Office 	 Vandenberg Air Force Base 				
+ STS-77 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Daniel W. Bursch 	 Bristol, Pennsylvania 
+ Landsat 5 	 National Oceanic and Atmospheric Administration 	 Vandenberg Air Force Base 				
+ Vostok 6 	 Soviet space program 	 Baikonur Cosmodrome Site 1 				
+ SRMSAT 	 SRM University 	 Satish Dhawan Space Centre 				
+ Intelsat 33e 	 Intelsat 	 Guiana Space Center 				
+ Soyuz 6 	 Soviet space program 	 Baikonur Cosmodrome 	45.92,63.342	 Valeri Kubasov 	 Soviet Union 
+ STS-51-B 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Frederick D. Gregory 	 Washington, D.C. 
+ Aditya (satellite) 	 Indian Space Research Organisation 	 Satish Dhawan Space Centre 				
+ TDRS-1 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Lunar Polar Hydrogen Mapper 	 NASA 	 Kennedy Space Center Launch Complex 39 				
+ Star One C2 	 Star One (satellite operator) 	 Guiana Space Centre 				
