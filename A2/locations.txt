@@ -1,6 +1,6 @@
 label	type    origin  wealth  row latlng
 bridge	location    a   4   apple	30.043747,31.229464
 museum	location    b   8   banana	30.047778,31.233333
-talaat harb	location    c   fruits   7	30.044939,31.23680
-Omar Makram	location    d   orange   5	30.045360,31.23670
+talaat harb	location    c   7   fruits  30.044939,31.23680
+Omar Makram	location    d   5   orange  30.045360,31.23670
 tahrir	location    e   3   guava	30.044422,31.235696
