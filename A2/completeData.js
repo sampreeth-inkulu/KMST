@@ -13269,32 +13269,32 @@
 			"latAndLong" :      ",",
 			"spaceAgencyName" : "US Air Force"
 		},
-    {
+		{
 			"label" :           "COROT",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :         "45.99611111,63.56416667",
 			"spaceAgencyName" : "CNES"
 		},
 		{
 			"label" :           "Kitsat-3",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :         "13.733,80.235",
 			"spaceAgencyName" : "KAIST"
 		},
 		{
 			"label" :           "Colorado Student Space Weather Experiment",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "University of Colorado Boulder"
 		},
 		{
 			"label" :           "Astrosat",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -13311,56 +13311,56 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "OPS 5112",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "OPS 5113",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "OPS 5111",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "OPS 5117",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "OPS 5114",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Geosat",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Navy"
 		},
 		{
 			"label" :           "Bion 10",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 43",
-			"latAndLong" :      "40.46694444,62.92",
+			"latAndLong" :       "62.92,40.46694444",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
@@ -13388,7 +13388,7 @@
 			"label" :           "Kosmos 434",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
@@ -13408,7 +13408,7 @@
 			"label" :           "Intelsat 708",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -13425,7 +13425,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -13439,14 +13439,14 @@
 			"label" :           "UniBRITE-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "University of Vienna"
 		},
 		{
 			"label" :           "Oceansat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -13463,77 +13463,77 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Oceansat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "STSAT-2C",
 			"type" :            "Item",
 			"launchplaceName" : "Naro Space Center",
-			"latAndLong" :      "127.53506944,34.43186667",
+			"latAndLong" :       "34.43186667,127.53506944",
 			"spaceAgencyName" : "Korea Aerospace Research Institute"
 		},
 		{
 			"label" :           "STSAT-2B",
 			"type" :            "Item",
 			"launchplaceName" : "Naro Space Center",
-			"latAndLong" :      "127.53506944,34.43186667",
+			"latAndLong" :       "34.43186667,127.53506944",
 			"spaceAgencyName" : "Korea Aerospace Research Institute"
 		},
 		{
 			"label" :           "Navstar 7",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "STSAT-2A",
 			"type" :            "Item",
 			"launchplaceName" : "Naro Space Center",
-			"latAndLong" :      "127.53506944,34.43186667",
+			"latAndLong" :       "34.43186667,127.53506944",
 			"spaceAgencyName" : "Korea Aerospace Research Institute"
 		},
 		{
 			"label" :           "Tropical Rainfall Measuring Mission",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Q686920",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Kosmos 638",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Ikonos",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 6",
-			"latAndLong" :      "-120.626,34.5814",
+			"latAndLong" :       "34.5814,-120.626",
 			"spaceAgencyName" : "DigitalGlobe"
 		},
 		{
 			"label" :           "SES-8",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
@@ -13547,28 +13547,28 @@
 			"label" :           "SES-9",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "TDRS-9",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Bispectral InfraRed Detector",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
 			"label" :           "Pioneer 10",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : [
 				"Ames Research Center",
 				"National Aeronautics and Space Administration"
@@ -13578,49 +13578,49 @@
 			"label" :           "AsiaSat 2",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
 			"label" :           "Badr-4",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Arab Satellite Communications Organization"
 		},
 		{
 			"label" :           "TDRS-8",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Wide-field Infrared Survey Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Jet Propulsion Laboratory"
 		},
 		{
 			"label" :           "GSAT-6A",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Badr-1",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "Space and Upper Atmosphere Research Commission"
 		},
 		{
 			"label" :           "SES-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES World Skies"
 		},
 		{
@@ -13634,21 +13634,21 @@
 			"label" :           "BelKA",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "National Academy of Sciences of Belarus"
 		},
 		{
 			"label" :           "SES-3",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "SES-6",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
@@ -13665,49 +13665,49 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "TDRS-B",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TDRS-L",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-202",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
 			"label" :           "USA-203",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "WorldView-3",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "DigitalGlobe"
 		},
 		{
 			"label" :           "Jason-3",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : [
 				"CNES",
 				"EUMETSAT",
@@ -13719,21 +13719,21 @@
 			"label" :           "WorldView-2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "DigitalGlobe"
 		},
 		{
 			"label" :           "USA-201",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Jason-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : [
 				"CNES",
 				"National Aeronautics and Space Administration"
@@ -13743,42 +13743,42 @@
 			"label" :           "GSAT-5P",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "TDRS-K",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "WorldView-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "DigitalGlobe"
 		},
 		{
 			"label" :           "USA-206",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-204",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-205",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Missile Defense Agency"
 		},
 		{
@@ -13799,21 +13799,21 @@
 			"label" :           "IRS-P2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRS-P1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRS-P3",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -13830,7 +13830,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -13847,21 +13847,21 @@
 			"label" :           "A Broadband Imaging X-ray All-sky Survey",
 			"type" :            "Item",
 			"launchplaceName" : "Kapustin Yar",
-			"latAndLong" :      "46.2952,48.5655",
+			"latAndLong" :       "48.5655,46.2952",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
 			"label" :           "AsiaSat 5",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
 			"label" :           "AsiaSat 6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
@@ -13875,7 +13875,7 @@
 			"label" :           "AsiaSat 7",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
@@ -13889,21 +13889,21 @@
 			"label" :           "AsiaSat 8",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
 			"label" :           "AsiaSat 9",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "AsiaSat"
 		},
 		{
 			"label" :           "DirecTV-10",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "DirecTV"
 		},
 		{
@@ -13920,14 +13920,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Intelsat 22",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -13941,7 +13941,7 @@
 			"label" :           "Kosmos 2350",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -13955,7 +13955,7 @@
 			"label" :           "DirecTV-12",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "DirecTV"
 		},
 		{
@@ -13976,7 +13976,7 @@
 			"label" :           "Q41703834",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : [
 				"Japan Aerospace Exploration Agency",
 				"National Aeronautics and Space Administration"
@@ -14007,35 +14007,35 @@
 			"label" :           "Progress M-27M",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Thaicom 8",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Thaicom"
 		},
 		{
 			"label" :           "Thaicom 6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Thaicom"
 		},
 		{
 			"label" :           "G\u00F6kt\u00FCrk-2",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "Ministry of National Defence"
 		},
 		{
 			"label" :           "2001 Mars Odyssey",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
 				"National Aeronautics and Space Administration"
@@ -14045,7 +14045,7 @@
 			"label" :           "Kosmos 2345",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -14062,28 +14062,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Eutelsat 36B",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "Eutelsat 36A",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "Progress MS-09",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -14097,7 +14097,7 @@
 			"label" :           "Progress MS-07",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -14106,21 +14106,21 @@
 			"astroName" :       "Alan Shepard",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 672",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Progress MS-08",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -14134,7 +14134,7 @@
 			"label" :           "Kosmos 670",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -14145,8 +14145,8 @@
 				"Baikonur Cosmodrome"
 			],
 			"latAndLong" :      [
-				"63.56416667,45.99611111",
-				"63.3051,45.9648"
+				 "45.99611111,63.56416667",
+				 "45.9648,63.3051"
 			],
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
@@ -14154,21 +14154,21 @@
 			"label" :           "KSAT2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Kagoshima University"
 		},
 		{
 			"label" :           "Progress MS-02",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "GSAT-14",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -14189,14 +14189,14 @@
 			"label" :           "Progress M-28M",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "GSAT-12",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -14211,8 +14211,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "Space Research Centre of Polish Academy of Sciences"
 		},
@@ -14220,14 +14220,14 @@
 			"label" :           "Eutelsat 16C",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "Mikhailo Lomonosov",
 			"type" :            "Item",
 			"launchplaceName" : "Vostochny Cosmodrome Site 1S",
-			"latAndLong" :      "128.334591666,51.884333333",
+			"latAndLong" :       "51.884333333,128.334591666",
 			"spaceAgencyName" : "Moscow State University"
 		},
 		{
@@ -14248,7 +14248,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14269,7 +14269,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14290,7 +14290,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14307,7 +14307,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -14328,28 +14328,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "T\u00FCrksat 4B",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "T\u00FCrksat"
 		},
 		{
 			"label" :           "CP-6",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "California Polytechnic State University"
 		},
 		{
 			"label" :           "Mars Polar Lander",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
 				"National Aeronautics and Space Administration"
@@ -14373,7 +14373,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14401,7 +14401,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14422,7 +14422,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14457,28 +14457,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "UK-DMC 2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "British National Space Centre"
 		},
 		{
 			"label" :           "OPUSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Osaka Prefecture University"
 		},
 		{
 			"label" :           "GSAT-4",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -14492,28 +14492,28 @@
 			"label" :           "GSAT-3",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "GSAT-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "GSAT-9",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "TET-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
@@ -14527,7 +14527,7 @@
 			"label" :           "Telstar 401",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "AT&T Corporation"
 		},
 		{
@@ -14550,7 +14550,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14567,7 +14567,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -14588,14 +14588,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Intelsat 16",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -14620,7 +14620,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14641,7 +14641,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14666,56 +14666,56 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GSAT-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Chang\'e 5",
 			"type" :            "Item",
 			"launchplaceName" : "Wenchang Satellite Launch Center",
-			"latAndLong" :      "110.951133333,19.614491666",
+			"latAndLong" :       "19.614491666,110.951133333",
 			"spaceAgencyName" : "China National Space Administration"
 		},
 		{
 			"label" :           "Intelsat 15",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Chang\'e 3",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "China National Space Administration"
 		},
 		{
 			"label" :           "Intelsat 14",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "International Ultraviolet Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Orbiting Carbon Observatory",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Launch Complex 576",
-			"latAndLong" :      "-120.619,34.7394",
+			"latAndLong" :       "34.7394,-120.619",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14736,7 +14736,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14761,7 +14761,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14789,7 +14789,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14810,7 +14810,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14831,14 +14831,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kounotori 2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
@@ -14863,7 +14863,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14874,8 +14874,8 @@
 				"Cape Canaveral Air Force Station"
 			],
 			"latAndLong" :      [
-				"-80.5661,28.4467",
-				"-80.577777777,28.488888888"
+				 "28.4467,-80.5661",
+				 "28.488888888,-80.577777777"
 			],
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
@@ -14886,49 +14886,49 @@
 			"label" :           "Kounotori 3",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Kounotori 4",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "EduSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Italian Space Agency"
 		},
 		{
 			"label" :           "Kounotori 6",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Ekspress-AMU1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
 			"label" :           "MABES",
 			"type" :            "Item",
 			"launchplaceName" : "Tanegashima Space Center",
-			"latAndLong" :      "130.97,30.4",
+			"latAndLong" :       "30.4,130.97",
 			"spaceAgencyName" : "National Space Development Agency"
 		},
 		{
 			"label" :           "Terra",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14949,7 +14949,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14974,7 +14974,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -14999,7 +14999,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15024,7 +15024,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15049,7 +15049,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15074,7 +15074,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15095,7 +15095,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15123,7 +15123,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15137,7 +15137,7 @@
 			"label" :           "Chandrayaan-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -15162,14 +15162,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Graham",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "Ames Research Center"
 		},
 		{
@@ -15192,21 +15192,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "CUTE-1.7 + APD II",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Tokyo Institute of Technology"
 		},
 		{
 			"label" :           "Progress M-SO1",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15227,14 +15227,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "ITF-1",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "University of Tsukuba"
 		},
 		{
@@ -15248,7 +15248,7 @@
 			"label" :           "OSIRIS-REx",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : [
 				"Lockheed Martin",
 				"Lunar and Planetary Laboratory",
@@ -15259,7 +15259,7 @@
 			"label" :           "Resourcesat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -15274,7 +15274,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15291,7 +15291,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15306,7 +15306,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15325,21 +15325,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Advanced Land Observation Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Soyuz T-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15362,7 +15362,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15383,7 +15383,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15406,14 +15406,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Big Joe 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15438,7 +15438,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15452,7 +15452,7 @@
 			"label" :           "Hinotori",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
@@ -15466,7 +15466,7 @@
 			"label" :           "Solrad 8",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility Launch Area 3",
-			"latAndLong" :      "-75.4725,37.8506",
+			"latAndLong" :       "37.8506,-75.4725",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15489,7 +15489,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15514,14 +15514,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Ciel-2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Ciel Satellite Group"
 		},
 		{
@@ -15542,7 +15542,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15565,7 +15565,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15588,7 +15588,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15605,7 +15605,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15629,7 +15629,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15659,7 +15659,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15678,7 +15678,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15695,14 +15695,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "RemoveDEBRIS",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Surrey Satellite Technology"
 		},
 		{
@@ -15717,14 +15717,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Dong Fang Hong I",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Academy of Space Technology"
 		},
 		{
@@ -15741,7 +15741,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -15758,14 +15758,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "SES7",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "ProtoStar"
 		},
 		{
@@ -15782,7 +15782,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15799,14 +15799,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Astronomische Nederlandse Satelliet",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 5",
-			"latAndLong" :      "-120.625,34.608",
+			"latAndLong" :       "34.608,-120.625",
 			"spaceAgencyName" : "Netherlands Institute for Space Research"
 		},
 		{
@@ -15825,7 +15825,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15844,7 +15844,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15863,7 +15863,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15880,7 +15880,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15901,7 +15901,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15918,7 +15918,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15941,7 +15941,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -15960,7 +15960,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -15985,7 +15985,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16004,7 +16004,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16027,7 +16027,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16050,7 +16050,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16073,7 +16073,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16094,7 +16094,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16115,7 +16115,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16136,7 +16136,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16160,7 +16160,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16183,7 +16183,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16208,14 +16208,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "AMC 1",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "SES Americom"
 		},
 		{
@@ -16235,14 +16235,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Mercury-Redstone BD",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16273,7 +16273,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16288,7 +16288,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16303,7 +16303,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16322,7 +16322,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16341,7 +16341,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16356,7 +16356,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16371,7 +16371,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16388,7 +16388,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16399,8 +16399,8 @@
 				"Cape Canaveral Air Force Station"
 			],
 			"latAndLong" :      [
-				"-80.5772,28.5621",
-				"-80.577777777,28.488888888"
+				 "28.5621,-80.5772",
+				 "28.488888888,-80.577777777"
 			],
 			"spaceAgencyName" : [
 				"European Space Agency",
@@ -16412,7 +16412,7 @@
 			"label" :           "Himawari 8",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Meteorological Agency"
 		},
 		{
@@ -16429,7 +16429,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16446,14 +16446,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Discoverer 1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 1",
-			"latAndLong" :      "-120.6213,34.7537",
+			"latAndLong" :       "34.7537,-120.6213",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -16470,7 +16470,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16487,28 +16487,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Dragon C2+",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Ekspress AM7",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
 			"label" :           "Formosat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Launch Complex 576",
-			"latAndLong" :      "-120.619,34.7394",
+			"latAndLong" :       "34.7394,-120.619",
 			"spaceAgencyName" : "National Space Organization"
 		},
 		{
@@ -16525,7 +16525,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16542,7 +16542,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -16550,8 +16550,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg Air Force Base",
 			"latAndLong" :      [
-				"-120.497778,34.750833",
-				"-120.51817,34.7483"
+				 "34.750833,-120.497778",
+				 "34.7483,-120.51817"
 			],
 			"spaceAgencyName" : "National Space Organization"
 		},
@@ -16569,14 +16569,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "CASSIOPE",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "MacDonald, Dettwiler and Associates"
 		},
 		{
@@ -16601,7 +16601,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16626,28 +16626,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "CALIPSO",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Formosat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 46",
-			"latAndLong" :      "-80.5284,28.4585",
+			"latAndLong" :       "28.4585,-80.5284",
 			"spaceAgencyName" : "National Space Organization"
 		},
 		{
 			"label" :           "Himawari 9",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Meteorological Agency"
 		},
 		{
@@ -16670,7 +16670,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16697,14 +16697,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES 8",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
@@ -16727,7 +16727,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16757,7 +16757,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16782,7 +16782,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16807,7 +16807,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16832,14 +16832,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
@@ -16866,7 +16866,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -16887,42 +16887,42 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "IRNSS-1C",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRNSS-1D",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRNSS-1A",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "GOES 9",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "IRNSS-1B",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -16949,42 +16949,42 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Cygnus CRS OA-6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TacSat-4",
 			"type" :            "Item",
 			"launchplaceName" : "Kodiak Launch Complex",
-			"latAndLong" :      "-152.338,57.4358",
+			"latAndLong" :       "57.4358,-152.338",
 			"spaceAgencyName" : "United States Naval Research Laboratory"
 		},
 		{
 			"label" :           "TacSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Rugby League"
 		},
 		{
 			"label" :           "Sputnik 1",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "Sputnik 2",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "S.P. Korolev Rocket and Space Corporation Energia"
 		},
 		{
@@ -16998,42 +16998,42 @@
 			"label" :           "Sputnik 3",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "S.P. Korolev Rocket and Space Corporation Energia"
 		},
 		{
 			"label" :           "EchoStar XV",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "EchoStar"
 		},
 		{
 			"label" :           "Mars Global Surveyor",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "IRNSS-1E",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRNSS-1G",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRNSS-1H",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -17065,7 +17065,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17089,7 +17089,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17114,7 +17114,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17146,7 +17146,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17167,7 +17167,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17192,7 +17192,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17215,14 +17215,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "\u00D8rsted",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Danish Meteorological Institute"
 		},
 		{
@@ -17241,7 +17241,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17262,7 +17262,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17287,21 +17287,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TDRS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Little Joe 5",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops LA-1",
-			"latAndLong" :      "-75.4861,37.8352",
+			"latAndLong" :       "37.8352,-75.4861",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17315,7 +17315,7 @@
 			"label" :           "TDRS-3",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17329,91 +17329,91 @@
 			"label" :           "Spektr-R",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Astro Space Center"
 		},
 		{
 			"label" :           "TDRS-5",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TDRS-4",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TDRS-7",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TDRS-6",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Magnetospheric Multiscale Mission",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Coriolis",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "United States Naval Research Laboratory"
 		},
 		{
 			"label" :           "Ginga",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
 			"label" :           "Kosmos 869",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Little Joe 1",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility",
-			"latAndLong" :      "-75.457222222,37.938611111",
+			"latAndLong" :       "37.938611111,-75.457222222",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Little Joe 2",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility",
-			"latAndLong" :      "-75.457222222,37.938611111",
+			"latAndLong" :       "37.938611111,-75.457222222",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES-G",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "COSMO-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Italian Space Agency"
 		},
 		{
@@ -17424,8 +17424,8 @@
 				"Baikonur Cosmodrome"
 			],
 			"latAndLong" :      [
-				"63.56416667,45.99611111",
-				"63.3051,45.9648"
+				 "45.99611111,63.56416667",
+				 "45.9648,63.3051"
 			],
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
@@ -17440,35 +17440,35 @@
 			"label" :           "Ofek-9",
 			"type" :            "Item",
 			"launchplaceName" : "Palmachim Airbase",
-			"latAndLong" :      "34.690555555,31.897777777",
+			"latAndLong" :       "31.897777777,34.690555555",
 			"spaceAgencyName" : "Ministry of Defense"
 		},
 		{
 			"label" :           "Ofek-7",
 			"type" :            "Item",
 			"launchplaceName" : "Palmachim Airbase",
-			"latAndLong" :      "34.690555555,31.897777777",
+			"latAndLong" :       "31.897777777,34.690555555",
 			"spaceAgencyName" : "Ministry of Defense"
 		},
 		{
 			"label" :           "PAGEOS",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Bell",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "EchoStar VI",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "EchoStar"
 		},
 		{
@@ -17482,14 +17482,14 @@
 			"label" :           "UWE-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "University of W\u00FCrzburg"
 		},
 		{
 			"label" :           "Kosmos 2133",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -17498,7 +17498,7 @@
 			"astroName" :       "Ham",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17507,14 +17507,14 @@
 			"astroName" :       "Alan Shepard",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Ekspress-AM4",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
@@ -17523,21 +17523,21 @@
 			"astroName" :       "Gus Grissom",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Nanosat-1B",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "Instituto Nacional de T\u00E9cnica Aeroespacial"
 		},
 		{
 			"label" :           "Technology Experiment Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -17545,8 +17545,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "Ministry of Land and Resources of the People\'s Republic of China"
 		},
@@ -17554,28 +17554,28 @@
 			"label" :           "STARS-II",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Kagawa University"
 		},
 		{
 			"label" :           "ADEOS I",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "National Space Development Agency"
 		},
 		{
 			"label" :           "Kosmos 496",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "PAS-22",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 81",
-			"latAndLong" :      "62.98472222,46.07083333",
+			"latAndLong" :       "46.07083333,62.98472222",
 			"spaceAgencyName" : [
 				"AsiaSat",
 				"Hughes Aircraft Company"
@@ -17585,14 +17585,14 @@
 			"label" :           "OPS 5118",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "CUTE-1.7 + APD",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Tokyo Institute of Technology"
 		},
 		{
@@ -17614,7 +17614,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17629,14 +17629,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Van Allen Probe A",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17651,7 +17651,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17659,8 +17659,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "China National Space Administration"
 		},
@@ -17668,7 +17668,7 @@
 			"label" :           "Gemini 2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17683,14 +17683,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Van Allen Probe B",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17705,28 +17705,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Luna 13",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "TIMED",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Cygnus CRS Orb-9E",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "Orbital ATK"
 		},
 		{
@@ -17740,14 +17740,14 @@
 			"label" :           "Luna 10",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "ExoMars Trace Gas Orbiter",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"Roscosmos State Corporation"
@@ -17757,7 +17757,7 @@
 			"label" :           "Telstar 14R",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Telesat"
 		},
 		{
@@ -17786,7 +17786,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17803,7 +17803,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17818,7 +17818,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17836,21 +17836,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Courier 1B",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Apollo 4",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17865,14 +17865,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Apollo 5",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -17889,21 +17889,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 34",
-			"latAndLong" :      "-80.5614,28.5219",
+			"latAndLong" :       "28.5219,-80.5614",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Space Flyer Unit",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "National Space Development Agency"
 		},
 		{
 			"label" :           "Soyuz 2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17912,7 +17912,7 @@
 			"astroName" :       "Vladimir Komarov",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17929,7 +17929,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -17938,14 +17938,14 @@
 			"astroName" :       "Georgy Beregovoy",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "EchoStar 105\/SES-11",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : [
 				"EchoStar",
 				"SES S.A."
@@ -17955,35 +17955,35 @@
 			"label" :           "Gemini 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 19",
-			"latAndLong" :      "-80.5542,28.5067",
+			"latAndLong" :       "28.5067,-80.5542",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Gaofen 1",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China National Space Administration"
 		},
 		{
 			"label" :           "Cygnus CRS Orb-8E",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "Orbital ATK"
 		},
 		{
 			"label" :           "O\/OREOS",
 			"type" :            "Item",
 			"launchplaceName" : "Kodiak Launch Complex",
-			"latAndLong" :      "-152.338,57.4358",
+			"latAndLong" :       "57.4358,-152.338",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Mars Orbiter Mission",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -17991,8 +17991,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "China National Space Administration"
 		},
@@ -18007,7 +18007,7 @@
 			"label" :           "Exploration Mission 1",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"National Aeronautics and Space Administration"
@@ -18018,8 +18018,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "China National Space Administration"
 		},
@@ -18027,7 +18027,7 @@
 			"label" :           "Hayabusa 2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
@@ -18035,8 +18035,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "China National Space Administration"
 		},
@@ -18044,49 +18044,49 @@
 			"label" :           "NOAA-15",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "NOAA-16",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "AubieSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Auburn University"
 		},
 		{
 			"label" :           "NOAA-17",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "NOAA-18",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "Kosmos 238",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Sirius FM-5",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Sirius XM Radio"
 		},
 		{
@@ -18094,8 +18094,8 @@
 			"type" :            "Item",
 			"launchplaceName" : "Taiyuan Satellite Launch Center",
 			"latAndLong" :      [
-				"111.608,38.8491",
-				"111.608,38.8489"
+				 "38.8491,111.608",
+				 "38.8489,111.608"
 			],
 			"spaceAgencyName" : "China National Space Administration"
 		},
@@ -18103,14 +18103,14 @@
 			"label" :           "Glory",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Launch Complex 576",
-			"latAndLong" :      "-120.619,34.7394",
+			"latAndLong" :       "34.7394,-120.619",
 			"spaceAgencyName" : "Goddard Space Flight Center"
 		},
 		{
 			"label" :           "INTEGRAL",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"National Aeronautics and Space Administration",
@@ -18121,42 +18121,42 @@
 			"label" :           "NOAA-19",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "KA-SAT",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "A-101",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Lunar Reconnaissance Orbiter",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Apolla 6",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "A-105",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -18185,14 +18185,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Mars Climate Orbiter",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
 				"National Aeronautics and Space Administration"
@@ -18202,49 +18202,49 @@
 			"label" :           "SumbandilaSat",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Stellenbosch University"
 		},
 		{
 			"label" :           "Paksat-1R",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "Space and Upper Atmosphere Research Commission"
 		},
 		{
 			"label" :           "Intelsat I",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "COMSAT"
 		},
 		{
 			"label" :           "Drag and Atmospheric Neutral Density Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "University of Colorado Boulder"
 		},
 		{
 			"label" :           "RADARSAT-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Canadian Space Agency"
 		},
 		{
 			"label" :           "RADARSAT-2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "MacDonald, Dettwiler and Associates"
 		},
 		{
 			"label" :           "INSAT-4CR",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -18267,7 +18267,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -18288,7 +18288,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -18311,14 +18311,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-183",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -18339,7 +18339,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -18358,49 +18358,49 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Soyuz TM-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "GEOTAIL",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
 			"label" :           "USA-180",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "ROSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
 			"label" :           "Cygnus CRS Orb-5",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Omid",
 			"type" :            "Item",
 			"launchplaceName" : "Imam Khomeini Spaceport",
-			"latAndLong" :      "53.920798,35.23444",
+			"latAndLong" :       "35.23444,53.920798",
 			"spaceAgencyName" : "Iranian Space Agency"
 		},
 		{
@@ -18425,8 +18425,8 @@
 				"Baikonur Cosmodrome"
 			],
 			"latAndLong" :      [
-				"62.98472222,46.07083333",
-				"63.3051,45.9648"
+				 "46.07083333,62.98472222",
+				 "45.9648,63.3051"
 			],
 			"spaceAgencyName" : "EchoStar"
 		},
@@ -18441,14 +18441,14 @@
 			"label" :           "USA-178",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-175",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -18463,14 +18463,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-177",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -18489,7 +18489,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -18514,35 +18514,35 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-195",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-192",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Eutelsat 8 West C",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "USA-190",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -18556,7 +18556,7 @@
 			"label" :           "Negai",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "S\u014Dka University"
 		},
 		{
@@ -18577,7 +18577,7 @@
 			"label" :           "AMC-3",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "SES Americom"
 		},
 		{
@@ -18591,7 +18591,7 @@
 			"label" :           "SwissCube-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "\u00C9cole polytechnique f\u00E9d\u00E9rale de Lausanne"
 		},
 		{
@@ -18612,28 +18612,28 @@
 			"label" :           "NigComSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "NIGCOMSAT"
 		},
 		{
 			"label" :           "Express MD1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
 			"label" :           "TUGSAT-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Graz University of Technology"
 		},
 		{
 			"label" :           "SNAP-1",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "Surrey Satellite Technology"
 		},
 		{
@@ -18650,7 +18650,7 @@
 			"label" :           "Kosmos 1894",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -18681,7 +18681,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -18698,7 +18698,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center",
-			"latAndLong" :      "-80.650833,28.585278",
+			"latAndLong" :       "28.585278,-80.650833",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -18712,91 +18712,91 @@
 			"label" :           "USA-196",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-199",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Kosmos 1629",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "TerraSAR-X",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
 			"label" :           "Crew Module Atmospheric Re-entry Experiment",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Jugnu",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Institute of Technology Kanpur"
 		},
 		{
 			"label" :           "A-102 (spacecraft)",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 1074",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Phobos 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Research Institute"
 		},
 		{
 			"label" :           "Phobos 2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Research Institute"
 		},
 		{
 			"label" :           "Libertad 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "Sergio Arboleda University"
 		},
 		{
 			"label" :           "USA-5",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "DubaiSat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Emirates Institution for Advanced Science and Technology"
 		},
 		{
@@ -18810,42 +18810,42 @@
 			"label" :           "DubaiSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "Emirates Institution for Advanced Science and Technology"
 		},
 		{
 			"label" :           "MOST",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "Canadian Space Agency"
 		},
 		{
 			"label" :           "Granat",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-135",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-132",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "InSight",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
 				"National Aeronautics and Space Administration"
@@ -18855,77 +18855,77 @@
 			"label" :           "Soil Moisture and Ocean Salinity satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "Thor 5",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Telenor"
 		},
 		{
 			"label" :           "ADEOS II",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "National Space Development Agency"
 		},
 		{
 			"label" :           "Hispasat 30W-6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Hispasat"
 		},
 		{
 			"label" :           "Cartosat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Ginrei",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Shinshu University"
 		},
 		{
 			"label" :           "USA-145",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Cartosat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "CryoSat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "CryoSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "Arabsat-1B",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "Arab Satellite Communications Organization"
 		},
 		{
@@ -18939,42 +18939,42 @@
 			"label" :           "Gamma",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-151",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-150",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Progress M1-11",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "TeikyoSat-3",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Teikyo University"
 		},
 		{
 			"label" :           "USA-154",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -18988,7 +18988,7 @@
 			"label" :           "Venera 2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "S.P. Korolev Rocket and Space Corporation Energia"
 		},
 		{
@@ -19007,7 +19007,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19026,7 +19026,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19041,7 +19041,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19056,14 +19056,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-156",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -19082,7 +19082,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19096,42 +19096,42 @@
 			"label" :           "AO-51",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "AMSAT"
 		},
 		{
 			"label" :           "ANUSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Anna University"
 		},
 		{
 			"label" :           "Voyager 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "EgyptSat 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "National Authority for Remote Sensing and Space Sciences"
 		},
 		{
 			"label" :           "Voyager 2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "EgyptSat 2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "National Authority for Remote Sensing and Space Sciences"
 		},
 		{
@@ -19154,7 +19154,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19181,7 +19181,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19212,7 +19212,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19237,7 +19237,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19268,7 +19268,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19291,7 +19291,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19316,14 +19316,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "STRaND-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "University of Surrey"
 		},
 		{
@@ -19339,7 +19339,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19354,7 +19354,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19369,7 +19369,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19391,7 +19391,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19418,14 +19418,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Soyuz 20",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19452,7 +19452,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19477,14 +19477,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Mercury-Redstone 1A",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19504,14 +19504,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Gravity Field and Steady-State Ocean Circulation Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
@@ -19526,7 +19526,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19542,7 +19542,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19567,14 +19567,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-166",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -19589,7 +19589,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19604,14 +19604,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-168",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -19626,7 +19626,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19641,7 +19641,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -19666,14 +19666,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TanDEM-X",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
@@ -19694,14 +19694,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Alexander (satellite)",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19726,7 +19726,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19751,14 +19751,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Telstar 19V",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Telesat"
 		},
 		{
@@ -19783,7 +19783,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19804,7 +19804,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19835,7 +19835,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19860,21 +19860,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Suomi NPP",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "A-103 (spacecraft)",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19895,7 +19895,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19926,7 +19926,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19947,7 +19947,7 @@
 			"label" :           "Eutelsat 115 West B",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
@@ -19968,7 +19968,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -19993,7 +19993,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20018,7 +20018,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20049,14 +20049,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Iridium 7",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Iridium Communications"
 		},
 		{
@@ -20087,7 +20087,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20102,7 +20102,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20116,7 +20116,7 @@
 			"label" :           "Satmex 8",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Satmex"
 		},
 		{
@@ -20131,7 +20131,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20156,7 +20156,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20188,7 +20188,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20226,7 +20226,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20251,21 +20251,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "UoSAT-12",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "University of Surrey"
 		},
 		{
 			"label" :           "Yamal-402",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Gazprom Space Systems"
 		},
 		{
@@ -20279,7 +20279,7 @@
 			"label" :           "Earth Radiation Budget Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20302,7 +20302,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20323,98 +20323,98 @@
 			"label" :           "Mercury-Scout 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 18",
-			"latAndLong" :      "-80.5623,28.4493",
+			"latAndLong" :       "28.4493,-80.5623",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Deimos-2",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Deimos Imaging"
 		},
 		{
 			"label" :           "PharmaSat",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 212",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Korabl-Sputnik 2",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Kosmos 213",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Korabl-Sputnik 1",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Deimos-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "Deimos Imaging"
 		},
 		{
 			"label" :           "Korabl-Sputnik 3",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Korabl-Sputnik 4",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Aryabhata",
 			"type" :            "Item",
 			"launchplaceName" : "Kapustin Yar",
-			"latAndLong" :      "46.2952,48.5655",
+			"latAndLong" :       "48.5655,46.2952",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Korabl-Sputnik 5",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Tianlian I-01",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
 			"label" :           "MESSENGER",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : [
 				"Applied Physics Laboratory",
 				"National Aeronautics and Space Administration"
@@ -20432,7 +20432,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20462,7 +20462,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20485,7 +20485,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20508,7 +20508,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20540,7 +20540,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20559,7 +20559,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20574,7 +20574,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -20583,14 +20583,14 @@
 			"astroName" :       "Yang Liwei",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
 			"label" :           "San Marco 1",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility Launch Area 3",
-			"latAndLong" :      "-75.4725,37.8506",
+			"latAndLong" :       "37.8506,-75.4725",
 			"spaceAgencyName" : "Consiglio Nazionale delle Ricerche"
 		},
 		{
@@ -20607,7 +20607,7 @@
 			"label" :           "Shenzhou 8",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -20621,7 +20621,7 @@
 			"label" :           "UK-DMC",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "British National Space Centre"
 		},
 		{
@@ -20638,7 +20638,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -20655,7 +20655,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -20675,14 +20675,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Megha-Tropiques",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -20702,14 +20702,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Amos-2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Spacecom"
 		},
 		{
@@ -20724,14 +20724,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Amos-3",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Spacecom"
 		},
 		{
@@ -20746,21 +20746,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Amos-4",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Spacecom"
 		},
 		{
 			"label" :           "USA-100",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -20785,7 +20785,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20812,14 +20812,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Inmarsat-4 F3",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Inmarsat"
 		},
 		{
@@ -20834,7 +20834,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20853,7 +20853,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20868,7 +20868,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20883,21 +20883,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Chinasat-9A",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "China Satellite Communications Co., Ltd."
 		},
 		{
 			"label" :           "Hinode",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
@@ -20912,7 +20912,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20931,7 +20931,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -20956,7 +20956,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -20983,7 +20983,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21010,7 +21010,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21037,7 +21037,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21062,7 +21062,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21089,7 +21089,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21116,7 +21116,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21143,7 +21143,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21157,42 +21157,42 @@
 			"label" :           "BeeSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Technical University of Berlin"
 		},
 		{
 			"label" :           "RAX-2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "SRI International"
 		},
 		{
 			"label" :           "USA-117",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Galaxy 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Hughes Communications"
 		},
 		{
 			"label" :           "Sina-1",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "Iranian Space Agency"
 		},
 		{
 			"label" :           "Kosmos 613",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -21206,7 +21206,7 @@
 			"label" :           "Mariner 3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 13",
-			"latAndLong" :      "-80.545,28.4864",
+			"latAndLong" :       "28.4864,-80.545",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21241,28 +21241,28 @@
 			"label" :           "Intelsat 603",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Intelsat 604",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Shenzhou 3",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
 			"label" :           "Shenzhou 4",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -21276,28 +21276,28 @@
 			"label" :           "Shenzhou 1",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
 			"label" :           "Shenzhou 2",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
 			"label" :           "Suzaku",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Kosmos 1001",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -21312,21 +21312,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Intelsat III F-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Intelsat III F-2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -21341,14 +21341,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Intelsat III F-3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -21363,7 +21363,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21377,7 +21377,7 @@
 			"label" :           "USA-128",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -21394,21 +21394,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-126",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "ITUpSAT1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "ITU School of Aeronautics and Astronautics"
 		},
 		{
@@ -21422,7 +21422,7 @@
 			"label" :           "Gurwin-II TechSat",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Technion \u2013 Israel Institute of Technology"
 		},
 		{
@@ -21457,14 +21457,14 @@
 			"label" :           "Little Joe 1B",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility",
-			"latAndLong" :      "-75.457222222,37.938611111",
+			"latAndLong" :       "37.938611111,-75.457222222",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 2411",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -21478,7 +21478,7 @@
 			"label" :           "Kosmos 2413",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -21492,7 +21492,7 @@
 			"label" :           "Kosmos 2412",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -21513,14 +21513,14 @@
 			"label" :           "M-Cubed",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "University of Michigan"
 		},
 		{
 			"label" :           "SpaceX CRS-8",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21530,7 +21530,7 @@
 			"label" :           "SpaceX CRS-9",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21540,14 +21540,14 @@
 			"label" :           "PROBA-2",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "SpaceX CRS-6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21557,7 +21557,7 @@
 			"label" :           "SpaceX CRS-7",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21567,7 +21567,7 @@
 			"label" :           "HALCA",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
@@ -21587,7 +21587,7 @@
 			"label" :           "SpaceX CRS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21601,8 +21601,8 @@
 				"Baikonur Cosmodrome"
 			],
 			"latAndLong" :      [
-				"63.56416667,45.99611111",
-				"63.3051,45.9648"
+				 "45.99611111,63.56416667",
+				 "45.9648,63.3051"
 			],
 			"spaceAgencyName" : "Ufa State Aviation Technical University"
 		},
@@ -21610,21 +21610,21 @@
 			"label" :           "AS-202",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 34",
-			"latAndLong" :      "-80.5614,28.5219",
+			"latAndLong" :       "28.5219,-80.5614",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "ViaSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "ViaSat"
 		},
 		{
 			"label" :           "SpaceX CRS-4",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21634,7 +21634,7 @@
 			"label" :           "SpaceX CRS-5",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21644,14 +21644,14 @@
 			"label" :           "Near Earth Object Surveillance Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Canadian Space Agency"
 		},
 		{
 			"label" :           "SpaceX CRS-2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21661,7 +21661,7 @@
 			"label" :           "SpaceX CRS-3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"SpaceX"
@@ -21671,7 +21671,7 @@
 			"label" :           "SAC-A",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "Comisi\u00F3n Nacional de Actividades Espaciales"
 		},
 		{
@@ -21699,7 +21699,7 @@
 			"label" :           "Lunar Orbiter 3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 13",
-			"latAndLong" :      "-80.545,28.4864",
+			"latAndLong" :       "28.4864,-80.545",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -21748,7 +21748,7 @@
 			"label" :           "Greenhouse Gases Observing Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
@@ -21762,28 +21762,28 @@
 			"label" :           "Palapa-D",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "Indosat"
 		},
 		{
 			"label" :           "Kosmos 772",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "GeneSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 573",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -21798,14 +21798,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "SCORE",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 11",
-			"latAndLong" :      "-80.5406,28.4756",
+			"latAndLong" :       "28.4756,-80.5406",
 			"spaceAgencyName" : "DARPA"
 		},
 		{
@@ -21819,7 +21819,7 @@
 			"label" :           "CAPE-1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 109",
-			"latAndLong" :      "63.44527778,45.9525",
+			"latAndLong" :       "45.9525,63.44527778",
 			"spaceAgencyName" : "University of Louisiana at Lafayette"
 		},
 		{
@@ -21833,56 +21833,56 @@
 			"label" :           "AMSAT-OSCAR 7",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "AMSAT"
 		},
 		{
 			"label" :           "Radio Aurora Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Kodiak Launch Complex",
-			"latAndLong" :      "-152.338,57.4358",
+			"latAndLong" :       "57.4358,-152.338",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "A-104 (spacecraft)",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "IRS-1A",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRS-1B",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Kosmos 2224",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "IRS-1C",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "IRS-1D",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -21899,7 +21899,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -21920,7 +21920,7 @@
 			"label" :           "Tianhui 1B",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -21934,28 +21934,28 @@
 			"label" :           "SARAL",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Mercury-Atlas 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "JCSAT-4A",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "SKY Perfect JSAT Group"
 		},
 		{
 			"label" :           "Resurs-P No.2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -21969,42 +21969,42 @@
 			"label" :           "Mercury-Atlas 4",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Hitomi",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Resurs-P No.1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "INSAT-4C",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Mercury-Atlas 5",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Mercury-Atlas 2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22018,7 +22018,7 @@
 			"label" :           "Mercury-Atlas 3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22027,7 +22027,7 @@
 			"astroName" :       "Wally Schirra",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22040,8 +22040,8 @@
 				"Cape Canaveral Air Force Station"
 			],
 			"latAndLong" :      [
-				"-80.5469,28.4911",
-				"-80.577777777,28.488888888"
+				 "28.4911,-80.5469",
+				 "28.488888888,-80.577777777"
 			],
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
@@ -22051,7 +22051,7 @@
 			"astroName" :       "John Glenn",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22060,7 +22060,7 @@
 			"astroName" :       "Scott Carpenter",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 14",
-			"latAndLong" :      "-80.5469,28.4911",
+			"latAndLong" :       "28.4911,-80.5469",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22078,9 +22078,9 @@
 				"Vandenberg Air Force Base"
 			],
 			"latAndLong" :      [
-				"-120.613,34.6327",
-				"-120.497778,34.750833",
-				"-120.51817,34.7483"
+				 "34.6327,-120.613",
+				 "34.750833,-120.497778",
+				 "34.7483,-120.51817"
 			],
 			"spaceAgencyName" : "Hisdesat"
 		},
@@ -22088,14 +22088,14 @@
 			"label" :           "ABS-3",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "Mabuhay Satellite Corporation"
 		},
 		{
 			"label" :           "Nimiq-4",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Telesat"
 		},
 		{
@@ -22112,7 +22112,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -22126,7 +22126,7 @@
 			"label" :           "Prowler",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -22143,14 +22143,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Polar",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22171,28 +22171,28 @@
 			"label" :           "AMC-14",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES Americom"
 		},
 		{
 			"label" :           "Kosmos 2470",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "Diwata-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "Department of Science and Technology of the Philippines"
 		},
 		{
 			"label" :           "Kosmos 2472",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 16",
-			"latAndLong" :      "40.69583333,62.95722222",
+			"latAndLong" :       "62.95722222,40.69583333",
 			"spaceAgencyName" : "Main Intelligence Directorate"
 		},
 		{
@@ -22209,7 +22209,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -22224,84 +22224,84 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 2480",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 16",
-			"latAndLong" :      "40.69583333,62.95722222",
+			"latAndLong" :       "62.95722222,40.69583333",
 			"spaceAgencyName" : "Main Intelligence Directorate"
 		},
 		{
 			"label" :           "Nimiq 5",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Telesat"
 		},
 		{
 			"label" :           "FUNcube-1",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "AMSAT"
 		},
 		{
 			"label" :           "Kosmos 2467",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "Kosmos 2468",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "GOES 12",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "ICESat-2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES 13",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "Lunar Atmosphere and Dust Environment Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES 10",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "GPS IIR-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -22315,28 +22315,28 @@
 			"label" :           "NanoSail-D2",
 			"type" :            "Item",
 			"launchplaceName" : "Kodiak Launch Complex",
-			"latAndLong" :      "-152.338,57.4358",
+			"latAndLong" :       "57.4358,-152.338",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "GOES 11",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "INSAT-4E",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "GOES 14",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"National Oceanic and Atmospheric Administration"
@@ -22356,28 +22356,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "GOES 15",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "Prospero",
 			"type" :            "Item",
 			"launchplaceName" : "Woomera Village",
-			"latAndLong" :      "136.817,-31.2",
+			"latAndLong" :       "-31.2,136.817",
 			"spaceAgencyName" : "Royal Aircraft Establishment"
 		},
 		{
 			"label" :           "Pioneer 3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 5",
-			"latAndLong" :      "-80.5733,28.4394",
+			"latAndLong" :       "28.4394,-80.5733",
 			"spaceAgencyName" : [
 				"Army Ballistic Missile Agency",
 				"National Aeronautics and Space Administration"
@@ -22394,7 +22394,7 @@
 			"label" :           "GOES-16",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : [
 				"National Aeronautics and Space Administration",
 				"National Oceanic and Atmospheric Administration"
@@ -22404,7 +22404,7 @@
 			"label" :           "EchoStar XIV",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "EchoStar"
 		},
 		{
@@ -22450,7 +22450,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -22464,21 +22464,21 @@
 			"label" :           "Angosat 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Q18480273"
 		},
 		{
 			"label" :           "Lem",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Space Research Centre of Polish Academy of Sciences"
 		},
 		{
 			"label" :           "Kosmos 2499",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "Government of Russia"
 		},
 		{
@@ -22499,7 +22499,7 @@
 			"label" :           "UoSAT-2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "University of Surrey"
 		},
 		{
@@ -22516,14 +22516,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Hisaki (satellite)",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
@@ -22548,14 +22548,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "QuikSCAT",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22576,7 +22576,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22606,14 +22606,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Cornell University Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "Cornell University"
 		},
 		{
@@ -22641,7 +22641,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -22656,14 +22656,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "ABS-3A",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "Asia Broadcast Satellite"
 		},
 		{
@@ -22680,42 +22680,42 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Meteor-3M No.1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Parker Solar Probe",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral",
-			"latAndLong" :      "-80.527777777,28.455555555",
+			"latAndLong" :       "28.455555555,-80.527777777",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "BeppoSAX",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "Italian Space Agency"
 		},
 		{
 			"label" :           "USA-38",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Active Cavity Radiometer Irradiance Monitor Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Launch Complex 576",
-			"latAndLong" :      "-120.619,34.7394",
+			"latAndLong" :       "34.7394,-120.619",
 			"spaceAgencyName" : [
 				"Jet Propulsion Laboratory",
 				"National Aeronautics and Space Administration"
@@ -22725,7 +22725,7 @@
 			"label" :           "USA-35",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -22746,14 +22746,14 @@
 			"label" :           "Orion 3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Loral Space & Communications"
 		},
 		{
 			"label" :           "Hubble Space Telescope",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"National Aeronautics and Space Administration"
@@ -22763,21 +22763,21 @@
 			"label" :           "RASAT",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "State Planning Organization"
 		},
 		{
 			"label" :           "INSAT-1A",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "INSAT-1B",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
@@ -22791,14 +22791,14 @@
 			"label" :           "Intelsat II F-4",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Intelsat II F-3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
@@ -22815,140 +22815,140 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Intelsat II F-2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Intelsat II F-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Telstar 301",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "AT&T Corporation"
 		},
 		{
 			"label" :           "Ekspress AM4R",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
 			"label" :           "Hispasat 1C",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "Hispasat"
 		},
 		{
 			"label" :           "Bion 9",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 41",
-			"latAndLong" :      "40.53,62.93138889",
+			"latAndLong" :       "62.93138889,40.53",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "Van Allen Probes",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-10",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Intelsat 35e",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "Intelsat"
 		},
 		{
 			"label" :           "Bion 6",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 41",
-			"latAndLong" :      "40.53,62.93138889",
+			"latAndLong" :       "62.93138889,40.53",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "UNIFORM-1",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Wakayama University"
 		},
 		{
 			"label" :           "Bion 5",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 41",
-			"latAndLong" :      "40.53,62.93138889",
+			"latAndLong" :       "62.93138889,40.53",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "EchoStar XVI",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "EchoStar"
 		},
 		{
 			"label" :           "Bion 8",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 41",
-			"latAndLong" :      "40.53,62.93138889",
+			"latAndLong" :       "62.93138889,40.53",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "Bion 7",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 41",
-			"latAndLong" :      "40.53,62.93138889",
+			"latAndLong" :       "62.93138889,40.53",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "PROBA",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "Bion 1",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 43",
-			"latAndLong" :      "40.46694444,62.92",
+			"latAndLong" :       "62.92,40.46694444",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "Bion 4",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 43",
-			"latAndLong" :      "40.46694444,62.92",
+			"latAndLong" :       "62.92,40.46694444",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
 			"label" :           "Bion 3",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 43",
-			"latAndLong" :      "40.46694444,62.92",
+			"latAndLong" :       "62.92,40.46694444",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
@@ -22962,7 +22962,7 @@
 			"label" :           "TecSAR",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Israel Aerospace Industries"
 		},
 		{
@@ -22983,14 +22983,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Kosmos 2251",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
@@ -23004,14 +23004,14 @@
 			"label" :           "Landsat 8",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Zhongxing-10",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "China Aerospace Science and Technology Corporation"
 		},
 		{
@@ -23028,91 +23028,91 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Landsat 4",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Landsat 5",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Landsat 6",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 4",
-			"latAndLong" :      "-120.613,34.6327",
+			"latAndLong" :       "34.6327,-120.613",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Landsat 7",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "United States Geological Survey"
 		},
 		{
 			"label" :           "ETS-VIII",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Aura",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Little Joe 5B",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops LA-1",
-			"latAndLong" :      "-75.4861,37.8352",
+			"latAndLong" :       "37.8352,-75.4861",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Little Joe 5A",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops LA-1",
-			"latAndLong" :      "-75.4861,37.8352",
+			"latAndLong" :       "37.8352,-75.4861",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Cartosat-2A",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Cartosat-2B",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Cartosat-2C",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "NOAA-7",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
@@ -23133,7 +23133,7 @@
 			"label" :           "NOAA-4",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
@@ -23142,7 +23142,7 @@
 			"astroName" :       "Valentina Tereshkova",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23151,7 +23151,7 @@
 			"astroName" :       "Valery Bykovsky",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23160,7 +23160,7 @@
 			"astroName" :       "Gherman Titov",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23169,7 +23169,7 @@
 			"astroName" :       "Yuri Gagarin",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23178,14 +23178,14 @@
 			"astroName" :       "Pavel Popovich",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "BILSAT-1",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "T\u00DCB\u0130TAK Space Technologies Research Institute"
 		},
 		{
@@ -23194,28 +23194,28 @@
 			"astroName" :       "Andriyan Nikolayev",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Akebono",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
 			"label" :           "NOAA-B",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "ATS-6",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -23229,7 +23229,7 @@
 			"label" :           "ATS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 12",
-			"latAndLong" :      "-80.5419,28.4803",
+			"latAndLong" :       "28.4803,-80.5419",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -23257,21 +23257,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "VRSS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "Bolivarian Agency for Space Activities"
 		},
 		{
 			"label" :           "ATS-3",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 12",
-			"latAndLong" :      "-80.5419,28.4803",
+			"latAndLong" :       "28.4803,-80.5419",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -23285,84 +23285,84 @@
 			"label" :           "Foton-M2",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "RISAT-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Kosmos 1546",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Space Forces"
 		},
 		{
 			"label" :           "Ekspress AM22",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Russian Satellite Communications Company"
 		},
 		{
 			"label" :           "Bangabandhu-1",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "Bangladesh Telecommunication Regulatory Commission"
 		},
 		{
 			"label" :           "RISAT-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Air Force"
 		},
 		{
 			"label" :           "Upper Atmosphere Research Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Delfi-n3Xt",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Delft University of Technology"
 		},
 		{
 			"label" :           "Falcon 9 Flight 20",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "Lunokhod 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "ALOS-2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "ZACUBE-1",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Cape Peninsula University of Technology"
 		},
 		{
@@ -23390,7 +23390,7 @@
 			"label" :           "AeroCube 3",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "The Aerospace Corporation"
 		},
 		{
@@ -23404,126 +23404,126 @@
 			"label" :           "Landsat 3",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Landsat 2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Landsat 1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "iCube-1",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "Institute of Space Technology"
 		},
 		{
 			"label" :           "HTV-1",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "TDRS-10",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "DLR-Tubsat",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Technical University of Berlin"
 		},
 		{
 			"label" :           "SDS-4",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Eutelsat 3D",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "SDS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "WINDS",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Telstar",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "OREX",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "National Space Development Agency"
 		},
 		{
 			"label" :           "Akari (satellite)",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Rasad 1",
 			"type" :            "Item",
 			"launchplaceName" : "Imam Khomeini Spaceport",
-			"latAndLong" :      "53.920798,35.23444",
+			"latAndLong" :       "35.23444,53.920798",
 			"spaceAgencyName" : "Iranian Space Agency"
 		},
 		{
 			"label" :           "SEEDS-2",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Nihon University"
 		},
 		{
 			"label" :           "Delfi-C3",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Delft University of Technology"
 		},
 		{
 			"label" :           "Solar and Heliospheric Observatory",
 			"type" :            "Item",
 			"launchplaceName" : "Spaceport Florida Launch Complex 36",
-			"latAndLong" :      "-80.54,28.470555555",
+			"latAndLong" :       "28.470555555,-80.54",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"National Aeronautics and Space Administration"
@@ -23533,7 +23533,7 @@
 			"label" :           "Kosmos 379",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
@@ -23561,14 +23561,14 @@
 			"label" :           "Koronas-Foton",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 32",
-			"latAndLong" :      "40.78666667,62.90638889",
+			"latAndLong" :       "62.90638889,40.78666667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Waseda-SAT2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Waseda University"
 		},
 		{
@@ -23582,42 +23582,42 @@
 			"label" :           "USA-94",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-96",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Q11699464",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-90",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-91",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-92",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -23631,98 +23631,98 @@
 			"label" :           "ORS-5",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : "Operationally Responsive Space Office"
 		},
 		{
 			"label" :           "Astra 1M",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "Sentinel-3B",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "SaudiSat-4",
 			"type" :            "Item",
 			"launchplaceName" : "Dombarovsky",
-			"latAndLong" :      "59.51666667,50.8",
+			"latAndLong" :       "50.8,59.51666667",
 			"spaceAgencyName" : "King Abdulaziz City for Science and Technology"
 		},
 		{
 			"label" :           "Deep Space Climate Observatory",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "SELENE",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
 		{
 			"label" :           "Sentinel-3A",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "USA-88",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Orbiting Carbon Observatory 2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-87",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Yubileiny",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 133",
-			"latAndLong" :      "40.84916667,62.88805556",
+			"latAndLong" :       "62.88805556,40.84916667",
 			"spaceAgencyName" : "JSC Information Satellite Systems"
 		},
 		{
 			"label" :           "USA-84",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Astra 2G",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "USA-85",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -23736,14 +23736,14 @@
 			"label" :           "Astra 2E",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "USA-83",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -23757,56 +23757,56 @@
 			"label" :           "Luna 3",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "USA-80",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Luna 2",
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Soviet Union"
 		},
 		{
 			"label" :           "Badr-II",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Space and Upper Atmosphere Research Commission"
 		},
 		{
 			"label" :           "USA-79",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "TIROS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "TIROS-2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Kosmos 110",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "S.P. Korolev Rocket and Space Corporation Energia"
 		},
 		{
@@ -23820,28 +23820,28 @@
 			"label" :           "USA-71",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "TIROS-N",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Oceanic and Atmospheric Administration"
 		},
 		{
 			"label" :           "EXOSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "European Space Agency"
 		},
 		{
 			"label" :           "Ofek-10",
 			"type" :            "Item",
 			"launchplaceName" : "Palmachim Airbase",
-			"latAndLong" :      "34.690555555,31.897777777",
+			"latAndLong" :       "31.897777777,34.690555555",
 			"spaceAgencyName" : "Ministry of Defense"
 		},
 		{
@@ -23855,14 +23855,14 @@
 			"label" :           "Kosmos 186 and Kosmos 188",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Earth Observing-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -23881,7 +23881,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23898,7 +23898,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23913,7 +23913,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -23927,14 +23927,14 @@
 			"label" :           "USA-63",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Soil Moisture Active Passive",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -23957,21 +23957,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "Compass-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "FH Aachen"
 		},
 		{
 			"label" :           "USA-66",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -23988,7 +23988,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -24011,21 +24011,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-64",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Vanguard 2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 18",
-			"latAndLong" :      "-80.5623,28.4493",
+			"latAndLong" :       "28.4493,-80.5623",
 			"spaceAgencyName" : "United States Department of the Navy"
 		},
 		{
@@ -24046,21 +24046,21 @@
 			"label" :           "Elektro-L No.1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Elektro-L No.2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 45",
-			"latAndLong" :      "63.653,45.943",
+			"latAndLong" :       "45.943,63.653",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Seasat",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -24074,105 +24074,105 @@
 			"label" :           "USA-54",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "IMS-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "SpaceX CRS-10",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "USA-50",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "SpaceX CRS-12",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "SpaceX CRS-11",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "SpaceX CRS-15",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "Explorer 9",
 			"type" :            "Item",
 			"launchplaceName" : "Wallops Flight Facility Launch Area 3",
-			"latAndLong" :      "-75.4725,37.8506",
+			"latAndLong" :       "37.8506,-75.4725",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Viking 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Viking 2",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "UoSat-1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "University of Surrey"
 		},
 		{
 			"label" :           "SpaceX CRS-14",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SpaceX"
 		},
 		{
 			"label" :           "USA-49",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-47",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Bion-M No.1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Russian Academy of Sciences"
 		},
 		{
@@ -24195,21 +24195,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Jiuquan Satellite Launch Center",
-			"latAndLong" :      "100.278611111,40.9675",
+			"latAndLong" :       "40.9675,100.278611111",
 			"spaceAgencyName" : "China National Space Administration"
 		},
 		{
 			"label" :           "Mars Cube One",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Ocean Surface Topography Mission",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : [
 				"CNES",
 				"EUMETSAT",
@@ -24228,77 +24228,77 @@
 			"label" :           "Kalpana-1",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Indian Space Research Organization"
 		},
 		{
 			"label" :           "Explorer 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Launch Complex 26",
-			"latAndLong" :      "-80.571388888,28.444166666",
+			"latAndLong" :       "28.444166666,-80.571388888",
 			"spaceAgencyName" : "Army Ballistic Missile Agency"
 		},
 		{
 			"label" :           "USA-42",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 17",
-			"latAndLong" :      "-80.5661,28.4467",
+			"latAndLong" :       "28.4467,-80.5661",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Dove-2",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Planet Labs"
 		},
 		{
 			"label" :           "ICESat",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Bulgaria 1300",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 43",
-			"latAndLong" :      "40.46694444,62.92",
+			"latAndLong" :       "62.92,40.46694444",
 			"spaceAgencyName" : "Space Research and Technology Institute"
 		},
 		{
 			"label" :           "USA-232",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-230",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Vermont Lunar CubeSat",
 			"type" :            "Item",
 			"launchplaceName" : "Mid-Atlantic Regional Spaceport Launch Pad 0",
-			"latAndLong" :      "-75.466666666,37.85",
+			"latAndLong" :       "37.85,-75.466666666",
 			"spaceAgencyName" : "Vermont Technical College"
 		},
 		{
 			"label" :           "Meteor-M No.1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "AGILE",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre Second Launch Pad",
-			"latAndLong" :      "80.2304,13.7199",
+			"latAndLong" :       "13.7199,80.2304",
 			"spaceAgencyName" : "Italian Space Agency"
 		},
 		{
@@ -24315,7 +24315,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -24334,21 +24334,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-233",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "STEX",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Launch Complex 576",
-			"latAndLong" :      "-120.619,34.7394",
+			"latAndLong" :       "34.7394,-120.619",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -24369,7 +24369,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -24390,14 +24390,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
 			"label" :           "USA-239",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -24416,14 +24416,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Navid",
 			"type" :            "Item",
 			"launchplaceName" : "Imam Khomeini Spaceport",
-			"latAndLong" :      "53.920798,35.23444",
+			"latAndLong" :       "35.23444,53.920798",
 			"spaceAgencyName" : "Iranian Space Agency"
 		},
 		{
@@ -24440,7 +24440,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24457,7 +24457,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24474,7 +24474,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24491,7 +24491,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24508,14 +24508,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Aqua",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -24529,84 +24529,84 @@
 			"label" :           "Hot Bird 13B",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 200",
-			"latAndLong" :      "63.02888889,46.03361111",
+			"latAndLong" :       "46.03361111,63.02888889",
 			"spaceAgencyName" : "Eutelsat"
 		},
 		{
 			"label" :           "AAUSAT3",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "Aalborg University"
 		},
 		{
 			"label" :           "SES-12",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "Transiting Exoplanet Survey Satellite",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-241",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-240",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "SES-10",
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "SES S.A."
 		},
 		{
 			"label" :           "USA-243",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-242",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-244",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-248",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "SpaceX COTS Demo Flight 1",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 40",
-			"latAndLong" :      "-80.5772,28.5621",
+			"latAndLong" :       "28.5621,-80.5772",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -24622,7 +24622,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -24638,7 +24638,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Soviet space program"
 		},
 		{
@@ -24653,14 +24653,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-214",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -24683,14 +24683,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-213",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -24713,14 +24713,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-212",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -24743,14 +24743,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-211",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -24773,14 +24773,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Solar Mesosphere Explorer",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -24811,14 +24811,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-223",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -24835,21 +24835,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "Queqiao",
 			"type" :            "Item",
 			"launchplaceName" : "Xichang Satellite Launch Center",
-			"latAndLong" :      "102.026555555,28.246016666",
+			"latAndLong" :       "28.246016666,102.026555555",
 			"spaceAgencyName" : "China National Space Administration"
 		},
 		{
 			"label" :           "USA-225",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 8",
-			"latAndLong" :      "-120.632,34.5762",
+			"latAndLong" :       "34.5762,-120.632",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -24868,21 +24868,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-224",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 6",
-			"latAndLong" :      "-120.626,34.5814",
+			"latAndLong" :       "34.5814,-120.626",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
 			"label" :           "USA-221",
 			"type" :            "Item",
 			"launchplaceName" : "Kodiak Launch Complex",
-			"latAndLong" :      "-152.338,57.4358",
+			"latAndLong" :       "57.4358,-152.338",
 			"spaceAgencyName" : "United States Air Force Academy"
 		},
 		{
@@ -24901,7 +24901,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24920,7 +24920,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24939,7 +24939,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -24956,14 +24956,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-227",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -24980,14 +24980,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-226",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25004,14 +25004,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "USA-229",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "National Reconnaissance Office"
 		},
 		{
@@ -25030,14 +25030,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
 			"label" :           "KANOPUS-V 1",
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome Site 31",
-			"latAndLong" :      "63.56416667,45.99611111",
+			"latAndLong" :       "45.99611111,63.56416667",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25058,7 +25058,7 @@
 			"label" :           "USA-273",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25079,14 +25079,14 @@
 			"label" :           "Hayato",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Kagoshima University"
 		},
 		{
 			"label" :           "USA-1 (satellite)",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25105,7 +25105,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25122,7 +25122,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25141,7 +25141,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25160,7 +25160,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Gagarin\'s Start",
-			"latAndLong" :      "63.342222222,45.920277777",
+			"latAndLong" :       "45.920277777,63.342222222",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25179,7 +25179,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25198,7 +25198,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25217,7 +25217,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25236,7 +25236,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25261,14 +25261,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-260",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25291,7 +25291,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Baikonur Cosmodrome",
-			"latAndLong" :      "63.3051,45.9648",
+			"latAndLong" :       "45.9648,63.3051",
 			"spaceAgencyName" : "Roscosmos State Corporation"
 		},
 		{
@@ -25318,7 +25318,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25332,56 +25332,56 @@
 			"label" :           "SRMSAT",
 			"type" :            "Item",
 			"launchplaceName" : "Satish Dhawan Space Centre First Launch Pad",
-			"latAndLong" :      "80.235,13.733",
+			"latAndLong" :       "13.733,80.235",
 			"spaceAgencyName" : "SRM University"
 		},
 		{
 			"label" :           "CloudSat",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "CHAMP",
 			"type" :            "Item",
 			"launchplaceName" : "Plesetsk Cosmodrome Site 132",
-			"latAndLong" :      "40.86972222,62.88361111",
+			"latAndLong" :       "62.88361111,40.86972222",
 			"spaceAgencyName" : "German Aerospace Center"
 		},
 		{
 			"label" :           "Alouette 1",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Defence Research and Development Canada"
 		},
 		{
 			"label" :           "USA-258",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-256",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "Alouette 2",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 2",
-			"latAndLong" :      "-120.62,34.7545",
+			"latAndLong" :       "34.7545,-120.62",
 			"spaceAgencyName" : "Defence Research and Development Canada"
 		},
 		{
 			"label" :           "USA-251",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 37",
-			"latAndLong" :      "-80.5668,28.532",
+			"latAndLong" :       "28.532,-80.5668",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25406,14 +25406,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Raijin-2",
 			"type" :            "Item",
 			"launchplaceName" : "Yoshinobu Launch Complex",
-			"latAndLong" :      "130.975,30.4022",
+			"latAndLong" :       "30.4022,130.975",
 			"spaceAgencyName" : "Tohoku University"
 		},
 		{
@@ -25431,8 +25431,8 @@
 				"Tanegashima Space Center"
 			],
 			"latAndLong" :      [
-				"130.975,30.4022",
-				"130.97,30.4"
+				 "30.4022,130.975",
+				 "30.4,130.97"
 			],
 			"spaceAgencyName" : "Japan Aerospace Exploration Agency"
 		},
@@ -25457,7 +25457,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25474,7 +25474,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25491,7 +25491,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25508,7 +25508,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25525,21 +25525,21 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "ESRO 2B",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 5",
-			"latAndLong" :      "-120.625,34.608",
+			"latAndLong" :       "34.608,-120.625",
 			"spaceAgencyName" : "European Space Research Organisation"
 		},
 		{
 			"label" :           "Huygens",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station",
-			"latAndLong" :      "-80.577777777,28.488888888",
+			"latAndLong" :       "28.488888888,-80.577777777",
 			"spaceAgencyName" : [
 				"European Space Agency",
 				"Italian Space Agency"
@@ -25559,7 +25559,7 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
@@ -25576,14 +25576,14 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "USA-262",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
@@ -25600,28 +25600,28 @@
 			],
 			"type" :            "Item",
 			"launchplaceName" : "Kennedy Space Center Launch Complex 39",
-			"latAndLong" :      "-80.6043,28.6084",
+			"latAndLong" :       "28.6084,-80.6043",
 			"spaceAgencyName" : "National Aeronautics and Space Administration"
 		},
 		{
 			"label" :           "Yohkoh",
 			"type" :            "Item",
 			"launchplaceName" : "Uchinoura Space Center",
-			"latAndLong" :      "131.081944444,31.251944444",
+			"latAndLong" :       "31.251944444,131.081944444",
 			"spaceAgencyName" : "Institute of Space and Astronautical Science"
 		},
 		{
 			"label" :           "OPS 9794",
 			"type" :            "Item",
 			"launchplaceName" : "Vandenberg AFB Space Launch Complex 3",
-			"latAndLong" :      "-120.589,34.643",
+			"latAndLong" :       "34.643,-120.589",
 			"spaceAgencyName" : "United States Air Force"
 		},
 		{
 			"label" :           "USA-265",
 			"type" :            "Item",
 			"launchplaceName" : "Cape Canaveral Air Force Station Space Launch Complex 41",
-			"latAndLong" :      "-80.5831,28.5833",
+			"latAndLong" :       "28.5833,-80.5831",
 			"spaceAgencyName" : "United States Air Force"
 		}
 	],
