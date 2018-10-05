@@ -1,0 +1,549 @@
+<?xml version='1.0'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+	xmlns:exhibit='http://simile.mit.edu/2006/11/exhibit#'
+	xmlns:a='http://www.w3.org/2000/01/rdf-schema#'
+	xmlns:b='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+	xmlns:c='http://simile.mit.edu/2006/11/exhibit#'
+	xmlns:d='http://trunk.simile-widgets.org/exhibit/examples/billionaires/property#'>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#John%20Davison%20Rockefeller'>
+	<a:label>John Davison Rockefeller</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>189.7</d:wealth>
+	<d:number>1</d:number>
+	<d:ageAtPeak>97</d:ageAtPeak>
+	<d:ageAtDeath>97</d:ageAtDeath>
+	<d:origin>Richford, NY</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Standard Oil Company</d:company>
+	<d:latLng>42.35623,-76.2007</d:latLng>
+	<d:label-link>/axowiki/index.php?title=John_Davison_Rockefeller&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Standard_Oil_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#John%20Davison%20Rockefeller</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Cornelius%20Vanderbilt'>
+	<a:label>Cornelius Vanderbilt</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>150.6</d:wealth>
+	<d:number>2</d:number>
+	<d:ageAtPeak>82</d:ageAtPeak>
+	<d:ageAtDeath>82</d:ageAtDeath>
+	<d:origin>New York City, NY</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Railroad, shipping</d:company>
+	<d:latLng>40.71449,-74.00713</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Cornelius_Vanderbilt&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Railroad&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Cornelius%20Vanderbilt</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Henry%20Ford'>
+	<a:label>Henry Ford</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>140.9</d:wealth>
+	<d:number>3</d:number>
+	<d:ageAtPeak>57</d:ageAtPeak>
+	<d:ageAtDeath>83</d:ageAtDeath>
+	<d:origin>Detroit, MI</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Ford Motor Company</d:company>
+	<d:latLng>42.33162,-83.04779</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Henry_Ford&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Ford_Motor_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Henry%20Ford</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#H.%20L.%20Hunt'>
+	<a:label>H. L. Hunt</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>122.0</d:wealth>
+	<d:number>4</d:number>
+	<d:ageAtPeak>75</d:ageAtPeak>
+	<d:ageAtDeath>85</d:ageAtDeath>
+	<d:origin>Ramsey, IL</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Hunt Refining Company</d:company>
+	<d:latLng>39.14464,-89.10827</d:latLng>
+	<d:label-link>/axowiki/index.php?title=H._L._Hunt&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Hunt_Refining_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#H.%20L.%20Hunt</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Andrew%20Carnegie'>
+	<a:label>Andrew Carnegie</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>120.0</d:wealth>
+	<d:number>5</d:number>
+	<d:ageAtPeak>75</d:ageAtPeak>
+	<d:ageAtDeath>83</d:ageAtDeath>
+	<d:origin>Scotland</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>Scotland</d:origin-country>
+	<d:company>Carnegie Steel Company</d:company>
+	<d:latLng>33.647491,-98.461905</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Andrew_Carnegie&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Carnegie_Steel_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Andrew%20Carnegie</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#John%20Jacob%20Astor'>
+	<a:label>John Jacob Astor</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>103.4</d:wealth>
+	<d:number>6</d:number>
+	<d:ageAtPeak>84</d:ageAtPeak>
+	<d:ageAtDeath>84</d:ageAtDeath>
+	<d:origin>Walldorf, Germany</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>Germany</d:origin-country>
+	<d:company>American Fur Company</d:company>
+	<d:latLng>50.005067,8.574268</d:latLng>
+	<d:label-link>/axowiki/index.php?title=John_Jacob_Astor&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Germany&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=American_Fur_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#John%20Jacob%20Astor</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#William%20Henry%20Gates%20III'>
+	<a:label>William Henry Gates III</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>100.0</d:wealth>
+	<d:number>7</d:number>
+	<d:ageAtPeak>44</d:ageAtPeak>
+	<d:ageAtDeath>51</d:ageAtDeath>
+	<d:origin>Seattle, WA</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Microsoft</d:company>
+	<d:latLng>47.60342,-122.32971</d:latLng>
+	<d:label-link>/axowiki/index.php?title=William_Henry_Gates_III&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Microsoft&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#William%20Henry%20Gates%20III</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Carlos%20Slim%20Helu'>
+	<a:label>Carlos Slim Helu</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>68.7</d:wealth>
+	<d:number>8</d:number>
+	<d:ageAtPeak>67</d:ageAtPeak>
+	<d:ageAtDeath>67</d:ageAtDeath>
+	<d:origin>Mexico City, Mexico</d:origin>
+	<d:residence>Mexico</d:residence>
+	<d:origin-country>Mexico</d:origin-country>
+	<d:company>Telmex</d:company>
+	<d:latLng>19.410636,-99.130588</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Carlos_Slim_Helu&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Mexico&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Mexico&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Telmex&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Carlos%20Slim%20Helu</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Larry%20Ellison'>
+	<a:label>Larry Ellison</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>58.0</d:wealth>
+	<d:number>9</d:number>
+	<d:ageAtPeak>55</d:ageAtPeak>
+	<d:ageAtDeath>61</d:ageAtDeath>
+	<d:origin>New York City, NY</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Oracle Corporation</d:company>
+	<d:latLng>40.71449,-74.00713</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Larry_Ellison&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Oracle_Corporation&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Larry%20Ellison</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Warren%20Buffett'>
+	<a:label>Warren Buffett</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>52.4</d:wealth>
+	<d:number>10</d:number>
+	<d:ageAtPeak>76</d:ageAtPeak>
+	<d:ageAtDeath>76</d:ageAtDeath>
+	<d:origin>Omaha, NE</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Berkshire Hathaway</d:company>
+	<d:latLng>41.2607,-95.93989</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Warren_Buffett&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Berkshire_Hathaway&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Warren%20Buffett</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Howard%20Hughes'>
+	<a:label>Howard Hughes</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>41.4</d:wealth>
+	<d:number>12</d:number>
+	<d:ageAtPeak>45</d:ageAtPeak>
+	<d:ageAtDeath>50</d:ageAtDeath>
+	<d:origin>Houston, TX</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>TWA</d:company>
+	<d:latLng>29.76047,-95.36982</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Howard_Hughes&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=TWA&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Howard%20Hughes</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Paul%20Allen'>
+	<a:label>Paul Allen</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>40.0</d:wealth>
+	<d:number>13</d:number>
+	<d:ageAtPeak>48</d:ageAtPeak>
+	<d:ageAtDeath>53</d:ageAtDeath>
+	<d:origin>Seattle, WA</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Microsoft</d:company>
+	<d:latLng>47.60342,-122.32971</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Paul_Allen&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Microsoft&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Paul%20Allen</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#John%20Werner%20Kluge'>
+	<a:label>John Werner Kluge</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>40.0</d:wealth>
+	<d:number>14</d:number>
+	<d:ageAtPeak>70</d:ageAtPeak>
+	<d:ageAtDeath>92</d:ageAtDeath>
+	<d:origin>Chemnitz, Germany</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>Germany</d:origin-country>
+	<d:company>Metropolitan Broadcasting Company</d:company>
+	<d:latLng>50.832503,12.924694</d:latLng>
+	<d:label-link>/axowiki/index.php?title=John_Werner_Kluge&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Germany&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Metropolitan_Broadcasting_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#John%20Werner%20Kluge</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Sultan%20Hassanal%20Bolkiah'>
+	<a:label>Sultan Hassanal Bolkiah</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>38.0</d:wealth>
+	<d:number>15</d:number>
+	<d:ageAtPeak>51</d:ageAtPeak>
+	<d:ageAtDeath>60</d:ageAtDeath>
+	<d:origin>Brunei</d:origin>
+	<d:residence>Brunei</d:residence>
+	<d:origin-country>Brunei</d:origin-country>
+	<d:company>Kral</d:company>
+	<d:latLng>4.525134,114.71545</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Sultan_Hassanal_Bolkiah&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Brunei&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Brunei&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Kral&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Sultan%20Hassanal%20Bolkiah</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Ingvar%20Kamprad'>
+	<a:label>Ingvar Kamprad</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>33.0</d:wealth>
+	<d:number>16</d:number>
+	<d:ageAtPeak>80</d:ageAtPeak>
+	<d:ageAtDeath>80</d:ageAtDeath>
+	<d:origin>Sweden</d:origin>
+	<d:residence>Switzerland</d:residence>
+	<d:origin-country>Sweden</d:origin-country>
+	<d:company>IKEA</d:company>
+	<d:latLng>62.098297,17.384786</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Ingvar_Kamprad&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Sweden&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Switzerland&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=IKEA&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Ingvar%20Kamprad</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Lakshmi%20Mittal'>
+	<a:label>Lakshmi Mittal</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>32.0</d:wealth>
+	<d:number>30</d:number>
+	<d:ageAtPeak>54</d:ageAtPeak>
+	<d:ageAtDeath>54</d:ageAtDeath>
+	<d:origin>India</d:origin>
+	<d:residence>England</d:residence>
+	<d:origin-country>India</d:origin-country>
+	<d:company>Mittal Steel Company</d:company>
+	<d:latLng>21.125673,82.397136</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Lakshmi_Mittal&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=India&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=England&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Mittal_Steel_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Lakshmi%20Mittal</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#J.%20Paul%20Getty'>
+	<a:label>J. Paul Getty</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>27.3</d:wealth>
+	<d:number>18</d:number>
+	<d:ageAtPeak>83</d:ageAtPeak>
+	<d:ageAtDeath>83</d:ageAtDeath>
+	<d:origin>Minneapolis, MN</d:origin>
+	<d:residence>England</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Getty Oil Company</d:company>
+	<d:latLng>44.9785,-93.26529</d:latLng>
+	<d:label-link>/axowiki/index.php?title=J._Paul_Getty&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=England&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Getty_Oil_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#J.%20Paul%20Getty</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Theo%20Albrecht%20%26%20Karl%20Albrecht'>
+	<a:label>Theo Albrecht & Karl Albrecht</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>26.8</d:wealth>
+	<d:number>19</d:number>
+	<d:ageAtPeak>-</d:ageAtPeak>
+	<d:ageAtDeath>-</d:ageAtDeath>
+	<d:origin>Germany</d:origin>
+	<d:residence>Germany</d:residence>
+	<d:origin-country>Germany</d:origin-country>
+	<d:company>Aldi</d:company>
+	<d:latLng>51.163475,10.454239</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Theo_Albrecht&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Germany&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Germany&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Aldi&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Theo%20Albrecht%20%26%20Karl%20Albrecht</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Gordon%20Moore'>
+	<a:label>Gordon Moore</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>26.0</d:wealth>
+	<d:number>20</d:number>
+	<d:ageAtPeak>72</d:ageAtPeak>
+	<d:ageAtDeath>88</d:ageAtDeath>
+	<d:origin>San Francisco, CA</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Intel Corporation</d:company>
+	<d:latLng>37.77916,-122.42009</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Gordon_Moore&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Intel_Corporation&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Gordon%20Moore</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#King%20Fahd'>
+	<a:label>King Fahd</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>25.0</d:wealth>
+	<d:number>21</d:number>
+	<d:ageAtPeak>75</d:ageAtPeak>
+	<d:ageAtDeath>83</d:ageAtDeath>
+	<d:origin>Saudi Arabia</d:origin>
+	<d:residence>Saudi Arabia</d:residence>
+	<d:origin-country>Saudi Arabia</d:origin-country>
+	<d:company>Monarch</d:company>
+	<d:latLng>24.126613,45.081137</d:latLng>
+	<d:label-link>/axowiki/index.php?title=King_Fahd&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Saudi_Arabia&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Saudi_Arabia&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Monarch&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#King%20Fahd</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Prince%20Al-Waleed%20bin%20Talal'>
+	<a:label>Prince Al-Waleed bin Talal</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>23.7</d:wealth>
+	<d:number>22</d:number>
+	<d:ageAtPeak>48</d:ageAtPeak>
+	<d:ageAtDeath>48</d:ageAtDeath>
+	<d:origin>Saudi Arabia</d:origin>
+	<d:residence>Saudi Arabia</d:residence>
+	<d:origin-country>Saudi Arabia</d:origin-country>
+	<d:company>Kingdom Holding Company</d:company>
+	<d:latLng>24.126613,45.081137</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Al-Waleed_bin_Talal&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Saudi_Arabia&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Saudi_Arabian&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Kingdom_Holding_Company&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Prince%20Al-Waleed%20bin%20Talal</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Sam%20Walton'>
+	<a:label>Sam Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>22.5</d:wealth>
+	<d:number>23</d:number>
+	<d:ageAtPeak>76</d:ageAtPeak>
+	<d:ageAtDeath>76</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Sam_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Sam%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Bernard%20Arnault'>
+	<a:label>Bernard Arnault</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>21.5</d:wealth>
+	<d:number>24</d:number>
+	<d:ageAtPeak>57</d:ageAtPeak>
+	<d:ageAtDeath>57</d:ageAtDeath>
+	<d:origin>France</d:origin>
+	<d:residence>France</d:residence>
+	<d:origin-country>France</d:origin-country>
+	<d:company>LVMH</d:company>
+	<d:latLng>46.226699,2.209119</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Bernard_Arnault&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=France&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=France&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=LVMH&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Bernard%20Arnault</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#King%20Abdullah'>
+	<a:label>King Abdullah</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>21.0</d:wealth>
+	<d:number>25</d:number>
+	<d:ageAtPeak>82</d:ageAtPeak>
+	<d:ageAtDeath>82</d:ageAtDeath>
+	<d:origin>Saudi Arabia</d:origin>
+	<d:residence>Saudi Arabia</d:residence>
+	<d:origin-country>Saudi Arabia</d:origin-country>
+	<d:company>Monarch</d:company>
+	<d:latLng>24.126613,45.081137</d:latLng>
+	<d:label-link>/axowiki/index.php?title=King_Abdullah&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=Saudi_Arabia&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=Saudi_Arabia&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Monarch&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#King%20Abdullah</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Jim%20Walton'>
+	<a:label>Jim Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.8</d:wealth>
+	<d:number>26</d:number>
+	<d:ageAtPeak>56</d:ageAtPeak>
+	<d:ageAtDeath>52</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Jim_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Jim%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#John%20Walton'>
+	<a:label>John Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.7</d:wealth>
+	<d:number>27</d:number>
+	<d:ageAtPeak>55</d:ageAtPeak>
+	<d:ageAtDeath>51</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=John_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#John%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Samuel%20Robson%20Walton'>
+	<a:label>Samuel Robson Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.6</d:wealth>
+	<d:number>28</d:number>
+	<d:ageAtPeak>61</d:ageAtPeak>
+	<d:ageAtDeath>57</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Samuel_Robson_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Samuel%20Robson%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Alice%20Walton'>
+	<a:label>Alice Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.5</d:wealth>
+	<d:number>29</d:number>
+	<d:ageAtPeak>54</d:ageAtPeak>
+	<d:ageAtDeath>50</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Alice_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Alice%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Helen%20Walton'>
+	<a:label>Helen Walton</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.5</d:wealth>
+	<d:number>30</d:number>
+	<d:ageAtPeak>82</d:ageAtPeak>
+	<d:ageAtDeath>87</d:ageAtDeath>
+	<d:origin>Kingfisher, OK</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Wal-Mart</d:company>
+	<d:latLng>35.86036,-97.93266</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Helen_Walton&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Wal-Mart&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Helen%20Walton</exhibit:origin>
+</rdf:Description>
+<rdf:Description rdf:about='http://trunk.simile-widgets.org/exhibit/examples/billionaires/item#Sheldon%20Adelson'>
+	<a:label>Sheldon Adelson</a:label>
+	<b:type>Billionaire</b:type>
+	<d:wealth>20.5</d:wealth>
+	<d:number>31</d:number>
+	<d:ageAtPeak>72</d:ageAtPeak>
+	<d:ageAtDeath>72</d:ageAtDeath>
+	<d:origin>Las Vegas, NV</d:origin>
+	<d:residence>United States</d:residence>
+	<d:origin-country>United States</d:origin-country>
+	<d:company>Las Vegas Sands</d:company>
+	<d:latLng>36.17188,-115.13974</d:latLng>
+	<d:label-link>/axowiki/index.php?title=Sheldon_Adelson&action=edit</d:label-link>
+	<d:origin-link>/axowiki/index.php?title=United_States&action=edit</d:origin-link>
+	<d:residence-link>/axowiki/index.php?title=United_States&action=edit</d:residence-link>
+	<d:company-link>/axowiki/index.php?title=Las_Vegas_Sands&action=edit</d:company-link>
+	<exhibit:origin>http://trunk.simile-widgets.org/exhibit/examples/billionaires/billionaires.html#Sheldon%20Adelson</exhibit:origin>
+</rdf:Description>
+
+</rdf:RDF>
