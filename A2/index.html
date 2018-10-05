@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>EXHIBIT PLATFORM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+<body>
+    <h1>HELLO!</h1>
+    <link href="data1.txt" rel="exhibit/data" type="text/tsv"/>
+    <div data-ex-role="view" data-ex-view-class="Map" data-ex-latlng=".location.latitude.longitude"
+     data-ex-zoom="16"  data-ex-top-band-pixels-per-unit="25px">
+    </div>
+    <script src="main.js"></script>
+    <script src="http://api.simile-widgets.org/exhibit/STABLE/exhibit-api.js" ></script>
+    <script src="http://trunk.simile-widgets.org/exhibit/api/extensions/map/map-extension.js"></script>
+</body>
+</html>
+<!-- data-ex-center="30.044939,31.23680"-->
+<!--
+    PREFIX dbo:<http://dbpedia.org/ontology/>
+PREFIX dbr:<http://dbpedia.org/resource/>
+PREFIX dbp:<http://dbpedia.org/property/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+
+SELECT DISTINCT ?label
+(SAMPLE(?spaceAgencyName) as ?spaceAgencyName)
+(SAMPLE(?launchPlaceName) as ?launchPlaceName)
+?latitude ?longitude ?astroName
+(SAMPLE(?birthPlaceName) as ?birthPlaceName)
+
+WHERE {
+  {
+    SELECT ?spaceMission (SAMPLE(?spaceAgency) as ?spaceAgency) (SAMPLE(?launchPlace) as ?launchPlace) ?astro ?birthPlace
+    WHERE {
+      ?spaceMission dbp:operator ?spaceAgency .
+      ?spaceMission dbp:launchSite ?launchPlace .
+      OPTIONAL {
+        ?spaceMission dbp:crewMembers ?astro .
+        ?astro dbo:birthPlace ?birthPlace .
+      }
+    }
+  }
+  ?spaceMission rdfs:label ?label .
+  ?spaceAgency rdfs:label ?spaceAgencyName .
+  ?launchPlace rdfs:label ?launchPlaceName .
+  OPTIONAL {
+      ?launchPlace geo:lat ?latitude ;
+                   geo:long ?longitude .
+      ?astro rdfs:label ?astroName .
+      ?birthPlace rdfs:label ?birthPlaceName .
+      FILTER (lang(?astroName)="en") .
+      FILTER (lang(?birthPlaceName)="en") .
+  }
+
+  FILTER (lang(?label)="en") .
+  FILTER (lang(?spaceAgencyName)="en") .
+  FILTER (lang(?launchPlaceName )="en") .
+}
+-->
