@@ -1,4 +1,4 @@
- label 	 spaceAgencyName 	 launchPlaceName 	 latitude 	 longitude 	 astroName 	 birthPlaceName 
+ label 	 spaceAgencyName 	 launchPlaceName 	 latLong 	 astroName 	 birthPlaceName 
  STS-73 	 NASA 	 Kennedy Space Center Launch Complex 39 	28.6084,-80.6043	 Kathryn C. Thornton 	 Montgomery, Alabama 
  UNIFORM-1 	 Wakayama University 	 Yoshinobu Launch Complex 				
  Soyuz TMA-12M 	 Roskosmos 	 Gagarin's Start 	45.9203,63.3422	 Oleg Artemyev 	 Latvia 
